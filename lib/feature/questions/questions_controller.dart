@@ -7,11 +7,11 @@ abstract class QuestionsController extends MVController<QuestionsModel> {
 }
   
 class QuestionsControllerImplementation extends QuestionsController {
-  QuestionsControllerImplementation() : super(const QuestionsModel(count: 0));
+  QuestionsControllerImplementation() : super(const QuestionsModel());
   
   @override
   void dummy() {
     // Update the model
-    model = QuestionsModel(count: model.count - 1);
+    model = const QuestionsModel();
   }
 }

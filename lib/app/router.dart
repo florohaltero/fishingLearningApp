@@ -5,12 +5,35 @@ final GoRouter _appRouter = GoRouter(
   routes: <RouteBase>[
     GoRoute(
       path: '/',
-
       builder: (BuildContext context, GoRouterState state) {
         final controller = MainControllerImplementation();
         return MainView(controller: controller);
       },
-
+      // routes: <RouteBase>[
+      //   GoRoute(
+      //     path: '/questions',
+      //     builder: (BuildContext context, GoRouterState state) {
+      //       final controller =
+      //           CategoryControllerImplementation(TargetType.list);
+      //       return CategoryView(controller: controller);
+      //     },
+      //   ),
+      //   GoRoute(
+      //     path: '/practice',
+      //     builder: (BuildContext context, GoRouterState state) {
+      //       final controller =
+      //           CategoryControllerImplementation(TargetType.single);
+      //       return CategoryView(controller: controller);
+      //     },
+      //   ),
+      //   GoRoute(
+      //     path: '/exams',
+      //     builder: (BuildContext context, GoRouterState state) {
+      //       final controller = ExamsControllerImplementation();
+      //       return ExamsView(controller: controller);
+      //     },
+      //   ),
+      // ],
     ),
     GoRoute(
       path: '/questions',

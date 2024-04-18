@@ -12,6 +12,6 @@ class PracticeControllerImplementation extends PracticeController {
   @override
   void dummy() {
     // Update the model
-    model = PracticeModel(count: model.count - 1)
+    model = PracticeModel(count: model.count - 1);
   }
 }

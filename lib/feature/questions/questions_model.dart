@@ -1,5 +1,5 @@
 class QuestionsModel {
-  const QuestionsModel({required this.count});
+  const QuestionsModel();
 
-  final int count;
+
 }

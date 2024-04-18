@@ -1,11 +1,9 @@
-import 'package:angelschein_lernen/app/app.dart';
 import 'package:angelschein_lernen/feature/category/category_controller.dart';
 import 'package:angelschein_lernen/feature/category/category_view.dart';
 import 'package:angelschein_lernen/feature/questions/questions_controller.dart';
 import 'package:angelschein_lernen/feature/questions/questions_view.dart';
 import 'package:flutter/material.dart';
 import 'package:formigas_mvc/formigas_mvc.dart';
-import 'package:go_router/go_router.dart';
 import 'main_controller.dart';
 import 'main_model.dart';
 
@@ -22,9 +20,9 @@ class MainView extends MViewC<MainController, MainModel> {
     body: IndexedStack(
       index: model.index,
       children: <Widget>[
-        CategoryView(controller: CategoryControllerImplementation()),
+        CategoryView(controller: CategoryQuestionsControllerImplementation()),
+        CategoryView(controller: CategoryPracticeControllerImplementation()),
         QuestionsView(controller: QuestionsControllerImplementation()),
-        CategoryView(controller: CategoryControllerImplementation()),
       ],
     ),
     bottomNavigationBar: BottomNavigationBar(
