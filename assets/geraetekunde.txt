@@ -1,0 +1,944 @@
+[
+  {
+    "Nr": "0510",
+    "Frage": "Welche Eigenschaften sollte eine Angelrute haben?",
+    "Antwort 1": "Gute Abstimmung von Aktion, Wurfgewicht und Elastizität",
+    "Antwort 2": "Schnelle Aktion",
+    "Antwort 3": "Mittlere Aktion",
+    "answers": [
+      "Gute Abstimmung von Aktion, Wurfgewicht und Elastizität"
+    ]
+  },
+  {
+    "Nr": "0511",
+    "Frage": "Worin liegt der Unterschied zwischen einer monofilen und einer multifilen Schnur?",
+    "Antwort 1": "Multifile Schnur ist dehnungsärmer und hat eine relativ geringe Tragkraft",
+    "Antwort 2": "Monofile Schnur ist dehnungsstärker und hat eine relativ hohe Tragkraft",
+    "Antwort 3": "Multifile Schnur ist dehnungsärmer und hat eine relativ hohe Tragkraft",
+    "answers": [
+      "Multifile Schnur ist dehnungsärmer und hat eine relativ hohe Tragkraft"
+    ]
+  },
+  {
+    "Nr": "0512",
+    "Frage": "Was wird als Rod-Pod bezeichnet?",
+    "Antwort 1": "Spezieller englischer Hakenlöser zum Entfernen tief geschluckter Haken",
+    "Antwort 2": "Rutenablage, die vorwiegend beim Karpfenangeln eingesetzt wird",
+    "Antwort 3": "Rutenfutteral zum Aufbewahren von Angelruten",
+    "answers": [
+      "Rutenablage, die vorwiegend beim Karpfenangeln eingesetzt wird"
+    ]
+  },
+  {
+    "Nr": "0513",
+    "Frage": "Wie ist das Hakengrößen-System zu lesen?",
+    "Antwort 1": "Von der Größe 24 (sehr klein) über 1 (groß) über 1/0 (groß) nach 12/0 (sehr groß)",
+    "Antwort 2": "Von der Größe 1 (sehr klein) über 24 (groß) über 24 /0 (groß) nach 24/24 (sehr groß)",
+    "Antwort 3": "Von der Größe A (sehr klein) nach der Größe G (sehr groß)",
+    "answers": [
+      "Von der Größe 24 (sehr klein) über 1 (groß) über 1/0 (groß) nach 12/0 (sehr groß)"
+    ]
+  },
+  {
+    "Nr": "0514",
+    "Frage": "Was wird als Boilie bezeichnet?",
+    "Antwort 1": "Spezieller, harter Teigköder in Kugelform, der beim Friedfischen eingesetzt wird",
+    "Antwort 2": "Kunstköder mit Fransen, der zum Raubfischangeln eingesetzt wird",
+    "Antwort 3": "Bevorzugter Köder beim Dorschangeln",
+    "answers": [
+      "Spezieller, harter Teigköder in Kugelform, der beim Friedfischen eingesetzt wird"
+    ]
+  },
+  {
+    "Nr": "0515",
+    "Frage": "Bei welchem Knoten handelt es sich um einen Verbindungsknoten von zwei Schnüren?",
+    "Antwort 1": "Doppelter Achterknoten",
+    "Antwort 2": "Stopperknoten",
+    "Antwort 3": "Doppelter Grinner-Knoten",
+    "answers": [
+      "Doppelter Grinner-Knoten"
+    ]
+  },
+  {
+    "Nr": "0516",
+    "Frage": "Wo werden Pilker bevorzugt eingesetzt?",
+    "Antwort 1": "Beim Fliegenfischen",
+    "Antwort 2": "Beim Angeln auf bestimmte Meeresfische",
+    "Antwort 3": "Beim Karpfenangeln",
+    "answers": [
+      "Beim Angeln auf bestimmte Meeresfische"
+    ]
+  },
+  {
+    "Nr": "0517",
+    "Frage": "Welches Vorfachmaterial ist beim Angeln auf Hecht zu verwenden?",
+    "Antwort 1": "Fast durchsichtiges Monofilvorfach",
+    "Antwort 2": "Aus mehreren Fäden geknüpftes Multifilvorfach",
+    "Antwort 3": "Bissfestes Stahlvorfach",
+    "answers": [
+      "Bissfestes Stahlvorfach"
+    ]
+  },
+  {
+    "Nr": "0518",
+    "Frage": "Wonach sollte die Schnurstärke der Hauptschnur ausgewählt werden?",
+    "Antwort 1": "Nach der Kraft des Fisches und den zu erwartenden Hindernissen im Wasser",
+    "Antwort 2": "Nach den Zähnen im Fischmaul",
+    "Antwort 3": "Nach der Länge der Angelrute",
+    "answers": [
+      "Nach der Kraft des Fisches und den zu erwartenden Hindernissen im Wasser"
+    ]
+  },
+  {
+    "Nr": "0519",
+    "Frage": "Wie wird die Wurfweite durch die Schnurdicke beeinflusst?",
+    "Antwort 1": "Mit dünnen Hauptschnüren werden größere Wurfweiten erzielt",
+    "Antwort 2": "Mit dicken Hauptschnüren werden größere Wurfweiten erzielt",
+    "Antwort 3": "Es macht keinen Unterschied",
+    "answers": [
+      "Mit dünnen Hauptschnüren werden größere Wurfweiten erzielt"
+    ]
+  },
+  {
+    "Nr": "0520",
+    "Frage": "Was ist ein Caster?",
+    "Antwort 1": "Haken, der beim Friedfischangeln eingesetzt wird",
+    "Antwort 2": "Kreuzung eines Tauwurmes mit einem Rotwurm",
+    "Antwort 3": "Made im Verpuppungsstadium",
+    "answers": [
+      "Made im Verpuppungsstadium"
+    ]
+  },
+  {
+    "Nr": "0521",
+    "Frage": "Mit welchem Rutentyp wird ohne Angelrolle gefischt?",
+    "Antwort 1": "Stipprute",
+    "Antwort 2": "Fliegenrute",
+    "Antwort 3": "Bologneserute",
+    "answers": [
+      "Stipprute"
+    ]
+  },
+  {
+    "Nr": "0522",
+    "Frage": "Was versteht man unter der Aktion einer Rute?",
+    "Antwort 1": "Das Biegeverhalten der Rute unter Belastung",
+    "Antwort 2": "Weitestmöglicher Wurf mit einer Rute",
+    "Antwort 3": "Aktionsradius",
+    "answers": [
+      "Das Biegeverhalten der Rute unter Belastung"
+    ]
+  },
+  {
+    "Nr": "0523",
+    "Frage": "Was ist zur schonenden Behandlung von Teleskopruten zu beachten?",
+    "Antwort 1": "Spitze wird stets zuletzt eingeschoben",
+    "Antwort 2": "Spitze muss beim Zusammenschieben zuerst eingeschoben werden",
+    "Antwort 3": "Vorsichtiges Zusammenschieben der einzelnen Teleskopteile",
+    "answers": [
+      "Spitze wird stets zuletzt eingeschoben",
+      "Vorsichtiges Zusammenschieben der einzelnen Teleskopteile"
+    ]
+  },
+  {
+    "Nr": "0524",
+    "Frage": "Was ist eine Teleskoprute?",
+    "Antwort 1": "Eine zusammenschiebbare Angelrute",
+    "Antwort 2": "Eine gezapfte, leichte Vollglasrute",
+    "Antwort 3": "Eine besonders lange, mit Hülsen versehene Angelrute",
+    "answers": [
+      "Eine zusammenschiebbare Angelrute"
+    ]
+  },
+  {
+    "Nr": "0525",
+    "Frage": "Welche Materialien werden heute überwiegend bei der Herstellung von Angelrutenrohlingen verwendet?",
+    "Antwort 1": "Glasfaser, Kohlefaser",
+    "Antwort 2": "Holz, Bambusrohr, Tonkinrohr",
+    "Antwort 3": "Metall",
+    "answers": [
+      "Glasfaser, Kohlefaser"
+    ]
+  },
+  {
+    "Nr": "0526",
+    "Frage": "Was ist bei den Schnurlaufringen immer wieder zu kontrollieren?",
+    "Antwort 1": "Ob sich Schnurfett abgelagert hat",
+    "Antwort 2": "Ob sie eingeschliffen sind und Rillen oder Risse aufweisen",
+    "Antwort 3": "Ob die Ringbindungen noch fest sind",
+    "answers": [
+      "Ob sie eingeschliffen sind und Rillen oder Risse aufweisen",
+      "Ob die Ringbindungen noch fest sind"
+    ]
+  },
+  {
+    "Nr": "0527",
+    "Frage": "Was ist beim Angeln mit einer Kohlefaserrute besonders zu beachten?",
+    "Antwort 1": "Angelrute von elektrischen Freileitungen fernhalten, bei aufziehendem Gewitter das Angeln einstellen",
+    "Antwort 2": "Angelrute gibt beim Anhieb viel Kraft ab, es besteht die Gefahr des Schnurbruchs",
+    "Antwort 3": "Angelrute ist nur geübten Angelfischern zu empfehlen",
+    "answers": [
+      "Angelrute von elektrischen Freileitungen fernhalten, bei aufziehendem Gewitter das Angeln einstellen"
+    ]
+  },
+  {
+    "Nr": "0528",
+    "Frage": "Wo am Griffteil befindet sich die Rolle bei der Einhand-Fliegenrute?",
+    "Antwort 1": "In der Mitte",
+    "Antwort 2": "Im oberen Drittel",
+    "Antwort 3": "Am unteren Ende",
+    "answers": [
+      "Am unteren Ende"
+    ]
+  },
+  {
+    "Nr": "0529",
+    "Frage": "Wie lang sollte die Kopfschnur bei der Stipprute sein?",
+    "Antwort 1": "Halb so lang wie die Stipprute",
+    "Antwort 2": "So lang wie die Stipprute",
+    "Antwort 3": "Eineinhalb mal so lang wie die Stipprute",
+    "answers": [
+      "So lang wie die Stipprute"
+    ]
+  },
+  {
+    "Nr": "0530",
+    "Frage": "Welche Angelgerätezusammenstellung ist aufeinander abgestimmt?",
+    "Antwort 1": "Lange, mittelstarke Rute – 0,35 mm monofile Schnurstärke – Hakengröße 3",
+    "Antwort 2": "Lange, weiche Rute – 0,55 mm monofile Schnurstärke – Hakengröße 1",
+    "Antwort 3": "Lange, harte Rute – 0,12 mm monofile Schnurstärke – Hakengröße 6",
+    "answers": [
+      "Lange, mittelstarke Rute – 0,35 mm monofile Schnurstärke – Hakengröße 3"
+    ]
+  },
+  {
+    "Nr": "0531",
+    "Frage": "Wie wird normalerweise die Schnurbremse bei der Stationärrolle für den Drill eingestellt?",
+    "Antwort 1": "An die Tragkraft der Schnur angepasst",
+    "Antwort 2": "Etwas stärker als die Reißfestigkeit der Schnur",
+    "Antwort 3": "So stark, dass der Fisch keine Schnur abziehen kann",
+    "answers": [
+      "An die Tragkraft der Schnur angepasst"
+    ]
+  },
+  {
+    "Nr": "0532",
+    "Frage": "Für welche Angelmethode sind Multi- und Stationärrolle nicht geeignet?",
+    "Antwort 1": "Fliegenfischen",
+    "Antwort 2": "Spinnfischen",
+    "Antwort 3": "Grundfischen",
+    "answers": [
+      "Fliegenfischen"
+    ]
+  },
+  {
+    "Nr": "0533",
+    "Frage": "Was ist für die Stationärrolle charakteristisch?",
+    "Antwort 1": "Schnurspule steht fest",
+    "Antwort 2": "Schnurspule dreht sich",
+    "Antwort 3": "Schnurfangbügel fehlt",
+    "answers": [
+      "Schnurspule steht fest"
+    ]
+  },
+  {
+    "Nr": "0534",
+    "Frage": "Was ist für die Multirolle charakteristisch?",
+    "Antwort 1": "Schnurspule steht fest",
+    "Antwort 2": "Schnurspule dreht sich",
+    "Antwort 3": "Besonders großer Schnurfangbügel",
+    "answers": [
+      "Schnurspule dreht sich"
+    ]
+  },
+  {
+    "Nr": "0535",
+    "Frage": "Warum sind Rollen mit geringem Schnurfassungsvermögen für den Fang großer Raubfische ungeeignet?",
+    "Antwort 1": "Da sie die starke Belastung nicht aushalten",
+    "Antwort 2": "Da solche Rollen nicht genügend starke Angelschnur aufnehmen können",
+    "Antwort 3": "Da bei diesen Modellen die Schnurbreite nicht ausreicht",
+    "answers": [
+      "Da solche Rollen nicht genügend starke Angelschnur aufnehmen können"
+    ]
+  },
+  {
+    "Nr": "0536",
+    "Frage": "Zu welcher Rolle gehört ein Schnurfangbügel?",
+    "Antwort 1": "Multirolle",
+    "Antwort 2": "Fliegenrolle",
+    "Antwort 3": "Stationärrolle",
+    "answers": [
+      "Stationärrolle"
+    ]
+  },
+  {
+    "Nr": "0537",
+    "Frage": "Welche Vorrichtung an einer Angelrolle verhindert einen Schnurbruch beim Drill eines Fisches?",
+    "Antwort 1": "Schnurbremse",
+    "Antwort 2": "Übersetzung",
+    "Antwort 3": "Rücklaufsperre",
+    "answers": [
+      "Schnurbremse"
+    ]
+  },
+  {
+    "Nr": "0538",
+    "Frage": "Was ist eine Multirolle?",
+    "Antwort 1": "Einfache Rolle ohne Übersetzung",
+    "Antwort 2": "Rolle mit Übersetzung und rotierender Spule",
+    "Antwort 3": "Rolle mit nicht rotierender Spule",
+    "answers": [
+      "Rolle mit Übersetzung und rotierender Spule"
+    ]
+  },
+  {
+    "Nr": "0539",
+    "Frage": "Bei welchem Rollentyp dreht sich beim Werfen die Schnurspule?",
+    "Antwort 1": "Multirolle",
+    "Antwort 2": "Stationärrolle",
+    "Antwort 3": "Kapselrolle",
+    "answers": [
+      "Multirolle"
+    ]
+  },
+  {
+    "Nr": "0540",
+    "Frage": "Welche Aufgabe hat die einstellbare Schnurbremse?",
+    "Antwort 1": "Die Bremswirkung der Tragkraft der Schnur anzupassen",
+    "Antwort 2": "Die Bremse nach der Größe des zu erwartenden Fisches einzustellen",
+    "Antwort 3": "Einstellung der Bremswirkung, damit der Fisch keine Schnur abziehen kann",
+    "answers": [
+      "Die Bremswirkung der Tragkraft der Schnur anzupassen"
+    ]
+  },
+  {
+    "Nr": "0541",
+    "Frage": "Welcher Teil der Angelschnur wird am stärksten beansprucht?",
+    "Antwort 1": "Die ersten Meter hinter dem Haken",
+    "Antwort 2": "Im mittleren Teil, wegen der Wirkung der Schnurbremse",
+    "Antwort 3": "Es erfolgt eine gleichmäßige Abnutzung",
+    "answers": [
+      "Die ersten Meter hinter dem Haken"
+    ]
+  },
+  {
+    "Nr": "0542",
+    "Frage": "Was sollte man bei monofilen Schnüren aus Kunststoff beachten?",
+    "Antwort 1": "Sie müssen nach dem Fischen in der Sonne getrocknet werden",
+    "Antwort 2": "Sie sollten dunkel und kühl gelagert sowie bei Bedarf gereinigt werden",
+    "Antwort 3": "Sie sind regelmäßig einzufetten",
+    "answers": [
+      "Sie sollten dunkel und kühl gelagert sowie bei Bedarf gereinigt werden"
+    ]
+  },
+  {
+    "Nr": "0543",
+    "Frage": "Worauf ist beim Kauf einer Angelschnur zu achten?",
+    "Antwort 1": "Auf Elastizität",
+    "Antwort 2": "Auf Aufmachung und Sollbruchstelle",
+    "Antwort 3": "Auf Tragkraft",
+    "answers": [
+      "Auf Elastizität",
+      "Auf Tragkraft"
+    ]
+  },
+  {
+    "Nr": "0544",
+    "Frage": "Bei welcher Angelmethode wird die doppelt verjüngte Schnur (Double Taper, DT) benutzt?",
+    "Antwort 1": "Brandungsfischen",
+    "Antwort 2": "Fliegenfischen",
+    "Antwort 3": "Grundfischen",
+    "answers": [
+      "Fliegenfischen"
+    ]
+  },
+  {
+    "Nr": "0545",
+    "Frage": "Wie beeinflussen Knoten die Tragfähigkeit der Schnur?",
+    "Antwort 1": "Die Tragfähigkeit der geknoteten Schnur ändert sich nicht",
+    "Antwort 2": "Die Tragfähigkeit ist am Knoten größer",
+    "Antwort 3": "Die Tragfähigkeit ist am Knoten geringer",
+    "answers": [
+      "Die Tragfähigkeit ist am Knoten geringer"
+    ]
+  },
+  {
+    "Nr": "0546",
+    "Frage": "Was ist eine monofile Schnur?",
+    "Antwort 1": "Aus mehreren Fäden gedrehte Kunststoffschnur",
+    "Antwort 2": "Mehrfädige, geflochtene Schnur aus Kunstseide",
+    "Antwort 3": "Einfädige Kunststoffschnur",
+    "answers": [
+      "Einfädige Kunststoffschnur"
+    ]
+  },
+  {
+    "Nr": "0547",
+    "Frage": "Was ist eine multifile Schnur?",
+    "Antwort 1": "Aus mehreren Fäden gedrehte oder geflochtene Kunststoffschnur",
+    "Antwort 2": "Mehrfädige, geflochtene Schnur aus Kunstseide",
+    "Antwort 3": "Einfädige Kunststoffschnur",
+    "answers": [
+      "Aus mehreren Fäden gedrehte oder geflochtene Kunststoffschnur",
+      "Mehrfädige, geflochtene Schnur aus Kunstseide"
+    ]
+  },
+  {
+    "Nr": "0548",
+    "Frage": "Wonach richtet sich insbesondere die zu verwendende Schnurstärke?",
+    "Antwort 1": "Nach der zu erwartenden Größe des Fisches",
+    "Antwort 2": "Nach der Gewässertiefe",
+    "Antwort 3": "Nach der Gewässerbeschaffenheit",
+    "answers": [
+      "Nach der zu erwartenden Größe des Fisches",
+      "Nach der Gewässerbeschaffenheit"
+    ]
+  },
+  {
+    "Nr": "0549",
+    "Frage": "Wie lautet die Kurzbezeichnung für schwimmende Fliegenschnüre?",
+    "Antwort 1": "F",
+    "Antwort 2": "S",
+    "Antwort 3": "DT",
+    "answers": [
+      "F"
+    ]
+  },
+  {
+    "Nr": "0550",
+    "Frage": "Wie ist die Kurzbezeichnung für keulenförmige Fliegenschnüre?",
+    "Antwort 1": "DT",
+    "Antwort 2": "WT",
+    "Antwort 3": "WF",
+    "answers": [
+      "WF"
+    ]
+  },
+  {
+    "Nr": "0551",
+    "Frage": "Bei welcher Angelmethode werden Keulenschnüre verwendet?",
+    "Antwort 1": "Stippfischen",
+    "Antwort 2": "Schleppfischen",
+    "Antwort 3": "Fliegenfischen",
+    "answers": [
+      "Fliegenfischen"
+    ]
+  },
+  {
+    "Nr": "0552",
+    "Frage": "Worauf ist beim Stahlvorfach zu achten?",
+    "Antwort 1": "Es darf keine Knickstellen aufweisen",
+    "Antwort 2": "Es darf keine Roststellen aufweisen",
+    "Antwort 3": "Es muss farblich der Hauptschnur angepasst sein",
+    "answers": [
+      "Es darf keine Knickstellen aufweisen",
+      "Es darf keine Roststellen aufweisen"
+    ]
+  },
+  {
+    "Nr": "0553",
+    "Frage": "Für den Fang welcher Fischart werden Vorfächer aus Stahl verwendet?",
+    "Antwort 1": "Döbel (Aitel)",
+    "Antwort 2": "Hecht",
+    "Antwort 3": "Rapfen (Schied)",
+    "answers": [
+      "Hecht"
+    ]
+  },
+  {
+    "Nr": "0554",
+    "Frage": "Beim Fang welcher Fischart verwendet man kein Stahlvorfach?",
+    "Antwort 1": "Äsche",
+    "Antwort 2": "Hecht",
+    "Antwort 3": "Nase",
+    "answers": [
+      "Äsche",
+      "Nase"
+    ]
+  },
+  {
+    "Nr": "0555",
+    "Frage": "Wie verhindert man, dass Hechte mit Hilfe ihrer spitzen Zähne beim Drill die Angelschnur durchtrennen?",
+    "Antwort 1": "Schnur so dick wie möglich wählen",
+    "Antwort 2": "Schnurbremse so leicht als möglich einstellen",
+    "Antwort 3": "Verwendung eines Stahlvorfaches",
+    "answers": [
+      "Verwendung eines Stahlvorfaches"
+    ]
+  },
+  {
+    "Nr": "0556",
+    "Frage": "Was bedeuten die Hakengrößen 1 bis 18?",
+    "Antwort 1": "18 ist der größte Haken, 1 ist der kleinste Haken",
+    "Antwort 2": "1 ist der größte Haken, 18 ist der kleinste Haken",
+    "Antwort 3": "Von 1–9 sind Öhrhaken, von 10–18 sind Plättchenhaken",
+    "answers": [
+      "1 ist der größte Haken, 18 ist der kleinste Haken"
+    ]
+  },
+  {
+    "Nr": "0557",
+    "Frage": "Welche Angelhaken sollen beim Angeln auf Cypriniden (Karpfenfische) benutzt werden?",
+    "Antwort 1": "Drillingshaken",
+    "Antwort 2": "Zwillingshaken",
+    "Antwort 3": "Einfachhaken",
+    "answers": [
+      "Einfachhaken"
+    ]
+  },
+  {
+    "Nr": "0558",
+    "Frage": "Welcher Einfachhaken ist am größten?",
+    "Antwort 1": "Hakengröße 2",
+    "Antwort 2": "Hakengröße 10",
+    "Antwort 3": "Hakengröße 4/0",
+    "answers": [
+      "Hakengröße 4/0"
+    ]
+  },
+  {
+    "Nr": "0559",
+    "Frage": "Welche Hakengrößen sind beim Fang von Rotaugen gebräuchlich?",
+    "Antwort 1": "3/0–1/0",
+    "Antwort 2": "3–6",
+    "Antwort 3": "10–12",
+    "answers": [
+      "10–12"
+    ]
+  },
+  {
+    "Nr": "0560",
+    "Frage": "Was ist ein Drilling?",
+    "Antwort 1": "Drei hintereinander an einer Schnur befestigte Haken",
+    "Antwort 2": "Fang von drei Fischen zur gleichen Zeit",
+    "Antwort 3": "Drei an den Schenkeln zusammengeschweißte Einfachhaken",
+    "answers": [
+      "Drei an den Schenkeln zusammengeschweißte Einfachhaken"
+    ]
+  },
+  {
+    "Nr": "0561",
+    "Frage": "Welche Aufgabe erfüllt in erster Linie eine Pose?",
+    "Antwort 1": "Verhindert das Hängenbleiben der Schnur im Kraut",
+    "Antwort 2": "Hält den Köder in einer bestimmten Wassertiefe und zeigt den Biss an",
+    "Antwort 3": "Ermöglicht erst den gezielten Weitwurf des Köders",
+    "answers": [
+      "Hält den Köder in einer bestimmten Wassertiefe und zeigt den Biss an"
+    ]
+  },
+  {
+    "Nr": "0562",
+    "Frage": "Wann ist der Einsatz einer Laufpose gegenüber einer Feststellpose vorzuziehen?",
+    "Antwort 1": "Wenn ein Gewässer einen ausgeprägten Schilfbewuchs aufweist",
+    "Antwort 2": "Wenn in einem flachen Gewässer geangelt wird",
+    "Antwort 3": "Wenn in einer Tiefe gefischt wird, welche die Rutenlänge übersteigt",
+    "answers": [
+      "Wenn in einer Tiefe gefischt wird, welche die Rutenlänge übersteigt"
+    ]
+  },
+  {
+    "Nr": "0563",
+    "Frage": "Wodurch kann die senkrechte Stellung einer Pose im Wasser erreicht werden?",
+    "Antwort 1": "Durch Anbringen eines Wirbels",
+    "Antwort 2": "Durch Auflegen des Köders am Gewässerboden",
+    "Antwort 3": "Durch Beschwerung unterhalb der Pose",
+    "answers": [
+      "Durch Beschwerung unterhalb der Pose"
+    ]
+  },
+  {
+    "Nr": "0564",
+    "Frage": "Was ist ein Laufblei?",
+    "Antwort 1": "Lotblei",
+    "Antwort 2": "Lochblei, welches sich frei auf der Schnur bewegt",
+    "Antwort 3": "Vorschaltblei vor einem künstlichen Köder",
+    "answers": [
+      "Lochblei, welches sich frei auf der Schnur bewegt"
+    ]
+  },
+  {
+    "Nr": "0565",
+    "Frage": "Wie kann beim Spinnfischen ein Verdrehen der Angelschnur verhindert werden?",
+    "Antwort 1": "Man verwendet ein Stahlvorfach",
+    "Antwort 2": "Man fügt einen oder mehrere Wirbel ein",
+    "Antwort 3": "Man benutzt starke Schnüre",
+    "answers": [
+      "Man fügt einen oder mehrere Wirbel ein"
+    ]
+  },
+  {
+    "Nr": "0566",
+    "Frage": "Welche Spinnköder haben eine Tauchschaufel zur Tiefenführung?",
+    "Antwort 1": "Wobbler",
+    "Antwort 2": "Spinner",
+    "Antwort 3": "Blinker",
+    "answers": [
+      "Wobbler"
+    ]
+  },
+  {
+    "Nr": "0567",
+    "Frage": "Bei welcher Angelmethode werden Wobbler verwendet?",
+    "Antwort 1": "Spinnfischen",
+    "Antwort 2": "Stippfischen",
+    "Antwort 3": "Grundangeln",
+    "answers": [
+      "Spinnfischen"
+    ]
+  },
+  {
+    "Nr": "0568",
+    "Frage": "Was ist das typische Merkmal eines Spinners?",
+    "Antwort 1": "Er hat am Löffel einen fest verbundenen Einzelhaken",
+    "Antwort 2": "Er hat eine Tauchschaufel, mit der die Fangtiefe eingestellt werden kann",
+    "Antwort 3": "Er hat ein rotierendes Plättchen",
+    "answers": [
+      "Er hat ein rotierendes Plättchen"
+    ]
+  },
+  {
+    "Nr": "0569",
+    "Frage": "Was reizt den Raubfisch beim Spinnfischen zum Anbiss besonders?",
+    "Antwort 1": "Köder imitiert eine Beute",
+    "Antwort 2": "Hakenmontage am Köder",
+    "Antwort 3": "Durch den Kunstköder entstehen Lichtreflexe und Druckwellen",
+    "answers": [
+      "Köder imitiert eine Beute",
+      "Durch den Kunstköder entstehen Lichtreflexe und Druckwellen"
+    ]
+  },
+  {
+    "Nr": "0570",
+    "Frage": "Wodurch unterscheidet sich ein Spinner von einem Blinker?",
+    "Antwort 1": "Der Spinner ist grundsätzlich leichter als ein Blinker",
+    "Antwort 2": "Beim Spinner rotiert ein Plättchen um seine Achse",
+    "Antwort 3": "Der Blinker rotiert um seine eigene Achse",
+    "answers": [
+      "Beim Spinner rotiert ein Plättchen um seine Achse"
+    ]
+  },
+  {
+    "Nr": "0571",
+    "Frage": "Was ist ein Wobbler?",
+    "Antwort 1": "Ein- oder mehrteilige Fischimitation, die beim Einholen taumelnde Bewegungen ausführt",
+    "Antwort 2": "Gerät zum waidgerechten Töten von Aalen",
+    "Antwort 3": "Kunstköder für den Friedfischfang",
+    "answers": [
+      "Ein- oder mehrteilige Fischimitation, die beim Einholen taumelnde Bewegungen ausführt"
+    ]
+  },
+  {
+    "Nr": "0572",
+    "Frage": "Welche Hauptgruppen künstlicher Fliegen gibt es?",
+    "Antwort 1": "Große und kleine Fliegen",
+    "Antwort 2": "Trocken- und Nassfliegen, Nymphen, Streamer",
+    "Antwort 3": "Mehrfarbige und einfarbige Fliegen",
+    "answers": [
+      "Trocken- und Nassfliegen, Nymphen, Streamer"
+    ]
+  },
+  {
+    "Nr": "0573",
+    "Frage": "Was ist charakteristisch für Trockenfliegen?",
+    "Antwort 1": "Sie schwimmen unter der Wasseroberfläche",
+    "Antwort 2": "Sie schwimmen auf der Wasseroberfläche",
+    "Antwort 3": "Es handelt sich um getrocknete Schmeißfliegen",
+    "answers": [
+      "Sie schwimmen auf der Wasseroberfläche"
+    ]
+  },
+  {
+    "Nr": "0574",
+    "Frage": "Welche allgemeine Regel gilt bei der Zusammenstellung von Haken, Schnur und Rute?",
+    "Antwort 1": "Kleiner Haken, starke Schnur und weiche Rute",
+    "Antwort 2": "Großer Haken, dünne Schnur und steife Rute",
+    "Antwort 3": "Großer Haken, starke Schnur und steife Rutenspitze",
+    "answers": [
+      "Großer Haken, starke Schnur und steife Rutenspitze"
+    ]
+  },
+  {
+    "Nr": "0575",
+    "Frage": "Was ermöglicht beim Fliegenfischen das Auswerfen des Köders?",
+    "Antwort 1": "Eigengewicht der Schnur",
+    "Antwort 2": "Zusätzliche Bleibeschwerung vor der Fliege",
+    "Antwort 3": "Eigengewicht der Fliege",
+    "answers": [
+      "Eigengewicht der Schnur"
+    ]
+  },
+  {
+    "Nr": "0576",
+    "Frage": "Wann soll beim Angeln der Anhieb gesetzt werden?",
+    "Antwort 1": "Erst nachdem der Fisch den Köder geschluckt hat",
+    "Antwort 2": "Unmittelbar nach dem Anbiss",
+    "Antwort 3": "Wenn der Fisch die Schnur abzieht",
+    "answers": [
+      "Unmittelbar nach dem Anbiss"
+    ]
+  },
+  {
+    "Nr": "0577",
+    "Frage": "Wie soll die Schnur beim Drill geführt werden?",
+    "Antwort 1": "Lose und durchhängend",
+    "Antwort 2": "Die Schnur ruckartig einholen",
+    "Antwort 3": "Gespannt und auf Fühlung mit dem Fisch",
+    "answers": [
+      "Gespannt und auf Fühlung mit dem Fisch"
+    ]
+  },
+  {
+    "Nr": "0578",
+    "Frage": "Wann ist beim Fischen mit künstlichem Köder der Anhieb zu setzen?",
+    "Antwort 1": "Ein Anhieb ist nicht erforderlich, da sich der Fisch immer selber hält",
+    "Antwort 2": "Unmittelbar nach dem Anbiss",
+    "Antwort 3": "Erst nach einer längeren Pause",
+    "answers": [
+      "Unmittelbar nach dem Anbiss"
+    ]
+  },
+  {
+    "Nr": "0579",
+    "Frage": "Was versteht man unter „Hegene“?",
+    "Antwort 1": "Eine Angel mit automatischer Bissanzeige",
+    "Antwort 2": "Ein Angelsystem mit Bleibeschwerung am Schnurende und mehreren Haken an beweglichen Seitenarmen",
+    "Antwort 3": "Ein unzulässiges Angelgerät",
+    "answers": [
+      "Ein Angelsystem mit Bleibeschwerung am Schnurende und mehreren Haken an beweglichen Seitenarmen"
+    ]
+  },
+  {
+    "Nr": "0580",
+    "Frage": "Steht der Fisch an der Stelle im Wasser, an der der Fischer ihn sieht?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein, er steht höher",
+    "Antwort 3": "Nein, er steht tiefer",
+    "answers": [
+      "Nein, er steht tiefer"
+    ]
+  },
+  {
+    "Nr": "0581",
+    "Frage": "Welche Hilfsmittel benötigt der Fischer beim Angeln?",
+    "Antwort 1": "Unterfangkescher, Maßstab, Hakenlöser",
+    "Antwort 2": "Schlagholz, Messer, Lösezange",
+    "Antwort 3": "Elektronischer Bissanzeiger",
+    "answers": [
+      "Unterfangkescher, Maßstab, Hakenlöser",
+      "Schlagholz, Messer, Lösezange"
+    ]
+  },
+  {
+    "Nr": "0582",
+    "Frage": "Welche Hilfsmittel muss der Angler beim Fischfang mit sich führen?",
+    "Antwort 1": "Akustische Bissanzeiger",
+    "Antwort 2": "Ersatzruten und Sitzgelegenheit",
+    "Antwort 3": "Unterfangkescher, Maßstab, Schlagholz und Messer",
+    "answers": [
+      "Unterfangkescher, Maßstab, Schlagholz und Messer"
+    ]
+  },
+  {
+    "Nr": "0583",
+    "Frage": "Was ist ein Hakenlöser?",
+    "Antwort 1": "Lösungsmittel zur Reinigung rostiger Angelhaken",
+    "Antwort 2": "Gerät zum schonenden Auslösen des Angelhakens aus dem Fischmaul",
+    "Antwort 3": "Gerät, mit dem man einen Angelhaken von der Angelschnur löst",
+    "answers": [
+      "Gerät zum schonenden Auslösen des Angelhakens aus dem Fischmaul"
+    ]
+  },
+  {
+    "Nr": "0584",
+    "Frage": "Wozu dient die Löseschere, die Lösezange oder der Hakenlöser?",
+    "Antwort 1": "Schonendes Herauslösen des Hakens aus dem Fischmaul",
+    "Antwort 2": "Lösen des Hakens vom Stahlvorfach",
+    "Antwort 3": "Herauslösen der Niere beim Aal",
+    "answers": [
+      "Schonendes Herauslösen des Hakens aus dem Fischmaul"
+    ]
+  },
+  {
+    "Nr": "0585",
+    "Frage": "Wie muss ein gutes Unterfangnetz (Kescher) beschaffen sein?",
+    "Antwort 1": "Netzsack muss weitmaschig und flach sein",
+    "Antwort 2": "Netzsack muss klein und engmaschig sein",
+    "Antwort 3": "Netzsack aus kräftigem Garn muss engmaschig, tief und geräumig sein",
+    "answers": [
+      "Netzsack aus kräftigem Garn muss engmaschig, tief und geräumig sein"
+    ]
+  },
+  {
+    "Nr": "0586",
+    "Frage": "Welche Fische müssen vor dem Töten betäubt werden?",
+    "Antwort 1": "Alle Fische",
+    "Antwort 2": "Nur Aale",
+    "Antwort 3": "Alle Fische außer Aale und Plattfische",
+    "answers": [
+      "Alle Fische außer Aale und Plattfische"
+    ]
+  },
+  {
+    "Nr": "0587",
+    "Frage": "Wie werden Flusskrebse in der Regel getötet?",
+    "Antwort 1": "Sie werden in lauwarmes Wasser gelegt, das dann zum Kochen gebracht wird",
+    "Antwort 2": "Sie werden betäubt und anschließend ausgeweidet",
+    "Antwort 3": "Sie werden einzeln in stark kochendes Wasser gegeben und dadurch getötet",
+    "answers": [
+      "Sie werden einzeln in stark kochendes Wasser gegeben und dadurch getötet"
+    ]
+  },
+  {
+    "Nr": "0588",
+    "Frage": "Was macht man, wenn man einen untermaßigen, noch lebensfähigen Fisch gefangen hat?",
+    "Antwort 1": "Man hängt das Vorfach aus und lässt den Fisch frei",
+    "Antwort 2": "Man ködert den Fisch schonend mit nassen Händen ab und setzt ihn sofort ins Wasser zurück",
+    "Antwort 3": "Man hält den Fisch mit einem trockenen Tuch und ködert ihn vorsichtig ab",
+    "answers": [
+      "Man ködert den Fisch schonend mit nassen Händen ab und setzt ihn sofort ins Wasser zurück"
+    ]
+  },
+  {
+    "Nr": "0589",
+    "Frage": "Woran ist zu erkennen, dass ein Fisch einwandfrei betäubt ist?",
+    "Antwort 1": "Zittern der Rücken- und Schwanzflosse",
+    "Antwort 2": "Verblassen der Haut",
+    "Antwort 3": "Kein Augendrehreflex mehr vorhanden",
+    "answers": [
+      "Kein Augendrehreflex mehr vorhanden"
+    ]
+  },
+  {
+    "Nr": "0590",
+    "Frage": "Warum sollen beim Forellenangeln mit Naturködern große Haken verwendet werden?",
+    "Antwort 1": "Weil mit kleinen Haken oft nur untermaßige Fische gefangen werden",
+    "Antwort 2": "Zu kleine Haken werden gewöhnlich so tief geschluckt, dass die Fische davon nicht mehr ohne Schädigung befreit werden können",
+    "Antwort 3": "Es werden zu viele Fische gefangen",
+    "answers": [
+      "Zu kleine Haken werden gewöhnlich so tief geschluckt, dass die Fische davon nicht mehr ohne Schädigung befreit werden können"
+    ]
+  },
+  {
+    "Nr": "0591",
+    "Frage": "Wie wird üblicherweise ein großer Karpfen angelandet?",
+    "Antwort 1": "Mit festem Griff am Schwanzstiel",
+    "Antwort 2": "Er wird einfach an Land gezogen",
+    "Antwort 3": "Mit dem Unterfangkescher",
+    "answers": [
+      "Mit dem Unterfangkescher"
+    ]
+  },
+  {
+    "Nr": "0592",
+    "Frage": "Welche Einfachhakengrößen sind beim Karpfenangeln gebräuchlich?",
+    "Antwort 1": "3/0–1/0",
+    "Antwort 2": "1–10",
+    "Antwort 3": "8–12",
+    "answers": [
+      "1–10"
+    ]
+  },
+  {
+    "Nr": "0593",
+    "Frage": "Für welche Angelmethoden eignet sich die Stationärrolle besonders gut?",
+    "Antwort 1": "Für Spinnfischen und Grundangeln",
+    "Antwort 2": "Für das Fliegenfischen",
+    "Antwort 3": "Sie eignet sich gleich gut für alle Fangmethoden",
+    "answers": [
+      "Für Spinnfischen und Grundangeln"
+    ]
+  },
+  {
+    "Nr": "0594",
+    "Frage": "Welche Drillingsgröße ist beim Hechtfang gebräuchlich?",
+    "Antwort 1": "2/0–3",
+    "Antwort 2": "5–8",
+    "Antwort 3": "9–12",
+    "answers": [
+      "2/0–3"
+    ]
+  },
+  {
+    "Nr": "0595",
+    "Frage": "Welche Schnurlaufringe werden am stärksten belastet?",
+    "Antwort 1": "Spitzen- und Endringe",
+    "Antwort 2": "Leit- oder Führungsringe",
+    "Antwort 3": "Alle Ringe werden gleich stark belastet",
+    "answers": [
+      "Spitzen- und Endringe"
+    ]
+  },
+  {
+    "Nr": "0596",
+    "Frage": "Was empfiehlt sich bei einer Angelschnur, wenn die ersten Meter aufgeraut sind?",
+    "Antwort 1": "Schnur wird über die ganze Länge eingefettet",
+    "Antwort 2": "Aufgerauter Abschnitt der Schnur wird abgeschnitten und ordnungsgemäß entsorgt",
+    "Antwort 3": "Gesamte Schnur muss gegen eine neue ausgewechselt werden",
+    "answers": [
+      "Aufgerauter Abschnitt der Schnur wird abgeschnitten und ordnungsgemäß entsorgt"
+    ]
+  },
+  {
+    "Nr": "0597",
+    "Frage": "Wie ist eine abgeschnittene Angelschnur zu entsorgen?",
+    "Antwort 1": "Im Wasser",
+    "Antwort 2": "Im Gebüsch",
+    "Antwort 3": "Im Hausmüll",
+    "answers": [
+      "Im Hausmüll"
+    ]
+  },
+  {
+    "Nr": "0598",
+    "Frage": "Warum darf eine verwickelte oder verwirrte Angelschnur (Perücke) nicht achtlos weggeworfen werden?",
+    "Antwort 1": "Weil sie noch gebraucht werden könnte",
+    "Antwort 2": "Weil sie eine Gefahr für Vögel und andere Tiere darstellt",
+    "Antwort 3": "Weil dadurch erfolgversprechende und gute Angelplätze verraten werden",
+    "answers": [
+      "Weil sie eine Gefahr für Vögel und andere Tiere darstellt"
+    ]
+  },
+  {
+    "Nr": "0599",
+    "Frage": "Worauf muss der Fischer beim Ausnehmen eines Aales besonders achten?",
+    "Antwort 1": "Dass er kein Blut in eine offene Wunde oder die Augen bekommt",
+    "Antwort 2": "Dass die Schwanzniere („Nierenpfropf“) hinter dem After entfernt wird",
+    "Antwort 3": "Auf nichts Besonderes",
+    "answers": [
+      "Dass er kein Blut in eine offene Wunde oder die Augen bekommt",
+      "Dass die Schwanzniere („Nierenpfropf“) hinter dem After entfernt wird"
+    ]
+  },
+  {
+    "Nr": "0600",
+    "Frage": "Wie wird ein am Angelplatz getöteter Fisch frischgehalten?",
+    "Antwort 1": "In einer Kühlbox lagern",
+    "Antwort 2": "In ein nasses Tuch eingehüllt in den Schatten legen",
+    "Antwort 3": "In eine Plastiktüte legen",
+    "answers": [
+      "In einer Kühlbox lagern",
+      "In ein nasses Tuch eingehüllt in den Schatten legen"
+    ]
+  },
+  {
+    "Nr": "0601",
+    "Frage": "Wie kann man grätenreiche Fische auf einfache Art zum Braten vorbereiten?",
+    "Antwort 1": "Einschneiden alle 2 mm mit einem scharfen Messer bis auf den Wirbelkörper",
+    "Antwort 2": "Einlegen in eine Salzlake",
+    "Antwort 3": "Gräten, soweit erreichbar, mit einer Zange herausziehen",
+    "answers": [
+      "Einschneiden alle 2 mm mit einem scharfen Messer bis auf den Wirbelkörper"
+    ]
+  },
+  {
+    "Nr": "0602",
+    "Frage": "Welche Wurftechniken gibt es beim Angeln?",
+    "Antwort 1": "Überkopfwurf",
+    "Antwort 2": "Hubweitwurf",
+    "Antwort 3": "Seitwärtswurf",
+    "answers": [
+      "Überkopfwurf",
+      "Seitwärtswurf"
+    ]
+  }
+]

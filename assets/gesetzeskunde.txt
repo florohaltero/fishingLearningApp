@@ -1,0 +1,1255 @@
+[
+  {
+    "Nr": "0603",
+    "Frage": "Wie lange sind Fischereischeine aus anderen Ländern der Bundesrepublik Deutschland bei Verlegung des Hauptwohnsitzes nach Baden-Württemberg gültig?",
+    "Antwort 1": "Verlieren ihre Gültigkeit sofort mit der Anmeldung des neuen Hauptwohnsitzes",
+    "Antwort 2": "Längstens bis zum Ende des auf diese Wohnsitznahme nachfolgenden Kalenderjahres",
+    "Antwort 3": "Grundsätzlich ohne Einschränkungen weiter gültig",
+    "answers": [
+      "Längstens bis zum Ende des auf diese Wohnsitznahme nachfolgenden Kalenderjahres"
+    ]
+  },
+  {
+    "Nr": "0604",
+    "Frage": "Welches Gesetz ist u.a. neben dem Fischereigesetz bei der Ausübung der Fischerei zu beachten?",
+    "Antwort 1": "Naturschutzgesetz",
+    "Antwort 2": "Tierschutzgesetz",
+    "Antwort 3": "Jagdgesetz",
+    "answers": [
+      "Naturschutzgesetz",
+      "Tierschutzgesetz"
+    ]
+  },
+  {
+    "Nr": "0605",
+    "Frage": "Wann erlischt ein Erlaubnisvertrag?",
+    "Antwort 1": "Wenn dem Berechtigten der Fischereischein unanfechtbar entzogen ist",
+    "Antwort 2": "Wenn der Berechtigte in ein anderes Bundesland umzieht",
+    "Antwort 3": "Nach Ablauf von fünf Jahren",
+    "answers": [
+      "Wenn dem Berechtigten der Fischereischein unanfechtbar entzogen ist"
+    ]
+  },
+  {
+    "Nr": "0606",
+    "Frage": "Wird bei der Erteilung des Jugendfischereischeines die Fischereiabgabe erhoben?",
+    "Antwort 1": "Ja, alle Fischer müssen die Fischereiabgabe bezahlen",
+    "Antwort 2": "Nein, Jugendfischereischeininhaber sind von der Zahlung befreit",
+    "Antwort 3": "Nur wenn der Jugendfischereischein bei der Fischereibehörde beantragt wird",
+    "answers": [
+      "Nein, Jugendfischereischeininhaber sind von der Zahlung befreit"
+    ]
+  },
+  {
+    "Nr": "0607",
+    "Frage": "Für welchen Zeitraum wird der Jugendfischereischein ausgestellt?",
+    "Antwort 1": "Bis zum Ende des Kalenderjahres, in dem der Jugendliche das 16. Lebensjahr vollendet hat",
+    "Antwort 2": "1 Jahr",
+    "Antwort 3": "5 Jahre",
+    "answers": [
+      "Bis zum Ende des Kalenderjahres, in dem der Jugendliche das 16. Lebensjahr vollendet hat"
+    ]
+  },
+  {
+    "Nr": "0608",
+    "Frage": "Was ist Inhalt des Fischereirechts?",
+    "Antwort 1": "Befugnis, nur Fische zu fangen",
+    "Antwort 2": "Befugnis, in einem Gewässer unbeschränkt die Fischerei mit drei Handangeln auszuüben",
+    "Antwort 3": "Befugnis, in einem Gewässer Fische einschließlich deren Laich, Fischnährtiere, Krebse und Muscheln zu fangen und sich anzueignen",
+    "answers": [
+      "Befugnis, in einem Gewässer Fische einschließlich deren Laich, Fischnährtiere, Krebse und Muscheln zu fangen und sich anzueignen"
+    ]
+  },
+  {
+    "Nr": "0609",
+    "Frage": "Welche der folgenden Tiergruppen ist neben den Fischen Gegenstand des Fischereirechts?",
+    "Antwort 1": "Neunaugen",
+    "Antwort 2": "Molche",
+    "Antwort 3": "Krebse",
+    "answers": [
+      "Neunaugen",
+      "Krebse"
+    ]
+  },
+  {
+    "Nr": "0610",
+    "Frage": "Wer ist in einem Gewässer fischereiausübungsberechtigt?",
+    "Antwort 1": "Der staatliche Fischereiaufseher",
+    "Antwort 2": "Der Inhaber eines Fischereischeins",
+    "Antwort 3": "Der Fischereiberechtigte, Fischereipächter und Erlaubnisscheininhaber",
+    "answers": [
+      "Der Fischereiberechtigte, Fischereipächter und Erlaubnisscheininhaber"
+    ]
+  },
+  {
+    "Nr": "0611",
+    "Frage": "Wem steht das Fischereirecht in den Nebenarmen und Kanälen, die sich mit dem Hauptgewässer wiedervereinigen, zu?",
+    "Antwort 1": "Dem Grundeigentümer des Gewässerbetts",
+    "Antwort 2": "Dem Fischereiberechtigten im Hauptgewässer",
+    "Antwort 3": "Der Gemeinde, soweit sie zur Gewässerunterhaltung verpflichtet ist",
+    "answers": [
+      "Dem Fischereiberechtigten im Hauptgewässer"
+    ]
+  },
+  {
+    "Nr": "0612",
+    "Frage": "Wer darf Flusskrebse fangen?",
+    "Antwort 1": "Nur besonders bestellte Krebsfänger",
+    "Antwort 2": "Der Fischereiausübungsberechtigte",
+    "Antwort 3": "Da Krebse zu den gefährdeten Arten gehören, ist der Krebsfang verboten",
+    "answers": [
+      "Der Fischereiausübungsberechtigte"
+    ]
+  },
+  {
+    "Nr": "0613",
+    "Frage": "Wo sind die Fischereirechte in Baden-Württemberg einzutragen?",
+    "Antwort 1": "Verzeichnis beim Bürgermeisteramt",
+    "Antwort 2": "Grundbuch oder im Verzeichnis der Fischereirechte",
+    "Antwort 3": "Wasserbuch beim Landratsamt",
+    "answers": [
+      "Grundbuch oder im Verzeichnis der Fischereirechte"
+    ]
+  },
+  {
+    "Nr": "0614",
+    "Frage": "Was bedeutet „aneignen“ im Fischereirecht?",
+    "Antwort 1": "Eigentumserwerb an Fischereirechten",
+    "Antwort 2": "Eigentumserwerb an herrenlosen Fischen",
+    "Antwort 3": "Aufsuchen und Nachstellen von Fischen",
+    "answers": [
+      "Eigentumserwerb an herrenlosen Fischen"
+    ]
+  },
+  {
+    "Nr": "0615",
+    "Frage": "Welche Gewässer sind von der Hegepflicht ausgenommen?",
+    "Antwort 1": "Bewirtschaftete Anlagen der Teichwirtschaft",
+    "Antwort 2": "Gewässer bis zu 0,25 ha Wasserfläche ohne Möglichkeit des Fischwechsels",
+    "Antwort 3": "Fließgewässerstrecken unter 0,25 ha Wasserfläche",
+    "answers": [
+      "Bewirtschaftete Anlagen der Teichwirtschaft",
+      "Gewässer bis zu 0,25 ha Wasserfläche ohne Möglichkeit des Fischwechsels"
+    ]
+  },
+  {
+    "Nr": "0616",
+    "Frage": "Dürfen Fischnährtiere aus einem fischereilich genutzten Gewässer entnommen werden?",
+    "Antwort 1": "Ja, jeder, der Fischnährtiere für sein Aquarium benötigt, darf diese entnehmen",
+    "Antwort 2": "Die Entnahme von Fischnährtieren ist grundsätzlich verboten",
+    "Antwort 3": "Nur der Fischereiausübungsberechtigte darf Fischnährtiere entnehmen",
+    "answers": [
+      "Nur der Fischereiausübungsberechtigte darf Fischnährtiere entnehmen"
+    ]
+  },
+  {
+    "Nr": "0617",
+    "Frage": "Ist das Ablassen von aufgestauten Gewässern dem Fischereiberechtigten bzw. dem Pächter anzuzeigen?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja, mindestens zwei Wochen vorher schriftlich, abgesehen von Notfällen",
+    "Antwort 3": "Ja, mindestens zwei Wochen vorher mündlich, abgesehen von Notfällen",
+    "answers": [
+      "Ja, mindestens zwei Wochen vorher schriftlich, abgesehen von Notfällen"
+    ]
+  },
+  {
+    "Nr": "0618",
+    "Frage": "Was ist ein eingefriedetes Grundstück im Sinne des Fischereigesetzes?",
+    "Antwort 1": "Ein Grundstück, das von Gräben umgeben ist",
+    "Antwort 2": "Ein Grundstück, das von Mauern, Hecken, Zäunen und dergleichen umgeben ist, selbst wenn die Einfriedung zum Gewässer hin fehlt",
+    "Antwort 3": "Eine eingezäunte Viehweide",
+    "answers": [
+      "Ein Grundstück, das von Mauern, Hecken, Zäunen und dergleichen umgeben ist, selbst wenn die Einfriedung zum Gewässer hin fehlt"
+    ]
+  },
+  {
+    "Nr": "0619",
+    "Frage": "Was ist unter dem Begriff Uferbetretungsrecht zu verstehen?",
+    "Antwort 1": "Das Recht zum Betreten der Ufer in dem zur Ausübung der Fischerei erforderlichen Umfang",
+    "Antwort 2": "Das Recht, eingefriedete Grundstücke zur Ausübung der Fischerei zu betreten",
+    "Antwort 3": "Das Recht, auch Privatwege zu befahren",
+    "answers": [
+      "Das Recht zum Betreten der Ufer in dem zur Ausübung der Fischerei erforderlichen Umfang"
+    ]
+  },
+  {
+    "Nr": "0620",
+    "Frage": "Wem steht das Uferbetretungsrecht nach dem Fischereigesetz zu?",
+    "Antwort 1": "Nur dem Inhaber des Fischereirechts bzw. dem Fischereipächter",
+    "Antwort 2": "Dem Fischereiausübungsberechtigten und seinen Helfern",
+    "Antwort 3": "Jedem Inhaber eines Fischereischeins und seinen Begleitern",
+    "answers": [
+      "Dem Fischereiausübungsberechtigten und seinen Helfern"
+    ]
+  },
+  {
+    "Nr": "0621",
+    "Frage": "Was bedeutet „Fischnacheile“ im Sinne des Fischereigesetzes?",
+    "Antwort 1": "Fangen von Fischen auf überfluteten Grundstücken",
+    "Antwort 2": "Im eigenen Gewässer gehakte Fische auf fremdem Grundstück anzulanden",
+    "Antwort 3": "Fische zu fangen, die bei einem Hochwasser aus einem Teich in ein fremdes Gewässer gelangt sind",
+    "answers": [
+      "Fangen von Fischen auf überfluteten Grundstücken"
+    ]
+  },
+  {
+    "Nr": "0622",
+    "Frage": "Dürfen sich Grundstückseigentümer, die nicht fischereiberechtigt sind, bei Überflutung ihres eigenen Grundstücks Fische aus dem Überflutungsbereich aneignen?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja",
+    "Antwort 3": "Nur, wenn die Überflutung länger als drei Tage zurückliegt",
+    "answers": [
+      "Nur, wenn die Überflutung länger als drei Tage zurückliegt"
+    ]
+  },
+  {
+    "Nr": "0623",
+    "Frage": "Wer ist berechtigt, Büsche oder Äste, welche die ordnungsgemäße Fischerei verhindern, zurückzuschneiden?",
+    "Antwort 1": "Jeder Erlaubnisscheininhaber",
+    "Antwort 2": "Inhaber des Fischereirechts",
+    "Antwort 3": "Inhaber des Fischereirechts bzw. der Pächter, sofern der Eigentümer einer entsprechenden Aufforderung innerhalb eines Monats nicht nachgekommen ist",
+    "answers": [
+      "Inhaber des Fischereirechts bzw. der Pächter, sofern der Eigentümer einer entsprechenden Aufforderung innerhalb eines Monats nicht nachgekommen ist"
+    ]
+  },
+  {
+    "Nr": "0624",
+    "Frage": "Nach wie vielen Tagen, nachdem das Wasser von seinem überfluteten Grundstück abgelaufen ist, darf der Grundstückseigentümer sich noch vorhandene Fische aneignen?",
+    "Antwort 1": "Nach einem Tag",
+    "Antwort 2": "Nach 3 Tagen",
+    "Antwort 3": "Nach 5 Tagen",
+    "answers": [
+      "Nach 3 Tagen"
+    ]
+  },
+  {
+    "Nr": "0625",
+    "Frage": "Muss ein Angler als Fischereipächter einen gültigen Fischereischein besitzen?",
+    "Antwort 1": "Nur zum Zeitpunkt des Vertragsabschlusses",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0626",
+    "Frage": "In welcher Form muss ein Fischereipachtvertrag abgeschlossen werden, wenn die Hegepflicht übertragen wird?",
+    "Antwort 1": "Mündlicher Vertragsabschluss mit Anzeige bei der Fischereibehörde",
+    "Antwort 2": "Schriftlicher Vertragsabschluss",
+    "Antwort 3": "Schriftlicher Vertragsabschluss mit Anzeige bei der Fischereibehörde",
+    "answers": [
+      "Schriftlicher Vertragsabschluss mit Anzeige bei der Fischereibehörde"
+    ]
+  },
+  {
+    "Nr": "0627",
+    "Frage": "Für welche Mindestdauer müssen hegeübertragende Fischereipachtverträge grundsätzlich abgeschlossen werden?",
+    "Antwort 1": "10 Jahre",
+    "Antwort 2": "12 Jahre",
+    "Antwort 3": "14 Jahre",
+    "answers": [
+      "12 Jahre"
+    ]
+  },
+  {
+    "Nr": "0628",
+    "Frage": "Sind Unterpachtverträge zulässig?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja, wenn dies im Pachtvertrag ausdrücklich vorgesehen ist",
+    "Antwort 3": "Ja, wenn die Fischereibehörde dem zustimmt",
+    "answers": [
+      "Ja, wenn dies im Pachtvertrag ausdrücklich vorgesehen ist"
+    ]
+  },
+  {
+    "Nr": "0629",
+    "Frage": "Darf der Pächter eines Fischereirechts Erlaubnisverträge abschließen?",
+    "Antwort 1": "Ohne weiteres",
+    "Antwort 2": "Nur dann, wenn dies im Pachtvertrag ausdrücklich vereinbart ist",
+    "Antwort 3": "Nur mit Zustimmung der Fischereibehörde",
+    "answers": [
+      "Nur dann, wenn dies im Pachtvertrag ausdrücklich vereinbart ist"
+    ]
+  },
+  {
+    "Nr": "0630",
+    "Frage": "Muss der Inhaber eines Erlaubnisscheins einen gültigen Fischereischein besitzen?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nur bei Abschluss des Erlaubnisvertrages",
+    "Antwort 3": "Nein",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0631",
+    "Frage": "Wem sind hegeübertragende Fischereipachtverträge anzuzeigen?",
+    "Antwort 1": "Dem Landratsamt",
+    "Antwort 2": "Der Fischereibehörde",
+    "Antwort 3": "Der Obersten Fischereibehörde",
+    "answers": [
+      "Der Fischereibehörde"
+    ]
+  },
+  {
+    "Nr": "0632",
+    "Frage": "Muss man bei der Ausübung der Fischerei den Erlaubnisschein mit sich führen?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Nein, man muss ihn lediglich besitzen",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0633",
+    "Frage": "Wer stellt den Erlaubnisschein aus?",
+    "Antwort 1": "Fischereibehörde",
+    "Antwort 2": "Inhaber des Fischereirechts oder Pächter",
+    "Antwort 3": "Landratsamt",
+    "answers": [
+      "Inhaber des Fischereirechts oder Pächter"
+    ]
+  },
+  {
+    "Nr": "0634",
+    "Frage": "Für welchen Zeitraum kann der Erlaubnisschein längstens ausgestellt werden?",
+    "Antwort 1": "Bis zu einem Jahr",
+    "Antwort 2": "Bis zu 3 Jahre",
+    "Antwort 3": "Bis zu 5 Jahre",
+    "answers": [
+      "Bis zu 3 Jahre"
+    ]
+  },
+  {
+    "Nr": "0635",
+    "Frage": "Welches Dokument muss der Fischer beim Angeln mit sich führen?",
+    "Antwort 1": "Fischereischein",
+    "Antwort 2": "Erlaubnisschein",
+    "Antwort 3": "Führerschein",
+    "answers": [
+      "Fischereischein",
+      "Erlaubnisschein"
+    ]
+  },
+  {
+    "Nr": "0636",
+    "Frage": "Für wen ist ein Fischereischein nicht erforderlich?",
+    "Antwort 1": "Familienangehörige, die mit der zweiten Angelrute mitfischen",
+    "Antwort 2": "Personen, die den Fischereiausübungsberechtigten bei der Ausübung der Fischerei unterstützen",
+    "Antwort 3": "Gäste auf Einladung des Fischereirechtsinhabers bzw. Pächters",
+    "answers": [
+      "Personen, die den Fischereiausübungsberechtigten bei der Ausübung der Fischerei unterstützen"
+    ]
+  },
+  {
+    "Nr": "0637",
+    "Frage": "Bei welchen Pachtverträgen sind Abschluss, Änderung, Kündigung und Erlöschen unverzüglich der Fischereibehörde anzuzeigen?",
+    "Antwort 1": "Bei allen Pachtverträgen",
+    "Antwort 2": "Bei allen Pacht- und Erlaubnisverträgen, bei denen die Hegepflicht nicht auf den Pächter übertragen wird",
+    "Antwort 3": "Bei allen Pachtverträgen, bei denen die Hegepflicht vollständig auf den Pächter übertragen wird",
+    "answers": [
+      "Bei allen Pachtverträgen, bei denen die Hegepflicht vollständig auf den Pächter übertragen wird"
+    ]
+  },
+  {
+    "Nr": "0638",
+    "Frage": "Wem ist die erstmalige Erteilung eines „Fischereischeins auf Lebenszeit“ zu versagen?",
+    "Antwort 1": "Personen, die kein eigenes Fischereirecht besitzen",
+    "Antwort 2": "Personen, die den Sachkundenachweis nicht erbracht haben",
+    "Antwort 3": "Personen, die keiner Fischereiorganisation angehören",
+    "answers": [
+      "Personen, die den Sachkundenachweis nicht erbracht haben"
+    ]
+  },
+  {
+    "Nr": "0639",
+    "Frage": "Was ist ein Erlaubnisvertrag im Sinne des Fischereigesetzes?",
+    "Antwort 1": "Ein Vertrag über die Ausübung der Fischerei einschließlich des Köderfischfangs mit Angelgeräten, Netzen und Reusen",
+    "Antwort 2": "Ein Vertrag über die Ausübung der Fischerei einschließlich des Köderfischfangs mit der Verkaufsmöglichkeit der gefangenen Fische",
+    "Antwort 3": "Ein Vertrag über die Ausübung der Fischerei einschließlich des Köderfischfangs mit der Angel für den eigenen Bedarf",
+    "answers": [
+      "Ein Vertrag über die Ausübung der Fischerei einschließlich des Köderfischfangs mit der Angel für den eigenen Bedarf"
+    ]
+  },
+  {
+    "Nr": "0640",
+    "Frage": "Dürfen alle Fischarten erlaubnisfrei eingesetzt werden?",
+    "Antwort 1": "Ja, um einen großen Artenreichtum zu erhalten",
+    "Antwort 2": "Nein, es dürfen nur Fische eingesetzt werden, die für den Angelfischer wünschenswert und interessant sind",
+    "Antwort 3": "Nein, es dürfen nur einheimische Fischarten eingesetzt werden",
+    "answers": [
+      "Nein, es dürfen nur einheimische Fischarten eingesetzt werden"
+    ]
+  },
+  {
+    "Nr": "0641",
+    "Frage": "Wer ist berechtigt, Besatzmaßnahmen durchzuführen?",
+    "Antwort 1": "Erlaubnisscheininhaber",
+    "Antwort 2": "Fischereischeininhaber und der Erlaubnisscheininhaber",
+    "Antwort 3": "Inhaber des Fischereirechts bzw. der Pächter",
+    "answers": [
+      "Inhaber des Fischereirechts bzw. der Pächter"
+    ]
+  },
+  {
+    "Nr": "0642",
+    "Frage": "Wer begeht Fischwilderei?",
+    "Antwort 1": "Wer in einem Gewässer unter Verletzung fremden Fischereirechts fischt",
+    "Antwort 2": "Wer fischt, ohne seinen Fischereischein mitzuführen",
+    "Antwort 3": "Wer Fische in der Schonzeit fängt",
+    "answers": [
+      "Wer in einem Gewässer unter Verletzung fremden Fischereirechts fischt"
+    ]
+  },
+  {
+    "Nr": "0643",
+    "Frage": "Wem ist der „Fischereischein auf Lebenszeit“ zu versagen?",
+    "Antwort 1": "Personen, die das 10. Lebensjahr noch nicht vollendet haben",
+    "Antwort 2": "Personen, die geschäftsunfähig sind",
+    "Antwort 3": "Personen, die das 14. Lebensjahr noch nicht vollendet haben",
+    "answers": [
+      "Personen, die das 10. Lebensjahr noch nicht vollendet haben",
+      "Personen, die geschäftsunfähig sind"
+    ]
+  },
+  {
+    "Nr": "0644",
+    "Frage": "Welche Besonderheit hat ein Jugendfischereischein?",
+    "Antwort 1": "Berechtigt nur zur Ausübung der Fischerei mit einer Handangel",
+    "Antwort 2": "Berechtigt nur zur Ausübung der Fischerei unter Aufsicht eines mindestens 18 Jahre alten Fischereischeininhabers",
+    "Antwort 3": "Berechtigt nur zu Ausübung der Fischerei unter Aufsicht eines Erziehungsberechtigten",
+    "answers": [
+      "Berechtigt nur zur Ausübung der Fischerei unter Aufsicht eines mindestens 18 Jahre alten Fischereischeininhabers"
+    ]
+  },
+  {
+    "Nr": "0645",
+    "Frage": "Ist für den Besatz von Fischarten, die nach dem Fischereirecht nicht einheimisch sind, eine Genehmigung notwendig?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja",
+    "Antwort 3": "Nur in der Teichwirtschaft",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0646",
+    "Frage": "Ist der erstmalige Fischeinsatz in bisher fischfreie Gewässer genehmigungspflichtig?",
+    "Antwort 1": "Nur wenn das Gewässer mehr als 2 ha Wasserfläche hat",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja, bei Gewässern über 0,25 ha Wasserfläche",
+    "answers": [
+      "Ja, bei Gewässern über 0,25 ha Wasserfläche"
+    ]
+  },
+  {
+    "Nr": "0647",
+    "Frage": "Welches ist keine einheimische Fischart im Sinne des Fischereigesetzes?",
+    "Antwort 1": "Blaubandbärbling",
+    "Antwort 2": "Maifisch",
+    "Antwort 3": "Graskarpfen",
+    "answers": [
+      "Blaubandbärbling",
+      "Graskarpfen"
+    ]
+  },
+  {
+    "Nr": "0648",
+    "Frage": "Wo ist die Genehmigung für den Besatz mit nicht einheimischen Fischarten zu beantragen?",
+    "Antwort 1": "Naturschutzbehörde",
+    "Antwort 2": "Landratsamt",
+    "Antwort 3": "Fischereibehörde",
+    "answers": [
+      "Fischereibehörde"
+    ]
+  },
+  {
+    "Nr": "0649",
+    "Frage": "Ist es nötig, dass die ausgelegte Handangel ständig beaufsichtigt wird?",
+    "Antwort 1": "Ja, es ist vorgeschrieben",
+    "Antwort 2": "Nein, es genügt eine gelegentliche Kontrolle",
+    "Antwort 3": "Nein, es genügt das Anbringen von optischen oder akustischen Bissanzeigern",
+    "answers": [
+      "Ja, es ist vorgeschrieben"
+    ]
+  },
+  {
+    "Nr": "0650",
+    "Frage": "Ist dem Fischereiberechtigten die Entnahme von Fischlaich erlaubt?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Nur mit Genehmigung der Fischereibehörde",
+    "Antwort 3": "Ja, unter Beachtung spezieller gesetzlicher Bestimmungen",
+    "answers": [
+      "Ja, unter Beachtung spezieller gesetzlicher Bestimmungen"
+    ]
+  },
+  {
+    "Nr": "0651",
+    "Frage": "Dürfen vom Eigentümer überfluteter Grundstücke Maßnahmen getroffen werden, die die Rückkehr der Fische in das Gewässer erschweren oder verhindern?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nur im Einverständnis mit der Fischereibehörde",
+    "Antwort 3": "Nein",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0652",
+    "Frage": "Was sind anerkannte fischereiliche Grundsätze?",
+    "Antwort 1": "Fischfang aus Freude am Drill",
+    "Antwort 2": "Fischfang mit sachgerechter Auswahl an Angelgerät, Zubehör und Köder",
+    "Antwort 3": "Fischfang ohne Rücksicht auf die Produktionskraft des Gewässers",
+    "answers": [
+      "Fischfang mit sachgerechter Auswahl an Angelgerät, Zubehör und Köder"
+    ]
+  },
+  {
+    "Nr": "0653",
+    "Frage": "Welches Höchstmaß dürfen ständige Fischereivorrichtungen in Gewässern nicht überschreiten?",
+    "Antwort 1": "Ein Drittel der Gewässerbreite",
+    "Antwort 2": "Halbe Breite des Gewässers",
+    "Antwort 3": "Keine Einschränkungen",
+    "answers": [
+      "Halbe Breite des Gewässers"
+    ]
+  },
+  {
+    "Nr": "0654",
+    "Frage": "Welche Fangarten und Fanggeräte sind nicht verboten?",
+    "Antwort 1": "Fischen mit Fliege, Wobbler oder Pilker",
+    "Antwort 2": "Zocken, Schlenzen oder Reißen und dergleichen",
+    "Antwort 3": "Fischen mit Kiemennetzen oder Reusen",
+    "answers": [
+      "Fischen mit Fliege, Wobbler oder Pilker",
+      "Fischen mit Kiemennetzen oder Reusen"
+    ]
+  },
+  {
+    "Nr": "0655",
+    "Frage": "Was sind verbotene Fangmethoden?",
+    "Antwort 1": "Fischfang mit Giften und Sprengmitteln",
+    "Antwort 2": "Fischfang mit Reusen und Netzen",
+    "Antwort 3": "Fischfang mit Handangeln, Senken und Flugangeln",
+    "answers": [
+      "Fischfang mit Giften und Sprengmitteln"
+    ]
+  },
+  {
+    "Nr": "0656",
+    "Frage": "Warum ist das Reißen verboten?",
+    "Antwort 1": "Weil damit zuviel gefangen wird",
+    "Antwort 2": "Weil der erbeutete Fisch das Wasser beunruhigt und andere Fische vertreibt",
+    "Antwort 3": "Weil es zu starken Verletzungen beim Fisch führen kann",
+    "answers": [
+      "Weil es zu starken Verletzungen beim Fisch führen kann"
+    ]
+  },
+  {
+    "Nr": "0657",
+    "Frage": "Wer kann durch Rechtsverordnung ein Gewässer oder Teile davon zum Laichschonbezirk erklären?",
+    "Antwort 1": "Der Fischereiberechtigte",
+    "Antwort 2": "Die Fischereibehörde",
+    "Antwort 3": "Das Landratsamt",
+    "answers": [
+      "Die Fischereibehörde"
+    ]
+  },
+  {
+    "Nr": "0658",
+    "Frage": "Haben Schonmaße und Schonzeiten auch in Teichwirtschaften Gültigkeit?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja, aber nur in der Forellenteichwirtschaft",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0659",
+    "Frage": "Darf von unter Segel fahrenden Booten aus die Schleppfischerei auf dem Bodensee-Obersee ausgeübt werden?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja, ausnahmslos",
+    "Antwort 3": "Ja, wenn das Segelboot vor dem Wind segelt",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0660",
+    "Frage": "Müssen Personen, die die Fischerei ausüben, dem staatlichen Fischereiaufseher auf Verlangen den Fischereischein aushändigen und die Personalien angeben?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja",
+    "Antwort 3": "Nur Personen, die keiner Fischereiorganisation angehören",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0661",
+    "Frage": "Wem ist der Fischereischein auf Verlangen vorzuzeigen?",
+    "Antwort 1": "Dem Inhaber des Fischereirechts, dem Fischereipächter und den staatlichen und ehrenamtlichen Fischereiaufsehern",
+    "Antwort 2": "Dem Polizeivollzugsdienst",
+    "Antwort 3": "Den Inhabern von Erlaubnisscheinen",
+    "answers": [
+      "Dem Inhaber des Fischereirechts, dem Fischereipächter und den staatlichen und ehrenamtlichen Fischereiaufsehern",
+      "Dem Polizeivollzugsdienst"
+    ]
+  },
+  {
+    "Nr": "0662",
+    "Frage": "Was kann die staatliche Fischereiaufsicht außer dem Fischereischein kontrollieren?",
+    "Antwort 1": "Nur den Erlaubnisschein",
+    "Antwort 2": "Nur den Erlaubnisschein und die gefangenen Fische",
+    "Antwort 3": "Den Erlaubnisschein, die gefangenen Fische und die Fanggeräte, auch im mitgeführten Fahrzeug",
+    "answers": [
+      "Den Erlaubnisschein, die gefangenen Fische und die Fanggeräte, auch im mitgeführten Fahrzeug"
+    ]
+  },
+  {
+    "Nr": "0663",
+    "Frage": "Hat der staatliche Fischereiaufseher das Recht, einem Fischer gefangene Fische und Fanggeräte abzunehmen?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja",
+    "Antwort 3": "Nur bei Zuwiderhandlung gegen straf- oder fischereirechtliche Vorschriften",
+    "answers": [
+      "Nur bei Zuwiderhandlung gegen straf- oder fischereirechtliche Vorschriften"
+    ]
+  },
+  {
+    "Nr": "0664",
+    "Frage": "Darf der Angler an einem Gewässer, in dem er nicht zum Fischfang berechtigt ist, gebrauchsfertiges Angelgerät mit sich führen?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja, wenn er den Fischereiberechtigten kennt",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0665",
+    "Frage": "Welche Fischart unterliegt nach der Landesfischereiverordnung einer ganzjährigen Schonung?",
+    "Antwort 1": "Äsche",
+    "Antwort 2": "Schneider",
+    "Antwort 3": "Bitterling",
+    "answers": [
+      "Schneider",
+      "Bitterling"
+    ]
+  },
+  {
+    "Nr": "0666",
+    "Frage": "Welche Fischart ist ganzjährig unter Schutz gestellt?",
+    "Antwort 1": "Streber",
+    "Antwort 2": "Quappe (Trüsche, Rutte)",
+    "Antwort 3": "Groppe",
+    "answers": [
+      "Streber",
+      "Groppe"
+    ]
+  },
+  {
+    "Nr": "0667",
+    "Frage": "Ist 10 m ober- und unterhalb von Fischwegen der Fischfang erlaubt?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Ja, aber nur mit der Köderfischsenke",
+    "Antwort 3": "Nein",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0668",
+    "Frage": "Müssen die Angelhaken beim Fischfang beködert sein?",
+    "Antwort 1": "Ja, mit künstlichen oder natürlichen Ködern",
+    "Antwort 2": "Ja, jedoch ausschließlich mit künstlichen Ködern",
+    "Antwort 3": "Nein",
+    "answers": [
+      "Ja, mit künstlichen oder natürlichen Ködern"
+    ]
+  },
+  {
+    "Nr": "0669",
+    "Frage": "Bedarf es zur Ausübung der Elektrofischerei einer Erlaubnis?",
+    "Antwort 1": "Ja, sie wird durch die Fischereibehörde erteilt",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja, die Genehmigung erfolgt durch den Fischereirechtsinhaber",
+    "answers": [
+      "Ja, sie wird durch die Fischereibehörde erteilt"
+    ]
+  },
+  {
+    "Nr": "0670",
+    "Frage": "Welcher Mindestabstand muss beim Angeln mit der Wurfrute von Netzen und Reusen eingehalten werden?",
+    "Antwort 1": "100 m",
+    "Antwort 2": "50 m",
+    "Antwort 3": "30 m",
+    "answers": [
+      "50 m"
+    ]
+  },
+  {
+    "Nr": "0671",
+    "Frage": "Darf der Inhaber eines Fischereirechts oder der Pächter von sich aus im Erlaubnisschein die Mindestmaße für Fische erhöhen?",
+    "Antwort 1": "Ja, mit vernünftigem Grund, etwa für fischereiliche Hegemaßnahmen",
+    "Antwort 2": "Ja, mit Genehmigung der Fischereibehörde",
+    "Antwort 3": "Nein",
+    "answers": [
+      "Ja, mit vernünftigem Grund, etwa für fischereiliche Hegemaßnahmen",
+      "Ja, mit Genehmigung der Fischereibehörde"
+    ]
+  },
+  {
+    "Nr": "0672",
+    "Frage": "Welches Höchstmaß darf das Netz zum Köderfischfang nicht übersteigen?",
+    "Antwort 1": "Seitenlänge 1,5 m, Maschenweite 14 mm",
+    "Antwort 2": "Seitenlänge 1,0 m, Maschenweite 18 mm",
+    "Antwort 3": "Seitenlänge 1,0 m, Maschenweite 14 mm",
+    "answers": [
+      "Seitenlänge 1,0 m, Maschenweite 14 mm"
+    ]
+  },
+  {
+    "Nr": "0673",
+    "Frage": "Wie darf ein Fischereiberechtigter oder der Pächter von sich aus die gesetzlichen Mindestmaße für Fische in seinem Gewässer gegenüber dem Erlaubnisscheininhaber oder im Rahmen des Pachtvertrags ändern?",
+    "Antwort 1": "Nur erhöhen, bei begründeten fischereilichen Hegemaßnahmen",
+    "Antwort 2": "Verringern",
+    "Antwort 3": "Eine Veränderung ist nicht erlaubt",
+    "answers": [
+      "Nur erhöhen, bei begründeten fischereilichen Hegemaßnahmen"
+    ]
+  },
+  {
+    "Nr": "0674",
+    "Frage": "Wie wird das gesetzliche Mindestmaß eines Fisches festgestellt?",
+    "Antwort 1": "Der Fisch wird von der Kopfspitze bis zum Ende der zusammengelegten Schwanzflosse gemessen",
+    "Antwort 2": "Es wird der Abstand von der Kopfspitze bis zum Ende der natürlich ausgebreiteten Schwanzflosse gemessen",
+    "Antwort 3": "Kopf- und Rumpflänge werden gemessen",
+    "answers": [
+      "Es wird der Abstand von der Kopfspitze bis zum Ende der natürlich ausgebreiteten Schwanzflosse gemessen"
+    ]
+  },
+  {
+    "Nr": "0675",
+    "Frage": "Wie wird das gesetzliche Mindestmaß bei Krebsen festgestellt?",
+    "Antwort 1": "Von den Stielaugen bis zum Ende des Schwanzes",
+    "Antwort 2": "Von der vorderen Spitze des Kopfpanzers bis zum Ende des Schwanzes bei flach ausgelegtem Hinterleib",
+    "Antwort 3": "Von den Fühlern am Kopf bis zum Schwanzende",
+    "answers": [
+      "Von der vorderen Spitze des Kopfpanzers bis zum Ende des Schwanzes bei flach ausgelegtem Hinterleib"
+    ]
+  },
+  {
+    "Nr": "0676",
+    "Frage": "Ist für alle Fischarten in der Landesfischereiverordnung ein Mindestmaß festgesetzt?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nur für bestimmte Fischarten",
+    "Antwort 3": "Nur für Forellenartige",
+    "answers": [
+      "Nur für bestimmte Fischarten"
+    ]
+  },
+  {
+    "Nr": "0677",
+    "Frage": "Welche Fischart unterliegt nach der Landesfischereiverordnung einer ganzjährigen Schonung?",
+    "Antwort 1": "Lachs",
+    "Antwort 2": "Meerforelle",
+    "Antwort 3": "Seesaibling",
+    "answers": [
+      "Lachs",
+      "Meerforelle"
+    ]
+  },
+  {
+    "Nr": "0678",
+    "Frage": "Welche Fischart hat nach der Landesfischereiverordnung keine Schonzeit?",
+    "Antwort 1": "Hecht",
+    "Antwort 2": "Zander",
+    "Antwort 3": "Karpfen",
+    "answers": [
+      "Karpfen"
+    ]
+  },
+  {
+    "Nr": "0679",
+    "Frage": "Für welche Fangmethode ist eine behördliche Erlaubnis notwendig?",
+    "Antwort 1": "Elektrofischerei",
+    "Antwort 2": "Netzfischerei",
+    "Antwort 3": "Reusenfischerei",
+    "answers": [
+      "Elektrofischerei"
+    ]
+  },
+  {
+    "Nr": "0680",
+    "Frage": "Wie ist das Recht der Binnenfischerei in der Bundesrepublik Deutschland geregelt?",
+    "Antwort 1": "Durch das Bundesfischereigesetz",
+    "Antwort 2": "Durch Verträge der Gewässerpächter",
+    "Antwort 3": "Durch Rechtsvorschriften der Bundesländer",
+    "answers": [
+      "Durch Rechtsvorschriften der Bundesländer"
+    ]
+  },
+  {
+    "Nr": "0681",
+    "Frage": "Welche Personen, die einen Fischereischein besitzen, dürfen mit dem Elektrofischereigerät fischen?",
+    "Antwort 1": "Fischereiberechtigte",
+    "Antwort 2": "Fischereipächter",
+    "Antwort 3": "Inhaber eines Bedienungsscheins",
+    "answers": [
+      "Inhaber eines Bedienungsscheins"
+    ]
+  },
+  {
+    "Nr": "0682",
+    "Frage": "Wer ist Fischereibehörde?",
+    "Antwort 1": "Das Landratsamt",
+    "Antwort 2": "Das Regierungspräsidium",
+    "Antwort 3": "Das Ministerium",
+    "answers": [
+      "Das Regierungspräsidium"
+    ]
+  },
+  {
+    "Nr": "0683",
+    "Frage": "Welche Art ist ganzjährig unter Schutz gestellt?",
+    "Antwort 1": "Bachforelle",
+    "Antwort 2": "Bachsaibling",
+    "Antwort 3": "Bachneunauge",
+    "answers": [
+      "Bachneunauge"
+    ]
+  },
+  {
+    "Nr": "0684",
+    "Frage": "Welche Tierart hat ganzjährig Schonzeit?",
+    "Antwort 1": "Bisam",
+    "Antwort 2": "Bachmuschel (Kleine Flussmuschel)",
+    "Antwort 3": "Edelkrebs",
+    "answers": [
+      "Bachmuschel (Kleine Flussmuschel)"
+    ]
+  },
+  {
+    "Nr": "0685",
+    "Frage": "In welcher Rechtsvorschrift sind verbotene Fischfangmethoden geregelt?",
+    "Antwort 1": "Landesfischereiverordnung",
+    "Antwort 2": "Fischereigesetz",
+    "Antwort 3": "Jagdgesetz",
+    "answers": [
+      "Landesfischereiverordnung",
+      "Fischereigesetz"
+    ]
+  },
+  {
+    "Nr": "0686",
+    "Frage": "Welche Fischfangarten sind verboten?",
+    "Antwort 1": "Fischen mit Kiemennetzen",
+    "Antwort 2": "Fischen mit Wobblern mit mehr als drei Drillingen",
+    "Antwort 3": "Zocken oder Reißen",
+    "answers": [
+      "Fischen mit Wobblern mit mehr als drei Drillingen",
+      "Zocken oder Reißen"
+    ]
+  },
+  {
+    "Nr": "0687",
+    "Frage": "Kann es für den Fang von Fischen in Fischpässen eine Ausnahmegenehmigung geben?",
+    "Antwort 1": "Nein, es besteht ein generelles Verbot",
+    "Antwort 2": "Ja, der Vereinsvorsitzende kann kraft seines Amtes eine Erlaubnis erteilen",
+    "Antwort 3": "Ja, die Fischereibehörde kann eine Ausnahmegenehmigung erteilen",
+    "answers": [
+      "Ja, die Fischereibehörde kann eine Ausnahmegenehmigung erteilen"
+    ]
+  },
+  {
+    "Nr": "0688",
+    "Frage": "Welche Fischart hat keine Schonzeit?",
+    "Antwort 1": "Maifisch",
+    "Antwort 2": "Aland",
+    "Antwort 3": "Kaulbarsch",
+    "answers": [
+      "Kaulbarsch"
+    ]
+  },
+  {
+    "Nr": "0689",
+    "Frage": "Welche Schonzeit haben nach der Landesfischereiverordnung Neunaugen?",
+    "Antwort 1": "01.04.–30.09.",
+    "Antwort 2": "01.10.–31.12",
+    "Antwort 3": "Ganzjährig",
+    "answers": [
+      "Ganzjährig"
+    ]
+  },
+  {
+    "Nr": "0690",
+    "Frage": "Welche Fischart hat nach der Landesfischereiverordnung zwar ein Schonmaß, aber keine Schonzeit?",
+    "Antwort 1": "Quappe (Trüsche, Rutte)",
+    "Antwort 2": "Zander",
+    "Antwort 3": "Karpfen",
+    "answers": [
+      "Karpfen"
+    ]
+  },
+  {
+    "Nr": "0691",
+    "Frage": "Welche Schonzeiten gelten nach der Landesfischereiverordnung für die Fluss- und Teichmuscheln?",
+    "Antwort 1": "15.9.–31.7.",
+    "Antwort 2": "Ganzjährig",
+    "Antwort 3": "Keine",
+    "answers": [
+      "Ganzjährig"
+    ]
+  },
+  {
+    "Nr": "0692",
+    "Frage": "Welche Muscheln sind fischereirechtlich ganzjährig geschont?",
+    "Antwort 1": "Fluss- und Teichmuscheln",
+    "Antwort 2": "Körbchenmuschel",
+    "Antwort 3": "Dreikantmuschel (Wandermuschel)",
+    "answers": [
+      "Fluss- und Teichmuscheln"
+    ]
+  },
+  {
+    "Nr": "0693",
+    "Frage": "Mit wie vielen Angelruten darf vom Fischereiausübungsberechtigten gleichzeitig gefischt werden?",
+    "Antwort 1": "Mit drei Angelruten",
+    "Antwort 2": "Mit zwei Handangeln und einer Köderfischrute",
+    "Antwort 3": "Mit zwei Angelruten",
+    "answers": [
+      "Mit zwei Angelruten"
+    ]
+  },
+  {
+    "Nr": "0694",
+    "Frage": "Welche Tierart hat eine ganzjährige Schonzeit?",
+    "Antwort 1": "Rotauge",
+    "Antwort 2": "Hecht",
+    "Antwort 3": "Dohlenkrebs",
+    "answers": [
+      "Dohlenkrebs"
+    ]
+  },
+  {
+    "Nr": "0695",
+    "Frage": "Dürfen zehnfüßige Süßwasserkrebse oder Teile davon als Köder verwendet werden?",
+    "Antwort 1": "Nur die nicht heimischen Arten",
+    "Antwort 2": "Nur wenn sie zuvor keimfrei gemacht wurden",
+    "Antwort 3": "Sie dürfen grundsätzlich nicht als Köder verwendet werden",
+    "answers": [
+      "Nur wenn sie zuvor keimfrei gemacht wurden"
+    ]
+  },
+  {
+    "Nr": "0696",
+    "Frage": "Warum ist die Unterscheidung des Geschlechts beim Edelkrebs von Bedeutung?",
+    "Antwort 1": "Weil die Mindestmaße für Weibchen und Männchen unterschiedlich sind",
+    "Antwort 2": "Weil Männchen und Weibchen unterschiedliche Schonzeiten haben",
+    "Antwort 3": "Die Unterscheidung ist fischereigesetzlich von keiner Bedeutung",
+    "answers": [
+      "Weil Männchen und Weibchen unterschiedliche Schonzeiten haben"
+    ]
+  },
+  {
+    "Nr": "0697",
+    "Frage": "Welche Fischart darf in der Donau nicht ausgesetzt werden?",
+    "Antwort 1": "Aal",
+    "Antwort 2": "Lachs",
+    "Antwort 3": "Zander",
+    "answers": [
+      "Aal",
+      "Lachs"
+    ]
+  },
+  {
+    "Nr": "0698",
+    "Frage": "Welche Fischart hat in der Donau sowohl eine Schonzeit als auch ein Schonmaß?",
+    "Antwort 1": "Huchen",
+    "Antwort 2": "Aal",
+    "Antwort 3": "Rapfen (Schied)",
+    "answers": [
+      "Huchen",
+      "Rapfen (Schied)"
+    ]
+  },
+  {
+    "Nr": "0699",
+    "Frage": "Welche Fischart darf in die Zuflüsse des Bodensee-Obersees nicht ausgesetzt werden?",
+    "Antwort 1": "Regenbogenforelle",
+    "Antwort 2": "Bachforelle",
+    "Antwort 3": "Bachsaibling",
+    "answers": [
+      "Regenbogenforelle",
+      "Bachsaibling"
+    ]
+  },
+  {
+    "Nr": "0700",
+    "Frage": "Welche Fischart darf in Fließgewässer der Forellenregion oder der Äschenregion nicht ausgesetzt werden?",
+    "Antwort 1": "Bachforelle",
+    "Antwort 2": "Aal",
+    "Antwort 3": "Äsche",
+    "answers": [
+      "Aal"
+    ]
+  },
+  {
+    "Nr": "0701",
+    "Frage": "In welche Gewässer dürfen Aale auf keinen Fall eingesetzt werden?",
+    "Antwort 1": "Donau und deren Seitengewässer",
+    "Antwort 2": "Gewässer der Forellenregion",
+    "Antwort 3": "Brachsenregion des Rheines",
+    "answers": [
+      "Donau und deren Seitengewässer",
+      "Gewässer der Forellenregion"
+    ]
+  },
+  {
+    "Nr": "0702",
+    "Frage": "Welche Fischart darf in Gewässer mit einem sich selbst erhaltenden Edel-, Dohlen- oder Steinkrebsbestand nicht ausgesetzt werden?",
+    "Antwort 1": "Zander",
+    "Antwort 2": "Bachforelle",
+    "Antwort 3": "Aal",
+    "answers": [
+      "Aal"
+    ]
+  },
+  {
+    "Nr": "0703",
+    "Frage": "Dürfen nicht unter Schutz stehende Wasserpflanzen gemäht werden?",
+    "Antwort 1": "Jederzeit",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja, aber nicht in der Zeit vom 1. April bis 30. Juni",
+    "answers": [
+      "Ja, aber nicht in der Zeit vom 1. April bis 30. Juni"
+    ]
+  },
+  {
+    "Nr": "0704",
+    "Frage": "Für welche Gewässer gelten besondere fischereirechtliche Vorschriften?",
+    "Antwort 1": "Bodensee-Obersee",
+    "Antwort 2": "Schluchsee und Titisee",
+    "Antwort 3": "Bodensee-Untersee",
+    "answers": [
+      "Bodensee-Obersee",
+      "Bodensee-Untersee"
+    ]
+  },
+  {
+    "Nr": "0705",
+    "Frage": "Hat der Fischereiberechtigte Entschädigungsansprüche bei Nachteilen durch einen Gewässerausbau?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja, wie alle anderen Betroffenen, wobei geringfügige Nachteile außer Acht bleiben",
+    "Antwort 3": "Ja, aber nur, wenn er sich an den Gewässerunterhaltungsmaßnahmen beteiligt hat",
+    "answers": [
+      "Ja, wie alle anderen Betroffenen, wobei geringfügige Nachteile außer Acht bleiben"
+    ]
+  },
+  {
+    "Nr": "0706",
+    "Frage": "Unterliegt das Einbringen von Fischfutter in Gewässer Beschränkungen?",
+    "Antwort 1": "Jede Einbringung ist genehmigungspflichtig",
+    "Antwort 2": "Nein, das Einbringen unterliegt keiner Beschränkung",
+    "Antwort 3": "Ja, wenn nachteilige Auswirkungen auf die Wasserqualität zu erwarten sind",
+    "answers": [
+      "Ja, wenn nachteilige Auswirkungen auf die Wasserqualität zu erwarten sind"
+    ]
+  },
+  {
+    "Nr": "0707",
+    "Frage": "Hat der Fischereiausübungsberechtigte zu dulden, dass die Ausübung der Fischerei durch Gewässerunterhaltungsmaßnahmen vorübergehend behindert wird?",
+    "Antwort 1": "Ja, soweit dies zur ordnungsgemäßen Unterhaltung des Gewässers erforderlich ist",
+    "Antwort 2": "Nein, die Fischerei darf grundsätzlich nicht behindert werden",
+    "Antwort 3": "Nur wenn die Wasserbehörde dies besonders anordnet",
+    "answers": [
+      "Ja, soweit dies zur ordnungsgemäßen Unterhaltung des Gewässers erforderlich ist"
+    ]
+  },
+  {
+    "Nr": "0708",
+    "Frage": "Bedarf der Gebrauch von Wasser aus oberirdischen Gewässern für Zwecke der Teichwirtschaft oder der Fischzucht einer besonderen wasserrechtlichen Erlaubnis oder Bewilligung?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Nur, wenn mehr als die Hälfte des Wassers in Anspruch genommen wird",
+    "Antwort 3": "Ja, in jedem Fall",
+    "answers": [
+      "Ja, in jedem Fall"
+    ]
+  },
+  {
+    "Nr": "0709",
+    "Frage": "Was ist nach dem Wasserrecht Gemeingebrauch?",
+    "Antwort 1": "Die jedermann zustehende Befugnis, Gewässer ohne besondere Erlaubnis in einem bestimmten Ausmaß zu nutzen",
+    "Antwort 2": "Die jedermann zustehende Befugnis, aus dem Gewässer mittels Motorpumpe Wasser zur Beregnung des eigenen Grundstücks zu entnehmen",
+    "Antwort 3": "Die jedermann zustehende Befugnis, Abwasser einzuleiten",
+    "answers": [
+      "Die jedermann zustehende Befugnis, Gewässer ohne besondere Erlaubnis in einem bestimmten Ausmaß zu nutzen"
+    ]
+  },
+  {
+    "Nr": "0710",
+    "Frage": "Darf die Wasserspitzmaus getötet werden?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja, ohne Einschränkungen",
+    "Antwort 3": "Ja, aber nur in der Zeit vom 1. März bis 30. April",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0711",
+    "Frage": "Welche Wasserpflanzen sind ganzjährig geschützt?",
+    "Antwort 1": "Rohrkolben, Rohrglanzgras",
+    "Antwort 2": "Schilf, Kalmus",
+    "Antwort 3": "Teichrose, Seerose",
+    "answers": [
+      "Teichrose, Seerose"
+    ]
+  },
+  {
+    "Nr": "0712",
+    "Frage": "Der Graureiher unterliegt dem",
+    "Antwort 1": "Naturschutzrecht",
+    "Antwort 2": "Jagdrecht",
+    "Antwort 3": "Fischereirecht",
+    "answers": [
+      "Naturschutzrecht"
+    ]
+  },
+  {
+    "Nr": "0713",
+    "Frage": "Sind Kolbenwasserkäfer und ihre Larven ganzjährig geschützt?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Nur die Larven",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0714",
+    "Frage": "Sind naturnahe und unverbaute Bach- und Flussabschnitte einschließlich deren Ufervegetation geschützt?",
+    "Antwort 1": "Es besteht kein besonderer Schutz",
+    "Antwort 2": "Nur bei einer Länge von über 20 m",
+    "Antwort 3": "In jedem Fall",
+    "answers": [
+      "In jedem Fall"
+    ]
+  },
+  {
+    "Nr": "0715",
+    "Frage": "Welches sind nach dem Bundesnaturschutzgesetz geschützte Biotope?",
+    "Antwort 1": "Ausgebaute Bach- und Flussabschnitte",
+    "Antwort 2": "Altarme fließender Gewässer einschließlich deren Ufervegetation",
+    "Antwort 3": "Röhrichte",
+    "answers": [
+      "Altarme fließender Gewässer einschließlich deren Ufervegetation",
+      "Röhrichte"
+    ]
+  },
+  {
+    "Nr": "0716",
+    "Frage": "Warum soll sich ein Angler in Uferbereichen mit Schilf und Röhricht besonders umsichtig verhalten?",
+    "Antwort 1": "Um keine Ringelnattern zu stören",
+    "Antwort 2": "Weil die Anwesenheit des Anglers die dort lebenden Tiere beunruhigen kann",
+    "Antwort 3": "Um eine übermäßige Trittbelastung zu vermeiden",
+    "answers": [
+      "Weil die Anwesenheit des Anglers die dort lebenden Tiere beunruhigen kann",
+      "Um eine übermäßige Trittbelastung zu vermeiden"
+    ]
+  },
+  {
+    "Nr": "0717",
+    "Frage": "Wo sind die besonders geschützten Tier- und Pflanzenarten namentlich aufgeführt?",
+    "Antwort 1": "Bundesnaturschutzgesetz",
+    "Antwort 2": "Bundesartenschutzverordnung",
+    "Antwort 3": "Tierschutzgesetz",
+    "answers": [
+      "Bundesartenschutzverordnung"
+    ]
+  },
+  {
+    "Nr": "0718",
+    "Frage": "Zählt die Ringelnatter zu den geschützten Tieren?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Ja, aber nur in Naturschutzgebieten",
+    "answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0719",
+    "Frage": "Was ist nach dem Bundesnaturschutzgesetz verboten?",
+    "Antwort 1": "Die freie Landschaft auf Privat- und Wirtschaftswegen zu bewandern",
+    "Antwort 2": "Wildlebende Tiere mutwillig zu beunruhigen",
+    "Antwort 3": "In der Zeit vom 1. März bis 30. September Bäume abzuschneiden und Röhrichte zurückzuschneiden",
+    "answers": [
+      "Wildlebende Tiere mutwillig zu beunruhigen",
+      "In der Zeit vom 1. März bis 30. September Bäume abzuschneiden und Röhrichte zurückzuschneiden"
+    ]
+  },
+  {
+    "Nr": "0720",
+    "Frage": "Untere Naturschutzbehörde ist",
+    "Antwort 1": "das Regierungspräsidium",
+    "Antwort 2": "die Gemeindeverwaltung",
+    "Antwort 3": "das Landratsamt bzw. die kreisfreie Stadt",
+    "answers": [
+      "das Landratsamt bzw. die kreisfreie Stadt"
+    ]
+  },
+  {
+    "Nr": "0721",
+    "Frage": "Ruht in einem Naturschutzgebiet generell die Fischereiausübung?",
+    "Antwort 1": "Ja",
+    "Antwort 2": "Nein",
+    "Antwort 3": "Nur in der Brutzeit der Vögel",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0722",
+    "Frage": "Dürfen wildwachsende Seerosen gepflückt, beschädigt oder ausgerissen werden?",
+    "Antwort 1": "Nein",
+    "Antwort 2": "Ja",
+    "Antwort 3": "Es darf nur ein Handstrauß gepflückt werden",
+    "answers": [
+      "Nein"
+    ]
+  },
+  {
+    "Nr": "0723",
+    "Frage": "Was sind Zweck und Aufgabe der tierschutzrechtlichen Bestimmungen?",
+    "Antwort 1": "Leben und Wohlbefinden von Tieren zu schützen",
+    "Antwort 2": "Artenreiche Fauna zu erhalten",
+    "Antwort 3": "Haltung von Nutztieren zu regeln",
+    "answers": [
+      "Leben und Wohlbefinden von Tieren zu schützen",
+      "Haltung von Nutztieren zu regeln"
+    ]
+  },
+  {
+    "Nr": "0724",
+    "Frage": "Welcher Grundsatz des Tierschutzgesetzes ist auch bei der Fischereiausübung zu beachten?",
+    "Antwort 1": "Da Fische keinen Schmerz empfinden, sind die Bestimmungen des Tierschutzgesetzes auf sie nicht anwendbar",
+    "Antwort 2": "Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen",
+    "Antwort 3": "Fische sind keine Wirbeltiere, daher ist das Gesetz nicht anwendbar",
+    "answers": [
+      "Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen"
+    ]
+  },
+  {
+    "Nr": "0725",
+    "Frage": "Was hat nach dem Ausnehmen von Fischen mit den Eingeweiden zu geschehen?",
+    "Antwort 1": "Ins Wasser werfen",
+    "Antwort 2": "An Land liegen lassen",
+    "Antwort 3": "Vergraben oder im Hausmüll entsorgen",
+    "answers": [
+      "Vergraben oder im Hausmüll entsorgen"
+    ]
+  }
+]

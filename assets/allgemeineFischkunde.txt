@@ -1,0 +1,1334 @@
+[
+  {
+    "Nr": "0001",
+    "question": "Zu welcher Gruppe der Wirbeltiere gehören die meisten einheimischen Süßwasserfischarten?",
+    "answer1": "Knorpelfische",
+    "answer2": "Knochenfische",
+    "answer3": "Rundmäuler",
+    "solutions": [
+      "Knochenfische"
+    ]
+  },
+  {
+    "Nr": "0002",
+    "question": "Neunaugen gehören zu den",
+    "answer1": "Knorpelfischen",
+    "answer2": "Knochenfischen",
+    "answer3": "Rundmäulern",
+    "solutions": [
+      "Rundmäulern"
+    ]
+  },
+  {
+    "Nr": "0003",
+    "question": "Welche Fischart gehört zu den Schmelzschuppern?",
+    "answer1": "Sterlet",
+    "answer2": "Flussbarsch",
+    "answer3": "Stör",
+    "solutions": [
+      "Sterlet",
+      "Stör"
+    ]
+  },
+  {
+    "Nr": "0004",
+    "question": "Welche Fischart hat keine Zwischenmuskelgräten?",
+    "answer1": "Aal",
+    "answer2": "Bachforelle",
+    "answer3": "Hecht",
+    "solutions": [
+      "Aal"
+    ]
+  },
+  {
+    "Nr": "0005",
+    "question": "Welche Fischart bildet einen Laichausschlag?",
+    "answer1": "Bachforelle",
+    "answer2": "Hecht",
+    "answer3": "Brachse (Brasse)",
+    "solutions": [
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0006",
+    "question": "Womit ist die Außenseite der Schuppen bedeckt?",
+    "answer1": "Es gibt keine Bedeckung",
+    "answer2": "Von der Oberhaut, die von den Drüsenzellen durchsetzt ist",
+    "answer3": "Nur von der Lederhaut",
+    "solutions": [
+      "Von der Oberhaut, die von den Drüsenzellen durchsetzt ist"
+    ]
+  },
+  {
+    "Nr": "0007",
+    "question": "Welche Aufgaben hat die Oberhaut?",
+    "answer1": "Für die Färbung des Fisches verantwortlich",
+    "answer2": "Vermindert den Reibungswiderstand des Fischkörpers beim Schwimmen",
+    "answer3": "Schützt den Fisch gegen äußere Einflüsse",
+    "solutions": [
+      "Vermindert den Reibungswiderstand des Fischkörpers beim Schwimmen",
+      "Schützt den Fisch gegen äußere Einflüsse"
+    ]
+  },
+  {
+    "Nr": "0008",
+    "question": "Wann kann es bei Fischen zur Schädigung der Oberhaut kommen?",
+    "answer1": "Beim Schwimmen in dichtem Pflanzenbewuchs",
+    "answer2": "Bei nicht fachkundiger Behandlung (z.B. Anfassen mit trockenen Händen)",
+    "answer3": "Beim Schlagen von Laichgruben",
+    "solutions": [
+      "Bei nicht fachkundiger Behandlung (z.B. Anfassen mit trockenen Händen)",
+      "Beim Schlagen von Laichgruben"
+    ]
+  },
+  {
+    "Nr": "0009",
+    "question": "Bei welcher Fischgruppe wird kein Laichausschlag gebildet?",
+    "answer1": "Coregonen (Felchen)",
+    "answer2": "Cypriniden (Karpfenfische)",
+    "answer3": "Perciden (Echte Barsche)",
+    "solutions": [
+      "Perciden (Echte Barsche)"
+    ]
+  },
+  {
+    "Nr": "0010",
+    "question": "Welche Fischarten haben einen Laichausschlag?",
+    "answer1": "Dreistachliger Stichling",
+    "answer2": "Elritze",
+    "answer3": "Döbel (Aitel)",
+    "solutions": [
+      "Elritze",
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0011",
+    "question": "Was ist ein Laichausschlag?",
+    "answer1": "Verpilzte, abgestorbene Fischeier",
+    "answer2": "Eine durch das Laichen bedingte Verletzung der Oberhaut",
+    "answer3": "Eine Veränderung der Oberhaut bei laichreifen Fischen bestimmter Arten",
+    "solutions": [
+      "Eine Veränderung der Oberhaut bei laichreifen Fischen bestimmter Arten"
+    ]
+  },
+  {
+    "Nr": "0012",
+    "question": "Welche Fischart hat ein schwarzes Bauchfell?",
+    "answer1": "Barbe",
+    "answer2": "Quappe (Trüsche, Rutte)",
+    "answer3": "Nase",
+    "solutions": [
+      "Nase"
+    ]
+  },
+  {
+    "Nr": "0013",
+    "question": "Woran lässt sich das Alter der Fische bestimmen?",
+    "answer1": "Zum Beispiel an Schuppen, Kiemendeckeln und Gehörsteinchen",
+    "answer2": "An der Größe der Flossen",
+    "answer3": "An der Anzahl der Schuppen entlang der Seitenlinie",
+    "solutions": [
+      "Zum Beispiel an Schuppen, Kiemendeckeln und Gehörsteinchen"
+    ]
+  },
+  {
+    "Nr": "0014",
+    "question": "Welche Schuppenart hat die Mehrzahl der heimischen Süßwasserfische?",
+    "answer1": "Kammschuppen",
+    "answer2": "Schmelzschuppen",
+    "answer3": "Rundschuppen",
+    "solutions": [
+      "Rundschuppen"
+    ]
+  },
+  {
+    "Nr": "0015",
+    "question": "Der Flussbarsch besitzt",
+    "answer1": "Schmelzschuppen",
+    "answer2": "Kammschuppen",
+    "answer3": "Rundschuppen",
+    "solutions": [
+      "Kammschuppen"
+    ]
+  },
+  {
+    "Nr": "0016",
+    "question": "Welche Schuppenart hat der Stör?",
+    "answer1": "Schmelzschuppen",
+    "answer2": "Kammschuppen",
+    "answer3": "Rundschuppen",
+    "solutions": [
+      "Schmelzschuppen"
+    ]
+  },
+  {
+    "Nr": "0017",
+    "question": "Welche Schuppenart hat auf dem sichtbaren Teil der Schuppe kleinste, nadelspitze Dörnchen?",
+    "answer1": "Kammschuppen",
+    "answer2": "Rundschuppen",
+    "answer3": "Schmelzschuppen",
+    "solutions": [
+      "Kammschuppen"
+    ]
+  },
+  {
+    "Nr": "0018",
+    "question": "Welche Fischarten haben Rundschuppen?",
+    "answer1": "Brachse (Brasse), Hecht",
+    "answer2": "Flussbarsch, Streber",
+    "answer3": "Stör, Dreistachliger Stichling",
+    "solutions": [
+      "Brachse (Brasse), Hecht"
+    ]
+  },
+  {
+    "Nr": "0019",
+    "question": "Welche Fischarten haben Kammschuppen?",
+    "answer1": "Wels, Aal",
+    "answer2": "Karpfen, Brachse (Brasse)",
+    "answer3": "Flussbarsch, Kaulbarsch",
+    "solutions": [
+      "Flussbarsch, Kaulbarsch"
+    ]
+  },
+  {
+    "Nr": "0020",
+    "question": "Welche Fischarten sind schuppenlos?",
+    "answer1": "Wels, Zwergwels",
+    "answer2": "Aal, Quappe (Trüsche, Rutte)",
+    "answer3": "Barbe, Nase",
+    "solutions": [
+      "Wels, Zwergwels"
+    ]
+  },
+  {
+    "Nr": "0021",
+    "question": "Womit ist der Körper vom Dreistachligen Stichling bedeckt?",
+    "answer1": "Kammschuppen",
+    "answer2": "Rundschuppen",
+    "answer3": "Knochenplatten an den Körperflanken",
+    "solutions": [
+      "Knochenplatten an den Körperflanken"
+    ]
+  },
+  {
+    "Nr": "0022",
+    "question": "Welche Fischart hat gekielte Bauchschuppen?",
+    "answer1": "Barbe",
+    "answer2": "Maifisch",
+    "answer3": "Schneider",
+    "solutions": [
+      "Maifisch"
+    ]
+  },
+  {
+    "Nr": "0023",
+    "question": "Der Stör hat",
+    "answer1": "sehr große Rundschuppen",
+    "answer2": "Rücken-, Seiten- und Bauchschilde am Körper",
+    "answer3": "einzelne große Kammschuppen",
+    "solutions": [
+      "Rücken-, Seiten- und Bauchschilde am Körper"
+    ]
+  },
+  {
+    "Nr": "0024",
+    "question": "Dürfen Kammschupper und Rundschupper zusammen in einem Behälter befördert werden?",
+    "answer1": "Ja, ohne Probleme möglich",
+    "answer2": "Nein, weil die rauen Kammschuppen die Oberhaut der Rundschupper verletzen",
+    "answer3": "Nur bei kurzen Transportwegen",
+    "solutions": [
+      "Nein, weil die rauen Kammschuppen die Oberhaut der Rundschupper verletzen"
+    ]
+  },
+  {
+    "Nr": "0025",
+    "question": "Was versteht man unter einer Lachsforelle?",
+    "answer1": "Kreuzung aus pazifischem Lachs und Regenbogenforelle",
+    "answer2": "Forelle mit durch die Ernährung bedingtem rötlichem Fleisch",
+    "answer3": "Kreuzung zwischen Lachs und Bachforelle",
+    "solutions": [
+      "Forelle mit durch die Ernährung bedingtem rötlichem Fleisch"
+    ]
+  },
+  {
+    "Nr": "0026",
+    "question": "Bei welcher Fischart hat die erste Rückenflosse Stachelstrahlen?",
+    "answer1": "Rapfen (Schied)",
+    "answer2": "Wels",
+    "answer3": "Flussbarsch",
+    "solutions": [
+      "Flussbarsch"
+    ]
+  },
+  {
+    "Nr": "0027",
+    "question": "Welche Fischart hat freistehende Rückenstacheln?",
+    "answer1": "Dreistachliger Stichling",
+    "answer2": "Groppe (Mühlkoppe)",
+    "answer3": "Flussbarsch",
+    "solutions": [
+      "Dreistachliger Stichling"
+    ]
+  },
+  {
+    "Nr": "0028",
+    "question": "Die Bauchflossen des Fisches (Zeichnung) sind",
+    "answer1": "bauchständig",
+    "answer2": "brustständig",
+    "answer3": "kehlständig",
+    "solutions": [
+      "bauchständig"
+    ]
+  },
+  {
+    "Nr": "0029",
+    "question": "Die Bauchflossen des Fisches (Zeichnung) sind",
+    "answer1": "bauchständig",
+    "answer2": "brustständig",
+    "answer3": "kehlständig",
+    "solutions": [
+      "kehlständig"
+    ]
+  },
+  {
+    "Nr": "0030",
+    "question": "Die Bauchflossen des Fisches (Zeichnung) sind",
+    "answer1": "kehlständig",
+    "answer2": "brustständig",
+    "answer3": "bauchständig",
+    "solutions": [
+      "brustständig"
+    ]
+  },
+  {
+    "Nr": "0031",
+    "question": "Welche Art hat keine paarigen Flossen?",
+    "answer1": "Schlammpeitzger",
+    "answer2": "Aal",
+    "answer3": "Bachneunauge",
+    "solutions": [
+      "Bachneunauge"
+    ]
+  },
+  {
+    "Nr": "0032",
+    "question": "Mit Hilfe welcher Flosse erfolgt in erster Linie die Fortbewegung der Fische?",
+    "answer1": "Brustflosse",
+    "answer2": "Bauchflosse",
+    "answer3": "Schwanzflosse",
+    "solutions": [
+      "Schwanzflosse"
+    ]
+  },
+  {
+    "Nr": "0033",
+    "question": "Welchen Zweck erfüllen in erster Linie die Afterflosse und die Rückenflosse?",
+    "answer1": "Stabilisierung",
+    "answer2": "Richtungsänderung",
+    "answer3": "Fortbewegung",
+    "solutions": [
+      "Stabilisierung"
+    ]
+  },
+  {
+    "Nr": "0034",
+    "question": "Welche Fischarten besitzen zwei Rückenflossen?",
+    "answer1": "Flussbarsch, Quappe (Trüsche, Rutte), Groppe",
+    "answer2": "Karpfen, Hecht, Wels",
+    "answer3": "Aland, Maifisch, Rotauge",
+    "solutions": [
+      "Flussbarsch, Quappe (Trüsche, Rutte), Groppe"
+    ]
+  },
+  {
+    "Nr": "0035",
+    "question": "Welche Flossen haben keine Strahlen?",
+    "answer1": "Bauchflossen",
+    "answer2": "Rückenflossen",
+    "answer3": "Fettflossen",
+    "solutions": [
+      "Fettflossen"
+    ]
+  },
+  {
+    "Nr": "0036",
+    "question": "Welches deutlich sichtbare Merkmal unterscheidet die Salmoniden (Lachsfische) von den Cypriniden (Karpfenfische)?",
+    "answer1": "Fettflosse",
+    "answer2": "Zwei Rückenflossen",
+    "answer3": "Geschlossener Flossensaum",
+    "solutions": [
+      "Fettflosse"
+    ]
+  },
+  {
+    "Nr": "0037",
+    "question": "Bei welcher Fischart ist die Geschlechtsbestimmung anhand der Flossenform möglich?",
+    "answer1": "Wels",
+    "answer2": "Äsche",
+    "answer3": "Schleie",
+    "solutions": [
+      "Äsche",
+      "Schleie"
+    ]
+  },
+  {
+    "Nr": "0038",
+    "question": "Woran erkennt man die männliche Äsche?",
+    "answer1": "Laichhaken",
+    "answer2": "Größere Afterflosse",
+    "answer3": "Längere und höhere Rückenflosse",
+    "solutions": [
+      "Längere und höhere Rückenflosse"
+    ]
+  },
+  {
+    "Nr": "0039",
+    "question": "Woran ist bei der Schleie das Geschlecht zu erkennen?",
+    "answer1": "Färbung",
+    "answer2": "Schwanzflosse",
+    "answer3": "Bauchflossen",
+    "solutions": [
+      "Bauchflossen"
+    ]
+  },
+  {
+    "Nr": "0040",
+    "question": "Bei welcher Fischart ist beim Milchner der Hauptstrahl der Bauchflossen stark verdickt?",
+    "answer1": "Schleie",
+    "answer2": "Barbe",
+    "answer3": "Karpfen",
+    "solutions": [
+      "Schleie"
+    ]
+  },
+  {
+    "Nr": "0041",
+    "question": "Woran kann man die weibliche von der männlichen Äsche unterscheiden?",
+    "answer1": "Größe der Bauchflossen",
+    "answer2": "Größe der Rückenflosse",
+    "answer3": "Größe der Afterflosse",
+    "solutions": [
+      "Größe der Rückenflosse"
+    ]
+  },
+  {
+    "Nr": "0042",
+    "question": "Welche Körperform haben in der Regel die Fische, die in starker Strömung leben?",
+    "answer1": "Spindel- oder Torpedoform",
+    "answer2": "Hochrückige Form",
+    "answer3": "Schlangenform",
+    "solutions": [
+      "Spindel- oder Torpedoform"
+    ]
+  },
+  {
+    "Nr": "0043",
+    "question": "Welche Fischart hat Fang- oder Hundszähne?",
+    "answer1": "Wels",
+    "answer2": "Flussbarsch",
+    "answer3": "Zander",
+    "solutions": [
+      "Zander"
+    ]
+  },
+  {
+    "Nr": "0044",
+    "question": "Die Bachforelle hat",
+    "answer1": "keine Schlundzähne",
+    "answer2": "keinen Magen",
+    "answer3": "keine Schwimmblase",
+    "solutions": [
+      "keine Schlundzähne"
+    ]
+  },
+  {
+    "Nr": "0045",
+    "question": "Welche Fischart hat Bürstenzähne (Hechelzähne)?",
+    "answer1": "Döbel (Aitel)",
+    "answer2": "Wels",
+    "answer3": "Nase",
+    "solutions": [
+      "Wels"
+    ]
+  },
+  {
+    "Nr": "0046",
+    "question": "Bei welcher Fischart sind die Kiefer unbezahnt?",
+    "answer1": "Rapfen (Schied)",
+    "answer2": "Lachs",
+    "answer3": "Bachsaibling",
+    "solutions": [
+      "Rapfen (Schied)"
+    ]
+  },
+  {
+    "Nr": "0047",
+    "question": "Bei welcher Fischgruppe kann die Bezahnung des Pflugscharbeines zur Artbestimmung herangezogen werden?",
+    "answer1": "Salmoniden (Lachsfische)",
+    "answer2": "Cypriniden (Karpfenfische)",
+    "answer3": "Perciden (Echte Barsche)",
+    "solutions": [
+      "Salmoniden (Lachsfische)"
+    ]
+  },
+  {
+    "Nr": "0048",
+    "question": "Welche Fischart hat Schlundzähne?",
+    "answer1": "Rotfeder",
+    "answer2": "Felchen",
+    "answer3": "Flussbarsch",
+    "solutions": [
+      "Rotfeder"
+    ]
+  },
+  {
+    "Nr": "0049",
+    "question": "Bei welcher Fischgruppe sind die Schlundzähne ein wichtiges Bestimmungsmerkmal?",
+    "answer1": "Cypriniden (Karpfenfische)",
+    "answer2": "Perciden (Echte Barsche)",
+    "answer3": "Salmoniden (Lachsfische)",
+    "solutions": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0050",
+    "question": "Die Bachforelle hat",
+    "answer1": "keinen Magen",
+    "answer2": "keine Kauplatte",
+    "answer3": "keine Schwimmblase",
+    "solutions": [
+      "keine Kauplatte"
+    ]
+  },
+  {
+    "Nr": "0051",
+    "question": "Welche Fischgruppe hat eine Kauplatte?",
+    "answer1": "Salmoniden (Lachsfische)",
+    "answer2": "Cypriniden (Karpfenfische)",
+    "answer3": "Perciden (Echte Barsche)",
+    "solutions": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0052",
+    "question": "Welche Fischart hat ein rüsselartig vorstülpbares Maul?",
+    "answer1": "Nase",
+    "answer2": "Brachse (Brasse)",
+    "answer3": "Karpfen",
+    "solutions": [
+      "Brachse (Brasse)",
+      "Karpfen"
+    ]
+  },
+  {
+    "Nr": "0053",
+    "question": "Wo nehmen Fische mit unterständigem Maul hauptsächlich Nahrung auf?",
+    "answer1": "Freiwasserzone",
+    "answer2": "Wasseroberfläche",
+    "answer3": "Gewässerboden",
+    "solutions": [
+      "Gewässerboden"
+    ]
+  },
+  {
+    "Nr": "0054",
+    "question": "Welche Fischart hat verhornte Lippen und eine scharfkantige Unterlippe?",
+    "answer1": "Rotauge",
+    "answer2": "Nase",
+    "answer3": "Barbe",
+    "solutions": [
+      "Nase"
+    ]
+  },
+  {
+    "Nr": "0055",
+    "question": "Bei welcher Fischart ist das Maul nicht vorstülpbar?",
+    "answer1": "Karpfen",
+    "answer2": "Brachse (Brasse)",
+    "answer3": "Nase",
+    "solutions": [
+      "Nase"
+    ]
+  },
+  {
+    "Nr": "0056",
+    "question": "Bei welcher Fischart ist das Maul vorstülpbar?",
+    "answer1": "Güster (Blicke)",
+    "answer2": "Brachse (Brasse)",
+    "answer3": "Giebel",
+    "solutions": [
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0057",
+    "question": "Worauf lässt das oberständige Maul eines Fisches schließen?",
+    "answer1": "Der Fisch frisst vorwiegend Plankton",
+    "answer2": "Der Fisch frisst bevorzugt Oberflächennahrung",
+    "answer3": "Der Fisch frisst bevorzugt Bodennahrung",
+    "solutions": [
+      "Der Fisch frisst bevorzugt Oberflächennahrung"
+    ]
+  },
+  {
+    "Nr": "0058",
+    "question": "Was sind Barteln?",
+    "answer1": "Gleichgewichtsorgane",
+    "answer2": "Temperaturfühler",
+    "answer3": "Geschmacks- und Tastorgane",
+    "solutions": [
+      "Geschmacks- und Tastorgane"
+    ]
+  },
+  {
+    "Nr": "0059",
+    "question": "Bei welcher Fischgruppe können Barteln vorhanden sein?",
+    "answer1": "Salmoniden (Lachsfische)",
+    "answer2": "Cypriniden (Karpfenfische)",
+    "answer3": "Perciden (Echte Barsche)",
+    "solutions": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0060",
+    "question": "Welches Merkmal wird unter anderem zur Artbestimmung bei Cypriniden (Karpfenfische) herangezogen?",
+    "answer1": "Barteln",
+    "answer2": "Pflugscharbein",
+    "answer3": "Bezahnung der Kiefer",
+    "solutions": [
+      "Barteln"
+    ]
+  },
+  {
+    "Nr": "0061",
+    "question": "Bei welcher Fischgruppe können sich Barteln zur Artunterscheidung eignen?",
+    "answer1": "Salmoniden (Lachsfische)",
+    "answer2": "Cypriniden (Karpfenfische)",
+    "answer3": "Perciden (Echte Barsche)",
+    "solutions": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0062",
+    "question": "Wo befindet sich beim Fisch die Niere?",
+    "answer1": "Dicht unterhalb der Wirbelsäule",
+    "answer2": "Rechts und links des Enddarms",
+    "answer3": "Zwischen Herz und Leber",
+    "solutions": [
+      "Dicht unterhalb der Wirbelsäule"
+    ]
+  },
+  {
+    "Nr": "0063",
+    "question": "Wo befindet sich beim Fisch das Herz?",
+    "answer1": "Bei der Schwimmblase",
+    "answer2": "Unterhalb der Leber",
+    "answer3": "Kehlständig unterhalb der Kiemenhöhlen",
+    "solutions": [
+      "Kehlständig unterhalb der Kiemenhöhlen"
+    ]
+  },
+  {
+    "Nr": "0064",
+    "question": "Bei welcher Fischart ist das Fleisch besonders fettreich?",
+    "answer1": "Zander",
+    "answer2": "Aal",
+    "answer3": "Döbel (Aitel)",
+    "solutions": [
+      "Aal"
+    ]
+  },
+  {
+    "Nr": "0065",
+    "question": "Welche Fischart hat im Vergleich zur Körperlänge den längsten Darm?",
+    "answer1": "Wels",
+    "answer2": "Zander",
+    "answer3": "Karpfen",
+    "solutions": [
+      "Karpfen"
+    ]
+  },
+  {
+    "Nr": "0066",
+    "question": "Welche Fischgruppe besitzt keinen Magen?",
+    "answer1": "Salmoniden (Lachsfische)",
+    "answer2": "Cypriniden (Karpfenfische)",
+    "answer3": "Siluriden (Echte Welse)",
+    "solutions": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0067",
+    "question": "Welche Fischarten besitzen einen kurzen Darm?",
+    "answer1": "Nase, Barbe",
+    "answer2": "Rotfeder, Ukelei (Laube)",
+    "answer3": "Bachforelle, Zander",
+    "solutions": [
+      "Bachforelle, Zander"
+    ]
+  },
+  {
+    "Nr": "0068",
+    "question": "Welche Fischart hat keinen Magen?",
+    "answer1": "Flussbarsch",
+    "answer2": "Wels",
+    "answer3": "Rotfeder",
+    "solutions": [
+      "Rotfeder"
+    ]
+  },
+  {
+    "Nr": "0069",
+    "question": "Welche Fischart hat einen Magen?",
+    "answer1": "Seesaibling",
+    "answer2": "Döbel (Aitel)",
+    "answer3": "Aland",
+    "solutions": [
+      "Seesaibling"
+    ]
+  },
+  {
+    "Nr": "0070",
+    "question": "Welche Fischart hat einen langen Darm?",
+    "answer1": "Döbel (Aitel)",
+    "answer2": "Hecht",
+    "answer3": "Flussbarsch",
+    "solutions": [
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0071",
+    "question": "Welche Fischart hat Pylorusanhänge?",
+    "answer1": "Bachforelle",
+    "answer2": "Brachse (Brasse)",
+    "answer3": "Schmerle",
+    "solutions": [
+      "Bachforelle"
+    ]
+  },
+  {
+    "Nr": "0072",
+    "question": "Welche Fischart hat eine große, fettreiche Leber?",
+    "answer1": "Lachs",
+    "answer2": "Aal",
+    "answer3": "Quappe (Trüsche, Rutte)",
+    "solutions": [
+      "Quappe (Trüsche, Rutte)"
+    ]
+  },
+  {
+    "Nr": "0073",
+    "question": "Wo befindet sich beim Fisch die Gallenblase?",
+    "answer1": "An den Pylorusanhängen",
+    "answer2": "An der Leber",
+    "answer3": "An der Milz",
+    "solutions": [
+      "An der Leber"
+    ]
+  },
+  {
+    "Nr": "0074",
+    "question": "Worauf lässt im Regelfall eine prall gefüllte Gallenblase schließen?",
+    "answer1": "Der Fisch ernährt sich nur von Wasserschnecken",
+    "answer2": "Der Fisch hat längere Zeit nicht gefressen",
+    "answer3": "Der Fisch wurde zu fettreich ernährt",
+    "solutions": [
+      "Der Fisch hat längere Zeit nicht gefressen"
+    ]
+  },
+  {
+    "Nr": "0075",
+    "question": "Welche Aufgabe hat die Leber?",
+    "answer1": "Produktion von Gallensaft",
+    "answer2": "Speicherorgan",
+    "answer3": "Für die Harnbildung verantwortlich",
+    "solutions": [
+      "Produktion von Gallensaft",
+      "Speicherorgan"
+    ]
+  },
+  {
+    "Nr": "0076",
+    "question": "Wo liegt bei Fischen die Milz?",
+    "answer1": "In der Nähe des Darmtraktes",
+    "answer2": "Oberhalb der Schwimmblase",
+    "answer3": "In unmittelbarer Nähe des Herzens",
+    "solutions": [
+      "In der Nähe des Darmtraktes"
+    ]
+  },
+  {
+    "Nr": "0077",
+    "question": "Welche Fischart hat einen giftigen Rogen?",
+    "answer1": "Schlammpeitzger",
+    "answer2": "Barbe",
+    "answer3": "Bachsaibling",
+    "solutions": [
+      "Barbe"
+    ]
+  },
+  {
+    "Nr": "0078",
+    "question": "Bei welcher Fischart sind die Geschlechtsorgane unpaarig ausgebildet?",
+    "answer1": "Wels",
+    "answer2": "Flussbarsch",
+    "answer3": "Hecht",
+    "solutions": [
+      "Flussbarsch"
+    ]
+  },
+  {
+    "Nr": "0079",
+    "question": "Welche Aufgabe hat die Schwimmblase?",
+    "answer1": "Gallenspeicher",
+    "answer2": "Schwebeorgan",
+    "answer3": "Sauerstoffreserve",
+    "solutions": [
+      "Schwebeorgan"
+    ]
+  },
+  {
+    "Nr": "0080",
+    "question": "Bei welcher Fischart ist die Schwimmblase einteilig?",
+    "answer1": "Äsche",
+    "answer2": "Karpfen",
+    "answer3": "Bachschmerle",
+    "solutions": [
+      "Äsche"
+    ]
+  },
+  {
+    "Nr": "0081",
+    "question": "Bei welcher Fischart ist die Schwimmblase zweigeteilt?",
+    "answer1": "Brachse (Brasse)",
+    "answer2": "Hecht",
+    "answer3": "Lachs",
+    "solutions": [
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0082",
+    "question": "Welche Fischart besitzt an seiner Schwimmblase einen Verbindungsgang zum Darm?",
+    "answer1": "Flussbarsch",
+    "answer2": "Seeforelle",
+    "answer3": "Dreistachliger Stichling",
+    "solutions": [
+      "Seeforelle"
+    ]
+  },
+  {
+    "Nr": "0083",
+    "question": "Bei welcher Fischart ist die Schwimmblase mit dem Bauchfell fest verwachsen?",
+    "answer1": "Lachs",
+    "answer2": "Wels (Waller)",
+    "answer3": "Zobel",
+    "solutions": [
+      "Wels (Waller)"
+    ]
+  },
+  {
+    "Nr": "0084",
+    "question": "Bei welcher Fischart besteht eine Verbindung zwischen Schwimmblase und Innenohr?",
+    "answer1": "Hecht",
+    "answer2": "Aal",
+    "answer3": "Wels",
+    "solutions": [
+      "Wels"
+    ]
+  },
+  {
+    "Nr": "0085",
+    "question": "Welche Fischart hat keine sichtbare Schwimmblase?",
+    "answer1": "Moderlieschen",
+    "answer2": "Strömer",
+    "answer3": "Groppe",
+    "solutions": [
+      "Groppe"
+    ]
+  },
+  {
+    "Nr": "0086",
+    "question": "Womit ist die Schwimmblase gefüllt?",
+    "answer1": "Sauerstoff",
+    "answer2": "Kohlendioxid",
+    "answer3": "Gasgemisch",
+    "solutions": [
+      "Gasgemisch"
+    ]
+  },
+  {
+    "Nr": "0087",
+    "question": "Welche Fischgruppe hat eine zweikammerige Schwimmblase mit Schwimmblasengang?",
+    "answer1": "Cypriniden (Karpfenfische)",
+    "answer2": "Salmoniden (Lachsfische)",
+    "answer3": "Perciden (Echte Barsche)",
+    "solutions": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0088",
+    "question": "Bei welcher Fischart ist die Schwimmblase einkammerig mit Schwimmblasengang?",
+    "answer1": "Hecht",
+    "answer2": "Flussbarsch",
+    "answer3": "Groppe",
+    "solutions": [
+      "Hecht"
+    ]
+  },
+  {
+    "Nr": "0089",
+    "question": "Welche Fischart besitzt an der Schwimmblase keinen Verbindungsgang zum Vorderdarm?",
+    "answer1": "Flussbarsch",
+    "answer2": "Bachforelle",
+    "answer3": "Hecht",
+    "solutions": [
+      "Flussbarsch"
+    ]
+  },
+  {
+    "Nr": "0090",
+    "question": "Was sind Kiemenreusendornen?",
+    "answer1": "Fortsätze an der Innenseite der Kiemenbögen",
+    "answer2": "Fangzähne von barschartigen Fischen",
+    "answer3": "Zahnreihe im Oberkiefer von Salmoniden (Lachsfische)",
+    "solutions": [
+      "Fortsätze an der Innenseite der Kiemenbögen"
+    ]
+  },
+  {
+    "Nr": "0091",
+    "question": "Welche Aufgabe haben Kiemenreusendornen?",
+    "answer1": "Zerkleinerung der Nahrung",
+    "answer2": "Filter für die Nahrung",
+    "answer3": "Mechanischer Schutz für die Kiemen",
+    "solutions": [
+      "Filter für die Nahrung",
+      "Mechanischer Schutz für die Kiemen"
+    ]
+  },
+  {
+    "Nr": "0092",
+    "question": "Was fressen Felchen bevorzugt?",
+    "answer1": "Tierisches Plankton",
+    "answer2": "Kleine Fische",
+    "answer3": "Pflanzliches Plankton",
+    "solutions": [
+      "Tierisches Plankton"
+    ]
+  },
+  {
+    "Nr": "0093",
+    "question": "Wie reagieren die meisten Fischarten auf akuten Sauerstoffmangel?",
+    "answer1": "Sie flüchten",
+    "answer2": "Sie gehen sofort ein",
+    "answer3": "Sie kommen an die Wasseroberfläche und schnappen nach Luft",
+    "solutions": [
+      "Sie flüchten",
+      "Sie kommen an die Wasseroberfläche und schnappen nach Luft"
+    ]
+  },
+  {
+    "Nr": "0094",
+    "question": "Welche Fischart ist auch zur Darmatmung fähig?",
+    "answer1": "Steinbeißer",
+    "answer2": "Schlammpeitzger",
+    "answer3": "Moderlieschen",
+    "solutions": [
+      "Steinbeißer",
+      "Schlammpeitzger"
+    ]
+  },
+  {
+    "Nr": "0095",
+    "question": "Welche Aussage ist richtig?",
+    "answer1": "Körpertemperatur des Fisches ist viel höher als die Wassertemperatur",
+    "answer2": "Körpertemperatur des Fisches ist niedriger als die Wassertemperatur",
+    "answer3": "Körpertemperatur des Fisches ist in etwa gleich der Wassertemperatur",
+    "solutions": [
+      "Körpertemperatur des Fisches ist in etwa gleich der Wassertemperatur"
+    ]
+  },
+  {
+    "Nr": "0096",
+    "question": "Welche Aussage trifft für einheimische Süßwasserfische zu?",
+    "answer1": "Fische sind Kaltblüter",
+    "answer2": "Fische sind Warmblüter",
+    "answer3": "Fische gehören zu den wechselwarmen Tieren",
+    "solutions": [
+      "Fische gehören zu den wechselwarmen Tieren"
+    ]
+  },
+  {
+    "Nr": "0097",
+    "question": "Wie beeinflusst die Wassertemperatur den Sauerstoffbedarf von Fischen?",
+    "answer1": "Der Sauerstoffbedarf steigt mit sinkender Wassertemperatur",
+    "answer2": "Der Sauerstoffbedarf bleibt, unabhängig von der Wassertemperatur, gleich",
+    "answer3": "Der Sauerstoffbedarf steigt mit zunehmender Wassertemperatur",
+    "solutions": [
+      "Der Sauerstoffbedarf steigt mit zunehmender Wassertemperatur"
+    ]
+  },
+  {
+    "Nr": "0098",
+    "question": "Das Blut welcher Fischarten kann beim Menschen in einer offenen Wunde oder im Auge besonders leicht Entzündungen hervorrufen?",
+    "answer1": "Aal und Wels",
+    "answer2": "Zander und Flussbarsch",
+    "answer3": "Hecht und Rapfen (Schied)",
+    "solutions": [
+      "Aal und Wels"
+    ]
+  },
+  {
+    "Nr": "0099",
+    "question": "Wozu ist die Kenntnis der Lage des Fischgehirns wichtig?",
+    "answer1": "Um den gesetzlich vorgeschriebenen Gehirnstich vorschriftsmäßig ausführen zu können",
+    "answer2": "Um den Fisch durch Gehirnstich ausbluten zu lassen",
+    "answer3": "Um den Fisch gemäß Tierschutz-Schlachtverordnung vorschriftsmäßig betäuben zu können",
+    "solutions": [
+      "Um den Fisch gemäß Tierschutz-Schlachtverordnung vorschriftsmäßig betäuben zu können"
+    ]
+  },
+  {
+    "Nr": "0100",
+    "question": "Wo verläuft bei den Knochenfischen der Hauptnervenstrang?",
+    "answer1": "Im Bereich der Seitenlinie",
+    "answer2": "Unterhalb der Wirbelsäule",
+    "answer3": "Im Neuralbogen der Wirbelsäule",
+    "solutions": [
+      "Im Neuralbogen der Wirbelsäule"
+    ]
+  },
+  {
+    "Nr": "0101",
+    "question": "Welche Funktion hat bei Fischen die Seitenlinie?",
+    "answer1": "Organ für den Ferntastsinn",
+    "answer2": "Organ für den Geschmackssinn",
+    "answer3": "Organ für den Gleichgewichtssinn",
+    "solutions": [
+      "Organ für den Ferntastsinn"
+    ]
+  },
+  {
+    "Nr": "0102",
+    "question": "Welche Fischart hat im Verhältnis zur Körpergröße relativ kleine Augen?",
+    "answer1": "Brachse (Brasse)",
+    "answer2": "Wels",
+    "answer3": "Güster (Blicke)",
+    "solutions": [
+      "Wels"
+    ]
+  },
+  {
+    "Nr": "0103",
+    "question": "Bei welchen Fischarten spielt beim Beutefang das Sehvermögen nur eine geringe Rolle?",
+    "answer1": "Äsche, Lachs",
+    "answer2": "Wels, Aal",
+    "answer3": "Zander, Hecht",
+    "solutions": [
+      "Wels, Aal"
+    ]
+  },
+  {
+    "Nr": "0104",
+    "question": "Bei welcher Fischart ist der Geruchssinn besonders gut entwickelt?",
+    "answer1": "Schleie",
+    "answer2": "Hecht",
+    "answer3": "Aal",
+    "solutions": [
+      "Aal"
+    ]
+  },
+  {
+    "Nr": "0105",
+    "question": "Wo liegen bei Fischen die Geruchsorgane?",
+    "answer1": "Entlang der Seitenlinie",
+    "answer2": "Im Bereich des Kiemendeckels",
+    "answer3": "Im Bereich zwischen Augen und Maulspitze",
+    "solutions": [
+      "Im Bereich zwischen Augen und Maulspitze"
+    ]
+  },
+  {
+    "Nr": "0106",
+    "question": "Können Knochenfische riechen?",
+    "answer1": "Ja, sie haben paarige Riechorgane",
+    "answer2": "Nein, sie haben kein Riechorgan",
+    "answer3": "Nur wenn Barteln vorhanden sind",
+    "solutions": [
+      "Ja, sie haben paarige Riechorgane"
+    ]
+  },
+  {
+    "Nr": "0107",
+    "question": "Haben Fische ein Geruchsorgan?",
+    "answer1": "Nein",
+    "answer2": "Ja",
+    "answer3": "Nur Fische mit Barteln",
+    "solutions": [
+      "Ja"
+    ]
+  },
+  {
+    "Nr": "0108",
+    "question": "Wie ist bei Neunaugen das Geruchsorgan ausgebildet?",
+    "answer1": "Unpaarige Riechgrube",
+    "answer2": "Paarige Riechgruben",
+    "answer3": "In Form von Barteln",
+    "solutions": [
+      "Unpaarige Riechgrube"
+    ]
+  },
+  {
+    "Nr": "0109",
+    "question": "Haben Fische ein Gehörorgan?",
+    "answer1": "Nein",
+    "answer2": "Ja, ein äußerlich erkennbares Gehörorgan",
+    "answer3": "Ja, ein inneres Gehörorgan",
+    "solutions": [
+      "Ja, ein inneres Gehörorgan"
+    ]
+  },
+  {
+    "Nr": "0110",
+    "question": "Bei welchen Fischarten ist das Hörvermögen besonders gut?",
+    "answer1": "Felchen, Seesaibling",
+    "answer2": "Bachforelle, Lachs",
+    "answer3": "Karpfen, Wels",
+    "solutions": [
+      "Karpfen, Wels"
+    ]
+  },
+  {
+    "Nr": "0111",
+    "question": "Was ist ein Milchner?",
+    "answer1": "Geschlechtsreifer männlicher Fisch",
+    "answer2": "Zuchtform bestimmter Fischarten",
+    "answer3": "Kreuzung zwischen zwei Fischarten",
+    "solutions": [
+      "Geschlechtsreifer männlicher Fisch"
+    ]
+  },
+  {
+    "Nr": "0112",
+    "question": "Was ist ein Rogner?",
+    "answer1": "Geschlechtsreifer weiblicher Fisch",
+    "answer2": "Männlicher Fisch",
+    "answer3": "Unfruchtbare Kreuzung zwischen zwei Fischarten",
+    "solutions": [
+      "Geschlechtsreifer weiblicher Fisch"
+    ]
+  },
+  {
+    "Nr": "0113",
+    "question": "Tritt in der Regel beim Männchen oder beim Weibchen die Geschlechtsreife früher ein?",
+    "answer1": "Weibchen",
+    "answer2": "Männchen",
+    "answer3": "Tritt bei beiden gleichzeitig ein",
+    "solutions": [
+      "Männchen"
+    ]
+  },
+  {
+    "Nr": "0114",
+    "question": "Welche Fischart legt ihre Eier in Laichgruben ab?",
+    "answer1": "Rotauge",
+    "answer2": "Felchen",
+    "answer3": "Seeforelle",
+    "solutions": [
+      "Seeforelle"
+    ]
+  },
+  {
+    "Nr": "0115",
+    "question": "Der Rogner welcher Fischart hat je Kilogramm Körpergewicht die größte Eizahl?",
+    "answer1": "Hecht",
+    "answer2": "Bachforelle",
+    "answer3": "Karpfen",
+    "solutions": [
+      "Karpfen"
+    ]
+  },
+  {
+    "Nr": "0116",
+    "question": "Wie groß ist die Eizahl pro kg Körpergewicht bei Bachforellen?",
+    "answer1": "1.000–3.000",
+    "answer2": "20.000–40.000",
+    "answer3": "100.000–200.000",
+    "solutions": [
+      "1.000–3.000"
+    ]
+  },
+  {
+    "Nr": "0117",
+    "question": "Bei welcher Fischart ist der Eidurchmesser am größten?",
+    "answer1": "Hecht",
+    "answer2": "Karpfen",
+    "answer3": "Bachforelle",
+    "solutions": [
+      "Bachforelle"
+    ]
+  },
+  {
+    "Nr": "0118",
+    "question": "Bei welcher Fischgruppe dauert die Entwicklung der Eier am längsten?",
+    "answer1": "Sommerlaicher",
+    "answer2": "Frühjahrslaicher",
+    "answer3": "Winterlaicher",
+    "solutions": [
+      "Winterlaicher"
+    ]
+  },
+  {
+    "Nr": "0119",
+    "question": "Welche Bedeutung hat der Dottersack für die geschlüpfte Fischlarve?",
+    "answer1": "Sauerstoffversorgung",
+    "answer2": "Ernährung",
+    "answer3": "Schutzhülle",
+    "solutions": [
+      "Ernährung"
+    ]
+  },
+  {
+    "Nr": "0120",
+    "question": "Wann laicht die Bachforelle?",
+    "answer1": "Mai–Juni",
+    "answer2": "August–September",
+    "answer3": "November–Januar",
+    "solutions": [
+      "November–Januar"
+    ]
+  },
+  {
+    "Nr": "0121",
+    "question": "Welche der genannten Fischarten laicht im Winter?",
+    "answer1": "Bachforelle",
+    "answer2": "Felchen",
+    "answer3": "Rotauge",
+    "solutions": [
+      "Bachforelle",
+      "Felchen"
+    ]
+  },
+  {
+    "Nr": "0122",
+    "question": "Welche Fischart ist ein Frühjahrslaicher?",
+    "answer1": "Äsche",
+    "answer2": "Seeforelle",
+    "answer3": "Felchen",
+    "solutions": [
+      "Äsche"
+    ]
+  },
+  {
+    "Nr": "0123",
+    "question": "Welche Fischart ist ein Winterlaicher?",
+    "answer1": "Quappe (Trüsche, Rutte)",
+    "answer2": "Karpfen",
+    "answer3": "Hecht",
+    "solutions": [
+      "Quappe (Trüsche, Rutte)"
+    ]
+  },
+  {
+    "Nr": "0124",
+    "question": "Welche Fischart laicht im Frühjahr?",
+    "answer1": "Zander",
+    "answer2": "Felchen",
+    "answer3": "Groppe",
+    "solutions": [
+      "Zander",
+      "Groppe"
+    ]
+  },
+  {
+    "Nr": "0125",
+    "question": "Wann laicht der Flussbarsch?",
+    "answer1": "Januar–Februar",
+    "answer2": "April–Mai",
+    "answer3": "September–Dezember",
+    "solutions": [
+      "April–Mai"
+    ]
+  },
+  {
+    "Nr": "0126",
+    "question": "Welche Fischarten sind Kieslaicher?",
+    "answer1": "Äsche, Nase",
+    "answer2": "Dreistachliger Stichling, Bitterling",
+    "answer3": "Wels, Aal",
+    "solutions": [
+      "Äsche, Nase"
+    ]
+  },
+  {
+    "Nr": "0127",
+    "question": "Welche Fischarten sind typische Krautlaicher?",
+    "answer1": "Karpfen, Schleie",
+    "answer2": "Nase, Barbe",
+    "answer3": "Felchen, Äsche",
+    "solutions": [
+      "Karpfen, Schleie"
+    ]
+  },
+  {
+    "Nr": "0128",
+    "question": "Welche Aussage ist richtig?",
+    "answer1": "Der Hecht laicht in der Freiwasserzone eines Sees",
+    "answer2": "Der Hecht ist ein Krautlaicher",
+    "answer3": "Der Hecht ist ein Kieslaicher",
+    "solutions": [
+      "Der Hecht ist ein Krautlaicher"
+    ]
+  },
+  {
+    "Nr": "0129",
+    "question": "Wo laicht der Lachs?",
+    "answer1": "Brackwasser",
+    "answer2": "Meer",
+    "answer3": "Süßwasser",
+    "solutions": [
+      "Süßwasser"
+    ]
+  },
+  {
+    "Nr": "0130",
+    "question": "Was versteht man unter „anadrome Fische“?",
+    "answer1": "Fische, die zum Ablaichen vom Meer ins Süßwasser wandern",
+    "answer2": "Fische, die hauptsächlich im Süßwasser leben und zum Ablaichen ins Meer wandern",
+    "answer3": "Fische, die nicht standorttreu sind",
+    "solutions": [
+      "Fische, die zum Ablaichen vom Meer ins Süßwasser wandern"
+    ]
+  },
+  {
+    "Nr": "0131",
+    "question": "Was versteht man unter „katadrome Fische“?",
+    "answer1": "Fische, die zum Ablaichen vom Meer ins Süßwasser wandern",
+    "answer2": "Fische, die hauptsächlich im Süßwasser leben und zum Ablaichen ins Meer wandern",
+    "answer3": "Fische, die nicht standorttreu sind",
+    "solutions": [
+      "Fische, die hauptsächlich im Süßwasser leben und zum Ablaichen ins Meer wandern"
+    ]
+  },
+  {
+    "Nr": "0132",
+    "question": "Ist der Aal ein katadromer oder ein anadromer Fisch?",
+    "answer1": "Anadromer Fisch",
+    "answer2": "Katadromer Fisch",
+    "answer3": "Weder anadrom noch katadrom",
+    "solutions": [
+      "Katadromer Fisch"
+    ]
+  }
+]

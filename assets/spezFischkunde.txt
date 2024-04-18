@@ -1,0 +1,1298 @@
+[
+  {
+    "Nr": "0133",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Güster (Blicke)",
+    "Antwort 2": "Giebel",
+    "Antwort 3": "Brachse (Brasse)",
+    "answers": [
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0134",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Groppe",
+    "Antwort 2": "Elritze",
+    "Antwort 3": "Gründling",
+    "answers": [
+      "Gründling"
+    ]
+  },
+  {
+    "Nr": "0135",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Gründling",
+    "Antwort 2": "Groppe",
+    "Antwort 3": "Elritze",
+    "answers": [
+      "Groppe"
+    ]
+  },
+  {
+    "Nr": "0136",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Kaulbarsch",
+    "Antwort 2": "Zander",
+    "Antwort 3": "Flussbarsch",
+    "answers": [
+      "Flussbarsch"
+    ]
+  },
+  {
+    "Nr": "0137",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Schmerle",
+    "Antwort 2": "Steinbeißer",
+    "Antwort 3": "Quappe (Trüsche, Rutte)",
+    "answers": [
+      "Quappe (Trüsche, Rutte)"
+    ]
+  },
+  {
+    "Nr": "0138",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Bach-/Flussneunauge",
+    "Antwort 2": "Aal",
+    "Antwort 3": "Meerneunauge",
+    "answers": [
+      "Aal"
+    ]
+  },
+  {
+    "Nr": "0139",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Schmerle",
+    "Antwort 2": "Steinbeißer",
+    "Antwort 3": "Schlammpeitzger",
+    "answers": [
+      "Steinbeißer"
+    ]
+  },
+  {
+    "Nr": "0140",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Wels",
+    "Antwort 2": "Zwergwels",
+    "Antwort 3": "Barbe",
+    "answers": [
+      "Wels"
+    ]
+  },
+  {
+    "Nr": "0141",
+    "Frage": "Welche Fischart ist hier abgebildet?",
+    "Antwort 1": "Schmerle",
+    "Antwort 2": "Steinbeißer",
+    "Antwort 3": "Schlammpeitzger",
+    "answers": [
+      "Schlammpeitzger"
+    ]
+  },
+  {
+    "Nr": "0142",
+    "Frage": "Welche Fischart ist hier abgebildet?",
+    "Antwort 1": "Steinbeißer",
+    "Antwort 2": "Schlammpeitzger",
+    "Antwort 3": "Schmerle",
+    "answers": [
+      "Schmerle"
+    ]
+  },
+  {
+    "Nr": "0143",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Karpfen",
+    "Antwort 2": "Karausche",
+    "Antwort 3": "Giebel",
+    "answers": [
+      "Karausche"
+    ]
+  },
+  {
+    "Nr": "0144",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Bachsaibling",
+    "Antwort 2": "Regenbogenforelle",
+    "Antwort 3": "Seesaibling",
+    "answers": [
+      "Seesaibling"
+    ]
+  },
+  {
+    "Nr": "0145",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Ukelei (Laube)",
+    "Antwort 2": "Schneider",
+    "Antwort 3": "Bitterling",
+    "answers": [
+      "Schneider"
+    ]
+  },
+  {
+    "Nr": "0146",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Bitterling",
+    "Antwort 2": "Schneider",
+    "Antwort 3": "Elritze",
+    "answers": [
+      "Elritze"
+    ]
+  },
+  {
+    "Nr": "0147",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Schleie",
+    "Antwort 2": "Karpfen",
+    "Antwort 3": "Barbe",
+    "answers": [
+      "Schleie"
+    ]
+  },
+  {
+    "Nr": "0148",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Nase",
+    "Antwort 2": "Barbe",
+    "Antwort 3": "Gründling",
+    "answers": [
+      "Barbe"
+    ]
+  },
+  {
+    "Nr": "0149",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Karpfen",
+    "Antwort 2": "Karausche",
+    "Antwort 3": "Giebel",
+    "answers": [
+      "Giebel"
+    ]
+  },
+  {
+    "Nr": "0150",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Schleie",
+    "Antwort 2": "Karpfen",
+    "Antwort 3": "Giebel",
+    "answers": [
+      "Karpfen"
+    ]
+  },
+  {
+    "Nr": "0151",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Seesaibling",
+    "Antwort 2": "Felchen",
+    "Antwort 3": "Äsche",
+    "answers": [
+      "Äsche"
+    ]
+  },
+  {
+    "Nr": "0152",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Felchen",
+    "Antwort 2": "Hasel",
+    "Antwort 3": "Äsche",
+    "answers": [
+      "Felchen"
+    ]
+  },
+  {
+    "Nr": "0153",
+    "Frage": "Welcher Fisch ist hier dargestellt?",
+    "Antwort 1": "Kaulbarsch",
+    "Antwort 2": "Flussbarsch",
+    "Antwort 3": "Zander",
+    "answers": [
+      "Zander"
+    ]
+  },
+  {
+    "Nr": "0154",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Ukelei (Laube)",
+    "Antwort 2": "Rapfen (Schied)",
+    "Antwort 3": "Moderlieschen",
+    "answers": [
+      "Rapfen (Schied)"
+    ]
+  },
+  {
+    "Nr": "0155",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Regenbogenforelle",
+    "Antwort 2": "Bachforelle",
+    "Antwort 3": "Seesaibling",
+    "answers": [
+      "Regenbogenforelle"
+    ]
+  },
+  {
+    "Nr": "0156",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Regenbogenforelle",
+    "Antwort 2": "Bachforelle",
+    "Antwort 3": "Bachsaibling",
+    "answers": [
+      "Bachforelle"
+    ]
+  },
+  {
+    "Nr": "0157",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Hasel",
+    "Antwort 2": "Döbel (Aitel)",
+    "Antwort 3": "Rapfen (Schied)",
+    "answers": [
+      "Hasel"
+    ]
+  },
+  {
+    "Nr": "0158",
+    "Frage": "Welche Fischart ist hier dargestellt",
+    "Antwort 1": "Moderlieschen",
+    "Antwort 2": "Ukelei (Laube)",
+    "Antwort 3": "Strömer",
+    "answers": [
+      "Moderlieschen"
+    ]
+  },
+  {
+    "Nr": "0159",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Rotfeder",
+    "Antwort 2": "Rotauge",
+    "Antwort 3": "Aland",
+    "answers": [
+      "Rotfeder"
+    ]
+  },
+  {
+    "Nr": "0160",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Rotfeder",
+    "Antwort 2": "Rotauge",
+    "Antwort 3": "Aland",
+    "answers": [
+      "Rotauge"
+    ]
+  },
+  {
+    "Nr": "0161",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Strömer",
+    "Antwort 2": "Moderlieschen",
+    "Antwort 3": "Ukelei (Laube)",
+    "answers": [
+      "Ukelei (Laube)"
+    ]
+  },
+  {
+    "Nr": "0162",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Nase",
+    "Antwort 2": "Barbe",
+    "Antwort 3": "Rapfen (Schied)",
+    "answers": [
+      "Nase"
+    ]
+  },
+  {
+    "Nr": "0163",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Hasel",
+    "Antwort 2": "Döbel (Aitel)",
+    "Antwort 3": "Aland",
+    "answers": [
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0164",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Brachse (Brasse)",
+    "Antwort 2": "Giebel",
+    "Antwort 3": "Güster (Blicke)",
+    "answers": [
+      "Güster (Blicke)"
+    ]
+  },
+  {
+    "Nr": "0165",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Zander",
+    "Antwort 2": "Hecht",
+    "Antwort 3": "Huchen",
+    "answers": [
+      "Hecht"
+    ]
+  },
+  {
+    "Nr": "0166",
+    "Frage": "Welche Fischart ist hier dargestellt?",
+    "Antwort 1": "Bachsaibling",
+    "Antwort 2": "Seesaibling",
+    "Antwort 3": "Huchen",
+    "answers": [
+      "Bachsaibling"
+    ]
+  },
+  {
+    "Nr": "0167",
+    "Frage": "Was ist ein Querder?",
+    "Antwort 1": "Neunauge im Larvenstadium",
+    "Antwort 2": "Männliches Neunauge",
+    "Antwort 3": "Weibliches Neunauge",
+    "answers": [
+      "Neunauge im Larvenstadium"
+    ]
+  },
+  {
+    "Nr": "0168",
+    "Frage": "Wie lange dauert etwa das Larvenstadium (Querder) der Neunaugen?",
+    "Antwort 1": "6 Monate",
+    "Antwort 2": "Ein Jahr",
+    "Antwort 3": "3–5 Jahre",
+    "answers": [
+      "3–5 Jahre"
+    ]
+  },
+  {
+    "Nr": "0169",
+    "Frage": "Woher hat das Neunauge seinen Namen?",
+    "Antwort 1": "Es besitzt neun Augen",
+    "Antwort 2": "Es besitzt ein Auge und acht Kiemenöffnungen",
+    "Antwort 3": "Von jeder Seite sind das unpaarige Nasenloch, 1 Auge und 7 Kiemenöffnungen zu erkennen",
+    "answers": [
+      "Von jeder Seite sind das unpaarige Nasenloch, 1 Auge und 7 Kiemenöffnungen zu erkennen"
+    ]
+  },
+  {
+    "Nr": "0170",
+    "Frage": "Wer besitzt ein Maul mit Hornzähnen?",
+    "Antwort 1": "Bachneunauge",
+    "Antwort 2": "Schlammpeitzger",
+    "Antwort 3": "Aal",
+    "answers": [
+      "Bachneunauge"
+    ]
+  },
+  {
+    "Nr": "0171",
+    "Frage": "Wo lebt das Bachneunauge?",
+    "Antwort 1": "Forellenregion",
+    "Antwort 2": "Kaulbarsch-/Flunder- oder Brackwasserregion",
+    "Antwort 3": "Brachsenregion",
+    "answers": [
+      "Forellenregion"
+    ]
+  },
+  {
+    "Nr": "0172",
+    "Frage": "Welche Neunaugen-Art führt anadrome Wanderungen durch?",
+    "Antwort 1": "Meerneunauge",
+    "Antwort 2": "Bachneunauge",
+    "Antwort 3": "Flussneunauge",
+    "answers": [
+      "Meerneunauge",
+      "Flussneunauge"
+    ]
+  },
+  {
+    "Nr": "0173",
+    "Frage": "Der Stör ist ein",
+    "Antwort 1": "Schmelzschupper",
+    "Antwort 2": "Rundschupper",
+    "Antwort 3": "Kammschupper",
+    "answers": [
+      "Schmelzschupper"
+    ]
+  },
+  {
+    "Nr": "0174",
+    "Frage": "Welche Fischart steigt zum Laichen vom Meer in das Süßwasser auf?",
+    "Antwort 1": "Lachs",
+    "Antwort 2": "Aal",
+    "Antwort 3": "Meerforelle",
+    "answers": [
+      "Lachs",
+      "Meerforelle"
+    ]
+  },
+  {
+    "Nr": "0175",
+    "Frage": "Wie verhält sich die erwachsene Bachforelle im Gewässer?",
+    "Antwort 1": "Ein Revierverhalten ist nur zur Laichzeit zu beobachten",
+    "Antwort 2": "Sie zeigt ein ausgeprägtes Revierverhalten",
+    "Antwort 3": "Die Bachforelle ist eine Wanderfischart",
+    "answers": [
+      "Sie zeigt ein ausgeprägtes Revierverhalten"
+    ]
+  },
+  {
+    "Nr": "0176",
+    "Frage": "Wo laicht die Meerforelle?",
+    "Antwort 1": "In den Oberläufen der Fließgewässer",
+    "Antwort 2": "Im Unterlauf der Fließgewässer",
+    "Antwort 3": "In seichten Meeresbuchten",
+    "answers": [
+      "In den Oberläufen der Fließgewässer"
+    ]
+  },
+  {
+    "Nr": "0177",
+    "Frage": "Wann laicht der Huchen?",
+    "Antwort 1": "Frühjahr",
+    "Antwort 2": "Sommer",
+    "Antwort 3": "Herbst oder Winter",
+    "answers": [
+      "Frühjahr"
+    ]
+  },
+  {
+    "Nr": "0178",
+    "Frage": "Welche Fischarten sind ausschließlich im Donaueinzugsgebiet heimisch?",
+    "Antwort 1": "Quappe (Trüsche, Rutte), Güster (Blicke)",
+    "Antwort 2": "Huchen, Streber",
+    "Antwort 3": "Barbe, Nase, Bitterling",
+    "answers": [
+      "Huchen, Streber"
+    ]
+  },
+  {
+    "Nr": "0179",
+    "Frage": "Wo ist die ursprüngliche Heimat des Huchens?",
+    "Antwort 1": "Elbe mit Nebenflüssen",
+    "Antwort 2": "Donau mit Nebenflüssen",
+    "Antwort 3": "Rhein mit Nebenflüssen",
+    "answers": [
+      "Donau mit Nebenflüssen"
+    ]
+  },
+  {
+    "Nr": "0180",
+    "Frage": "Welche Fischart ist ein Tiefenbewohner der Voralpenseen?",
+    "Antwort 1": "Seesaibling",
+    "Antwort 2": "Bitterling",
+    "Antwort 3": "Rotauge",
+    "answers": [
+      "Seesaibling"
+    ]
+  },
+  {
+    "Nr": "0181",
+    "Frage": "Welche Fischart wurde aus Nordamerika eingeführt?",
+    "Antwort 1": "Seesaibling",
+    "Antwort 2": "Zwergwels",
+    "Antwort 3": "Regenbogenforelle",
+    "answers": [
+      "Zwergwels",
+      "Regenbogenforelle"
+    ]
+  },
+  {
+    "Nr": "0182",
+    "Frage": "Welche Fischart riecht nach Thymian?",
+    "Antwort 1": "Zander",
+    "Antwort 2": "Äsche",
+    "Antwort 3": "Huchen",
+    "answers": [
+      "Äsche"
+    ]
+  },
+  {
+    "Nr": "0183",
+    "Frage": "Wann laicht die Äsche?",
+    "Antwort 1": "März–Mai",
+    "Antwort 2": "Juli–August",
+    "Antwort 3": "November–Dezember",
+    "answers": [
+      "März–Mai"
+    ]
+  },
+  {
+    "Nr": "0184",
+    "Frage": "Bei welcher Fischart besteht die Hauptnahrung aus tierischem Plankton (Wasserflöhe u.a.)?",
+    "Antwort 1": "Felchen",
+    "Antwort 2": "Äsche",
+    "Antwort 3": "Regenbogenforelle",
+    "answers": [
+      "Felchen"
+    ]
+  },
+  {
+    "Nr": "0185",
+    "Frage": "Welche Fischart lebt in der Freiwasserzone großer Seen?",
+    "Antwort 1": "Felchen",
+    "Antwort 2": "Karpfen",
+    "Antwort 3": "Hasel",
+    "answers": [
+      "Felchen"
+    ]
+  },
+  {
+    "Nr": "0186",
+    "Frage": "Welche Fischart laicht in der Freiwasserzone eines Sees?",
+    "Antwort 1": "Blaufelchen",
+    "Antwort 2": "Seeforelle",
+    "Antwort 3": "Seesaibling",
+    "answers": [
+      "Blaufelchen"
+    ]
+  },
+  {
+    "Nr": "0187",
+    "Frage": "Wann tritt beim weiblichen Hecht in der Regel die Geschlechtsreife ein?",
+    "Antwort 1": "Nach Vollendung des ersten Lebensjahres",
+    "Antwort 2": "Nach Vollendung des zweiten Lebensjahres",
+    "Antwort 3": "Nach Vollendung des dritten Lebensjahres",
+    "answers": [
+      "Nach Vollendung des dritten Lebensjahres"
+    ]
+  },
+  {
+    "Nr": "0188",
+    "Frage": "Wo laicht der Hecht?",
+    "Antwort 1": "Über kiesigem Grund",
+    "Antwort 2": "In tieferen Bereichen",
+    "Antwort 3": "An verkrauteten Stellen in der Nähe des Ufers",
+    "answers": [
+      "An verkrauteten Stellen in der Nähe des Ufers"
+    ]
+  },
+  {
+    "Nr": "0189",
+    "Frage": "Wann laichen Hechte?",
+    "Antwort 1": "März–April",
+    "Antwort 2": "Oktober–Dezember",
+    "Antwort 3": "Juli–September",
+    "answers": [
+      "März–April"
+    ]
+  },
+  {
+    "Nr": "0190",
+    "Frage": "Welche Fischart bevorzugt die flache Uferzone krautreicher Seen?",
+    "Antwort 1": "Hecht",
+    "Antwort 2": "Seesaibling",
+    "Antwort 3": "Zander",
+    "answers": [
+      "Hecht"
+    ]
+  },
+  {
+    "Nr": "0191",
+    "Frage": "Wie verhält sich der Hecht bei der Nahrungssuche?",
+    "Antwort 1": "Er jagt nur nachts",
+    "Antwort 2": "Er lockt Fische an",
+    "Antwort 3": "Er lauert Fischen auf",
+    "answers": [
+      "Er lauert Fischen auf"
+    ]
+  },
+  {
+    "Nr": "0192",
+    "Frage": "Welches ist die artenreichste Familie der heimischen Süßwasserfische?",
+    "Antwort 1": "Salmoniden (Lachsfische)",
+    "Antwort 2": "Cypriniden (Karpfenfische)",
+    "Antwort 3": "Perciden (Echte Barsche)",
+    "answers": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0193",
+    "Frage": "Bei welcher Fischgruppe besitzen die verschiedenen Arten Schlundzähne?",
+    "Antwort 1": "Perciden (Echte Barsche)",
+    "Antwort 2": "Salmoniden (Lachsfische)",
+    "Antwort 3": "Cypriniden (Karpfenfische)",
+    "answers": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0194",
+    "Frage": "Wo legt der Karpfen seine Eier ab?",
+    "Antwort 1": "Auf kiesigem Boden in Laichgruben",
+    "Antwort 2": "In Nestern aus Pflanzenteilen",
+    "Antwort 3": "An Pflanzen",
+    "answers": [
+      "An Pflanzen"
+    ]
+  },
+  {
+    "Nr": "0195",
+    "Frage": "Bei welcher Fischgruppe sind die meisten Arten Sommerlaicher?",
+    "Antwort 1": "Salmoniden (Lachsfische)",
+    "Antwort 2": "Cypriniden (Karpfenfische)",
+    "Antwort 3": "Perciden (Echte Barsche)",
+    "answers": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0196",
+    "Frage": "Der Strömer gehört zu den",
+    "Antwort 1": "Salmoniden (Lachsfische)",
+    "Antwort 2": "Cypriniden (Karpfenfische)",
+    "Antwort 3": "Perciden (Echte Barsche)",
+    "answers": [
+      "Cypriniden (Karpfenfische)"
+    ]
+  },
+  {
+    "Nr": "0197",
+    "Frage": "In welcher der folgenden Aufzählungen sind nur Cypriniden (Karpfenfische) genannt?",
+    "Antwort 1": "Aland, Zander, Schleie",
+    "Antwort 2": "Rapfen (Schied), Schleie, Barbe",
+    "Antwort 3": "Nase, Brachse (Brasse), Quappe (Trüsche, Rutte)",
+    "answers": [
+      "Rapfen (Schied), Schleie, Barbe"
+    ]
+  },
+  {
+    "Nr": "0198",
+    "Frage": "Welche Fischart hat glatte runde Schuppen?",
+    "Antwort 1": "Wels",
+    "Antwort 2": "Zander",
+    "Antwort 3": "Döbel (Aitel)",
+    "answers": [
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0199",
+    "Frage": "Welche karpfenartige Fischart ernährt sich im Alter auch von Fischen?",
+    "Antwort 1": "Hasel",
+    "Antwort 2": "Elritze",
+    "Antwort 3": "Döbel (Aitel)",
+    "answers": [
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0200",
+    "Frage": "Welche Fischart hat im Alter eine netzartige Zeichnung?",
+    "Antwort 1": "Döbel (Aitel)",
+    "Antwort 2": "Hasel",
+    "Antwort 3": "Schuppenkarpfen",
+    "answers": [
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0201",
+    "Frage": "Welche Fischart hat vor allem im Alter dunkel umrandete Schuppen (Netzzeichnung)?",
+    "Antwort 1": "Streber",
+    "Antwort 2": "Flussbarsch",
+    "Antwort 3": "Döbel (Aitel)",
+    "answers": [
+      "Döbel (Aitel)"
+    ]
+  },
+  {
+    "Nr": "0202",
+    "Frage": "Für welche Fischart ist der Aland die Stammform?",
+    "Antwort 1": "Goldfisch",
+    "Antwort 2": "Goldorfe",
+    "Antwort 3": "Goldschleie",
+    "answers": [
+      "Goldorfe"
+    ]
+  },
+  {
+    "Nr": "0203",
+    "Frage": "Welche Fischart nimmt ihre Nahrung weitgehend am Gewässerboden auf?",
+    "Antwort 1": "Hecht",
+    "Antwort 2": "Barbe",
+    "Antwort 3": "Rapfen (Schied)",
+    "answers": [
+      "Barbe"
+    ]
+  },
+  {
+    "Nr": "0204",
+    "Frage": "Wann laicht die Barbe?",
+    "Antwort 1": "Mai–Juni",
+    "Antwort 2": "Dezember–Januar",
+    "Antwort 3": "März–April",
+    "answers": [
+      "Mai–Juni"
+    ]
+  },
+  {
+    "Nr": "0205",
+    "Frage": "Welche Fischart hat eine hornige Lippe mit scharfkantigem Rand?",
+    "Antwort 1": "Gründling",
+    "Antwort 2": "Nase",
+    "Antwort 3": "Barbe",
+    "answers": [
+      "Nase"
+    ]
+  },
+  {
+    "Nr": "0206",
+    "Frage": "Der Rapfen (Schied) ist ein",
+    "Antwort 1": "Frühjahrslaicher",
+    "Antwort 2": "Sommerlaicher",
+    "Antwort 3": "Herbst- und Winterlaicher",
+    "answers": [
+      "Frühjahrslaicher"
+    ]
+  },
+  {
+    "Nr": "0207",
+    "Frage": "Wann laicht das Rotauge?",
+    "Antwort 1": "Dezember–Januar",
+    "Antwort 2": "April–Mai",
+    "Antwort 3": "Juli–August",
+    "answers": [
+      "April–Mai"
+    ]
+  },
+  {
+    "Nr": "0208",
+    "Frage": "Bei welcher Fischart ist der Bauch zwischen Brust- und Afterflosse scharf gekielt?",
+    "Antwort 1": "Rotfeder",
+    "Antwort 2": "Rotauge",
+    "Antwort 3": "Brachse (Brasse)",
+    "answers": [
+      "Rotfeder"
+    ]
+  },
+  {
+    "Nr": "0209",
+    "Frage": "Welche Fischart bevorzugt die Bodenzone eines Sees?",
+    "Antwort 1": "Hecht",
+    "Antwort 2": "Brachse (Brasse)",
+    "Antwort 3": "Döbel (Aitel)",
+    "answers": [
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0210",
+    "Frage": "Welche der aufgeführten Fischarten ernähren sich vorwiegend von Bodentieren?",
+    "Antwort 1": "Karpfen",
+    "Antwort 2": "Brachse (Brasse)",
+    "Antwort 3": "Felchen",
+    "answers": [
+      "Karpfen",
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0211",
+    "Frage": "Wann laicht der Brachse (Brasse)?",
+    "Antwort 1": "Februar–März",
+    "Antwort 2": "Mai–Juni",
+    "Antwort 3": "November–Dezember",
+    "answers": [
+      "Mai–Juni"
+    ]
+  },
+  {
+    "Nr": "0212",
+    "Frage": "Welche Fischart zeigt zur Laichzeit einen typischen Laichausschlag?",
+    "Antwort 1": "Rotauge",
+    "Antwort 2": "Brachse (Brasse)",
+    "Antwort 3": "Streber",
+    "answers": [
+      "Rotauge",
+      "Brachse (Brasse)"
+    ]
+  },
+  {
+    "Nr": "0213",
+    "Frage": "Der Brachse (Brasse) ist überwiegend",
+    "Antwort 1": "ein Pflanzenfresser",
+    "Antwort 2": "ein Raubfisch",
+    "Antwort 3": "ein Kleintierfresser",
+    "answers": [
+      "ein Kleintierfresser"
+    ]
+  },
+  {
+    "Nr": "0214",
+    "Frage": "Welche Fischart ist gegen Sauerstoffmangel am unempfindlichsten?",
+    "Antwort 1": "Karpfen",
+    "Antwort 2": "Rapfen (Schied)",
+    "Antwort 3": "Karausche",
+    "answers": [
+      "Karausche"
+    ]
+  },
+  {
+    "Nr": "0215",
+    "Frage": "Welche Fischart hat ein schwarzes Bauchfell?",
+    "Antwort 1": "Giebel",
+    "Antwort 2": "Karausche",
+    "Antwort 3": "Karpfen",
+    "answers": [
+      "Giebel"
+    ]
+  },
+  {
+    "Nr": "0216",
+    "Frage": "Die Urform der Karpfen ist der",
+    "Antwort 1": "Lederkarpfen",
+    "Antwort 2": "Spiegelkarpfen",
+    "Antwort 3": "Schuppenkarpfen",
+    "answers": [
+      "Schuppenkarpfen"
+    ]
+  },
+  {
+    "Nr": "0217",
+    "Frage": "Welche Nährtiere werden von Karpfen vorwiegend gefressen?",
+    "Antwort 1": "Wasserkäfer und Wasserwanzen",
+    "Antwort 2": "Hüpferlinge und Schnecken",
+    "Antwort 3": "Schlammröhrenwürmer und Zuckmückenlarven",
+    "answers": [
+      "Schlammröhrenwürmer und Zuckmückenlarven"
+    ]
+  },
+  {
+    "Nr": "0218",
+    "Frage": "Wann laichen Karpfen?",
+    "Antwort 1": "Januar–März",
+    "Antwort 2": "Mai–Juli",
+    "Antwort 3": "Oktober–Dezember",
+    "answers": [
+      "Mai–Juli"
+    ]
+  },
+  {
+    "Nr": "0219",
+    "Frage": "Durch welches Merkmal unterscheidet sich die männliche von der weiblichen Schleie?",
+    "Antwort 1": "Größere Brustflossen",
+    "Antwort 2": "Größere Bauchflossen",
+    "Antwort 3": "Größere Rückenflosse",
+    "answers": [
+      "Größere Bauchflossen"
+    ]
+  },
+  {
+    "Nr": "0220",
+    "Frage": "Welche Nahrung nimmt die Schleie bevorzugt auf?",
+    "Antwort 1": "Anflug",
+    "Antwort 2": "Plankton",
+    "Antwort 3": "Bodennahrung",
+    "answers": [
+      "Bodennahrung"
+    ]
+  },
+  {
+    "Nr": "0221",
+    "Frage": "Wann laichen Schleien?",
+    "Antwort 1": "Mai-Juni",
+    "Antwort 2": "Oktober–Dezember",
+    "Antwort 3": "Januar–Februar",
+    "answers": [
+      "Mai-Juni"
+    ]
+  },
+  {
+    "Nr": "0222",
+    "Frage": "Welche Fischarten bevorzugen flache, krautreiche, stehende Gewässer als Lebensraum?",
+    "Antwort 1": "Zander, Döbel (Aitel)",
+    "Antwort 2": "Felchen, Seeforelle",
+    "Antwort 3": "Schleie, Hecht",
+    "answers": [
+      "Schleie, Hecht"
+    ]
+  },
+  {
+    "Nr": "0223",
+    "Frage": "Welche Fischart kommt auch in Hochgebirgsseen vor?",
+    "Antwort 1": "Elritze",
+    "Antwort 2": "Nase",
+    "Antwort 3": "Bitterling",
+    "answers": [
+      "Elritze"
+    ]
+  },
+  {
+    "Nr": "0224",
+    "Frage": "Die Elritze ist ein",
+    "Antwort 1": "Cyprinide (Karpfenfisch)",
+    "Antwort 2": "Percide (Echter Barsch)",
+    "Antwort 3": "Cobitoide (Schmerlenart)",
+    "answers": [
+      "Cyprinide (Karpfenfisch)"
+    ]
+  },
+  {
+    "Nr": "0225",
+    "Frage": "Welcher Cyprinide (Karpfenfisch) hat während der Laichzeit eine orangefarbene Färbung am Bauch?",
+    "Antwort 1": "Barbe",
+    "Antwort 2": "Elritze",
+    "Antwort 3": "Dreistachliger Stichling",
+    "answers": [
+      "Elritze"
+    ]
+  },
+  {
+    "Nr": "0226",
+    "Frage": "Wo hält sich der Ukelei (Laube) bevorzugt auf?",
+    "Antwort 1": "Dicht unter der Wasseroberfläche",
+    "Antwort 2": "Am Gewässergrund",
+    "Antwort 3": "Zwischen dichtem Wurzelgeflecht",
+    "answers": [
+      "Dicht unter der Wasseroberfläche"
+    ]
+  },
+  {
+    "Nr": "0227",
+    "Frage": "Das Weibchen welcher Fischart legt ihre Eier mit Hilfe einer Legeröhre in Großmuscheln ab?",
+    "Antwort 1": "Bitterling",
+    "Antwort 2": "Elritze",
+    "Antwort 3": "Moderlieschen",
+    "answers": [
+      "Bitterling"
+    ]
+  },
+  {
+    "Nr": "0228",
+    "Frage": "Welche Fischart besitzt nur eine unvollständige Seitenlinie?",
+    "Antwort 1": "Strömer",
+    "Antwort 2": "Bitterling",
+    "Antwort 3": "Moderlieschen",
+    "answers": [
+      "Bitterling",
+      "Moderlieschen"
+    ]
+  },
+  {
+    "Nr": "0229",
+    "Frage": "Welche Fischarten gehen hauptsächlich nachts auf Nahrungssuche?",
+    "Antwort 1": "Aal und Wels",
+    "Antwort 2": "Döbel (Aitel) und Rapfen (Schied)",
+    "Antwort 3": "Flussbarsch und Zander",
+    "answers": [
+      "Aal und Wels"
+    ]
+  },
+  {
+    "Nr": "0230",
+    "Frage": "Welche Fischart kann einen Teil des Sauerstoffbedarfs über Haut- und Darmatmung decken?",
+    "Antwort 1": "Flussbarsch",
+    "Antwort 2": "Schlammpeitzger",
+    "Antwort 3": "Elritze",
+    "answers": [
+      "Schlammpeitzger"
+    ]
+  },
+  {
+    "Nr": "0231",
+    "Frage": "Welche Fischart ernährt sich vorwiegend von Fischen?",
+    "Antwort 1": "Schleie",
+    "Antwort 2": "Felchen",
+    "Antwort 3": "Wels",
+    "answers": [
+      "Wels"
+    ]
+  },
+  {
+    "Nr": "0232",
+    "Frage": "Welche Fischarten gehören zur Familie der Schmerlen?",
+    "Antwort 1": "Gründling, Elritze",
+    "Antwort 2": "Barbe, Groppe",
+    "Antwort 3": "Schlammpeitzger, Steinbeißer",
+    "answers": [
+      "Schlammpeitzger, Steinbeißer"
+    ]
+  },
+  {
+    "Nr": "0233",
+    "Frage": "Wo hat der Schlammpeitzger seinen bevorzugten Lebensraum?",
+    "Antwort 1": "In starker Strömung",
+    "Antwort 2": "In schlammigem Untergrund",
+    "Antwort 3": "In tiefen Gumpen",
+    "answers": [
+      "In schlammigem Untergrund"
+    ]
+  },
+  {
+    "Nr": "0234",
+    "Frage": "Wie ernährt sich der Steinbeißer?",
+    "Antwort 1": "Er filtert seine Nahrung aus dem Sand",
+    "Antwort 2": "Er nimmt seine Nahrung von der Wasseroberfläche auf",
+    "Antwort 3": "Er nimmt seine Nahrung aus dem Freiwasser auf",
+    "answers": [
+      "Er filtert seine Nahrung aus dem Sand"
+    ]
+  },
+  {
+    "Nr": "0235",
+    "Frage": "Warum heißt der Steinbeißer manchmal auch Dorngrundel?",
+    "Antwort 1": "Er hat einen Dorn in der Rückenflosse",
+    "Antwort 2": "Er hat einen zweispitzigen Dorn unter den Augen",
+    "Antwort 3": "Der Körper ist mit Dornen übersät",
+    "answers": [
+      "Er hat einen zweispitzigen Dorn unter den Augen"
+    ]
+  },
+  {
+    "Nr": "0236",
+    "Frage": "Ist die Größe beim Aal vom Geschlecht abhängig?",
+    "Antwort 1": "Ja, das Weibchen wird größer",
+    "Antwort 2": "Nein, beide Geschlechter werden gleich groß",
+    "Antwort 3": "Ja, das Männchen wird größer",
+    "answers": [
+      "Ja, das Weibchen wird größer"
+    ]
+  },
+  {
+    "Nr": "0237",
+    "Frage": "Was versteht man unter Blankaalen?",
+    "Antwort 1": "Im Süßwasser lebende, junge Aale",
+    "Antwort 2": "Aus dem Meer aufsteigende Aale",
+    "Antwort 3": "Zum Laichen abwanderungsbereite oder abwandernde Aale",
+    "answers": [
+      "Zum Laichen abwanderungsbereite oder abwandernde Aale"
+    ]
+  },
+  {
+    "Nr": "0238",
+    "Frage": "Was bezeichnet der Begriff Glasaal?",
+    "Antwort 1": "Aallarve unmittelbar nach dem Schlüpfen",
+    "Antwort 2": "Nach der Umwandlung aus der Larve noch unpigmentierter Jungaal",
+    "Antwort 3": "Jungaal nach der Pigmentierung",
+    "answers": [
+      "Nach der Umwandlung aus der Larve noch unpigmentierter Jungaal"
+    ]
+  },
+  {
+    "Nr": "0239",
+    "Frage": "Wo laicht der europäische Aal?",
+    "Antwort 1": "Im Neufundlandbecken",
+    "Antwort 2": "Im Golf von Biskaya",
+    "Antwort 3": "In der Sargassosee",
+    "answers": [
+      "In der Sargassosee"
+    ]
+  },
+  {
+    "Nr": "0240",
+    "Frage": "Welche Aussage über den Aal ist richtig?",
+    "Antwort 1": "Männlicher Aal wird bedeutend größer als weiblicher Aal",
+    "Antwort 2": "Weiblicher Aal wird bedeutend größer als männlicher Aal",
+    "Antwort 3": "Beide Geschlechter werden etwa gleich groß",
+    "answers": [
+      "Weiblicher Aal wird bedeutend größer als männlicher Aal"
+    ]
+  },
+  {
+    "Nr": "0241",
+    "Frage": "Welche Süßwasserfischart gehört zu den Dorschartigen?",
+    "Antwort 1": "Wels",
+    "Antwort 2": "Quappe (Trüsche, Rutte)",
+    "Antwort 3": "Aal",
+    "answers": [
+      "Quappe (Trüsche, Rutte)"
+    ]
+  },
+  {
+    "Nr": "0242",
+    "Frage": "Woran sind die Dorschartigen im Allgemeinen zu erkennen?",
+    "Antwort 1": "Sie haben keine Schuppen",
+    "Antwort 2": "Sie haben einen einzelnen Bartfaden am Unterkiefer",
+    "Antwort 3": "Sie haben keine Schwimmblase",
+    "answers": [
+      "Sie haben einen einzelnen Bartfaden am Unterkiefer"
+    ]
+  },
+  {
+    "Nr": "0243",
+    "Frage": "Wann laicht die Quappe (Trüsche, Rutte)?",
+    "Antwort 1": "Winter",
+    "Antwort 2": "Frühling",
+    "Antwort 3": "Sommer",
+    "answers": [
+      "Winter"
+    ]
+  },
+  {
+    "Nr": "0244",
+    "Frage": "Welches Merkmal ist typisch für barschartige Fische?",
+    "Antwort 1": "Erste Rückenflosse hat kräftige Stachelstrahlen",
+    "Antwort 2": "Zweite Rückenflosse hat kräftige Stachelstrahlen",
+    "Antwort 3": "Beide Rückenflossen sind immer deutlich voneinander getrennt",
+    "answers": [
+      "Erste Rückenflosse hat kräftige Stachelstrahlen"
+    ]
+  },
+  {
+    "Nr": "0245",
+    "Frage": "Wie laichen Flussbarsche?",
+    "Antwort 1": "Eier werden in netzartigen Gallertschnüren an Wasserpflanzen, Wurzeln oder anderen festen Substraten abgelegt",
+    "Antwort 2": "Eier werden in Klumpen in Laichgruben abgelegt",
+    "Antwort 3": "Eier werden in kleinen Portionen im Freiwasser abgegeben",
+    "answers": [
+      "Eier werden in netzartigen Gallertschnüren an Wasserpflanzen, Wurzeln oder anderen festen Substraten abgelegt"
+    ]
+  },
+  {
+    "Nr": "0246",
+    "Frage": "Wie unterscheiden sich junge Flussbarsche und junge Zander?",
+    "Antwort 1": "Flussbarsch hat einen großen schwarzen Fleck am Ende der ersten Rückenflosse",
+    "Antwort 2": "Flussbarsch hat keinen Dorn am Kiemendeckel",
+    "Antwort 3": "Flussbarsch hat Hundszähne",
+    "answers": [
+      "Flussbarsch hat einen großen schwarzen Fleck am Ende der ersten Rückenflosse"
+    ]
+  },
+  {
+    "Nr": "0247",
+    "Frage": "Wann laicht der Flussbarsch?",
+    "Antwort 1": "April–Mai",
+    "Antwort 2": "Oktober–November",
+    "Antwort 3": "Dezember–Februar",
+    "answers": [
+      "April–Mai"
+    ]
+  },
+  {
+    "Nr": "0248",
+    "Frage": "Wann laicht der Zander?",
+    "Antwort 1": "Oktober–Dezember",
+    "Antwort 2": "April–Mai",
+    "Antwort 3": "Januar–März",
+    "answers": [
+      "April–Mai"
+    ]
+  },
+  {
+    "Nr": "0249",
+    "Frage": "Welche Fischarten bewachen ihre Eier?",
+    "Antwort 1": "Rotauge und Rotfeder",
+    "Antwort 2": "Flussbarsch und Hecht",
+    "Antwort 3": "Zander und Wels",
+    "answers": [
+      "Zander und Wels"
+    ]
+  },
+  {
+    "Nr": "0250",
+    "Frage": "Welche Fischart bevorzugt sommertrübe Gewässer?",
+    "Antwort 1": "Zander",
+    "Antwort 2": "Hecht",
+    "Antwort 3": "Seesaibling",
+    "answers": [
+      "Zander"
+    ]
+  },
+  {
+    "Nr": "0251",
+    "Frage": "Wo hat der Streber seinen bevorzugten Lebensraum?",
+    "Antwort 1": "Auf kiesigem Untergrund mit starker Strömung",
+    "Antwort 2": "In schlammigem Untergrund",
+    "Antwort 3": "In tiefen Gumpen",
+    "answers": [
+      "Auf kiesigem Untergrund mit starker Strömung"
+    ]
+  },
+  {
+    "Nr": "0252",
+    "Frage": "Welche Barschart gilt bei uns als nicht heimisch?",
+    "Antwort 1": "Kaulbarsch",
+    "Antwort 2": "Sonnenbarsch",
+    "Antwort 3": "Streber",
+    "answers": [
+      "Sonnenbarsch"
+    ]
+  },
+  {
+    "Nr": "0253",
+    "Frage": "Wo legt die Groppe ihre Eier ab?",
+    "Antwort 1": "In Hohlräumen an der Unterseite flacher Steine",
+    "Antwort 2": "Im Kiesbett eines Baches",
+    "Antwort 3": "Auf sandigem Grund eines Baches",
+    "answers": [
+      "In Hohlräumen an der Unterseite flacher Steine"
+    ]
+  },
+  {
+    "Nr": "0254",
+    "Frage": "Welche Fischart betreibt eine intensive Brutpflege?",
+    "Antwort 1": "Elritze",
+    "Antwort 2": "Dreistachliger Stichling",
+    "Antwort 3": "Aland",
+    "answers": [
+      "Dreistachliger Stichling"
+    ]
+  },
+  {
+    "Nr": "0255",
+    "Frage": "Die Körperbedeckung des Dreistachligen Stichlings besteht teilweise aus",
+    "Antwort 1": "Knochenplatten",
+    "Antwort 2": "Kammschuppen",
+    "Antwort 3": "Rund- und Schmelzschuppen",
+    "answers": [
+      "Knochenplatten"
+    ]
+  },
+  {
+    "Nr": "0256",
+    "Frage": "Wohin heften die Weibchen einheimischer Flusskrebse ihre Eier?",
+    "Antwort 1": "An die Afterfüße unter dem Hinterleib",
+    "Antwort 2": "An die Oberseite von Krebshöhlen",
+    "Antwort 3": "An Wurzelgeflecht",
+    "answers": [
+      "An die Afterfüße unter dem Hinterleib"
+    ]
+  },
+  {
+    "Nr": "0257",
+    "Frage": "Was ist ein Butterkrebs?",
+    "Antwort 1": "Flusskrebs unmittelbar nach einer Häutung",
+    "Antwort 2": "Flusskrebs nach einer Pilzerkrankung",
+    "Antwort 3": "In Europa nicht heimische Krebsart",
+    "answers": [
+      "Flusskrebs unmittelbar nach einer Häutung"
+    ]
+  },
+  {
+    "Nr": "0258",
+    "Frage": "Wie erfolgt die Geschlechtsbestimmung bei männlichen Flusskrebsen?",
+    "Antwort 1": "Sie haben Griffelpaare an der Unterseite des ersten Schwanzsegmentes",
+    "Antwort 2": "Sie haben deutlich kleinere Scheren",
+    "Antwort 3": "Sie haben deutlich kleinere Schwanzfächer",
+    "answers": [
+      "Sie haben Griffelpaare an der Unterseite des ersten Schwanzsegmentes"
+    ]
+  },
+  {
+    "Nr": "0259",
+    "Frage": "Griffelpaare hat",
+    "Antwort 1": "der weibliche Flusskrebs",
+    "Antwort 2": "der männliche Flusskrebs",
+    "Antwort 3": "der männliche und weibliche Flusskrebs",
+    "answers": [
+      "der männliche Flusskrebs"
+    ]
+  },
+  {
+    "Nr": "0260",
+    "Frage": "Wie viele Schwimmbeinpaare haben Flusskrebse?",
+    "Antwort 1": "5 Paare",
+    "Antwort 2": "3 Paare",
+    "Antwort 3": "2 Paare",
+    "answers": [
+      "5 Paare"
+    ]
+  },
+  {
+    "Nr": "0261",
+    "Frage": "Wird der männliche oder der weibliche Flusskrebs größer?",
+    "Antwort 1": "Beide werden gleich groß",
+    "Antwort 2": "Weiblicher Flusskrebs wird größer",
+    "Antwort 3": "Männlicher Flusskrebs wird größer",
+    "answers": [
+      "Männlicher Flusskrebs wird größer"
+    ]
+  }
+]
