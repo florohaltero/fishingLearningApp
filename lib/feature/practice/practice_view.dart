@@ -1,7 +1,7 @@
+import 'package:angelschein_lernen/feature/practice/practice_controller.dart';
+import 'package:angelschein_lernen/feature/practice/practice_model.dart';
 import 'package:flutter/material.dart';
 import 'package:formigas_mvc/formigas_mvc.dart';
-import 'practice_controller.dart';
-import 'practice_model.dart';
 
 class PracticeView extends MViewC<PracticeController, PracticeModel> {
   const PracticeView({
@@ -12,6 +12,5 @@ class PracticeView extends MViewC<PracticeController, PracticeModel> {
   @override
   Widget build(BuildContext context, PracticeModel model) => const Scaffold(
         body: Center(child: Text('PracticeView')),
-      );  
-
+      );
 }

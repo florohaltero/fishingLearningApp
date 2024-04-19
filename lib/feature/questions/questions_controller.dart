@@ -1,36 +1,27 @@
 import 'dart:convert';
 
+import 'package:angelschein_lernen/feature/questions/questions_model.dart';
 import 'package:flutter/services.dart';
 import 'package:formigas_mvc/formigas_mvc.dart';
-import 'questions_model.dart';
 
-abstract class QuestionsController extends MVController<List<QuestionsModel>> {
+abstract class QuestionsController extends MVController<QuestionsModel> {
   QuestionsController(super.initialModel);
 
-  Future<bool> loadQuestions(String category);
+  Future<void> loadQuestions(String category);
 }
 
 class QuestionsControllerImplementation extends QuestionsController {
-  QuestionsControllerImplementation() : super([]);
+  QuestionsControllerImplementation()
+      : super(const QuestionsModel(questions: [])) {
+    loadQuestions('c01');
+  }
 
   @override
-  Future<bool> loadQuestions(String category) async {
+  Future<void> loadQuestions(String category) async {
     final list = await _loadJson();
-    final qList = <QuestionsModel>[];
-    final questions = list['questions'][category] as Map<String, dynamic>;
+    final questions = QuestionsModel.fromJson(list).questions;
 
-    questions.forEach((key, value) {
-      var q = QuestionsModel.fromJson(value as Map<String, dynamic>);
-      qList.add(q);
-    });
-
-    // for (dynamic item in questions){
-    //   Map<String, dynamic> questions = AssetManager().questions;
-    //   Question q = Question.fromJson(item);
-    //   qList.add(q);
-    // }
-    model = qList;
-    return Future.value(true);
+    model = model.copyWith(questions: questions);
   }
 
   Future<Map<String, dynamic>> _loadJson() async {
