@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:formigas_mvc/formigas_mvc.dart';
 
 class CategoryView extends MViewC<CategoryController, List<CategoryModel>> {
-  CategoryView({
+  const CategoryView({
     required super.controller,
     super.key,
   });
