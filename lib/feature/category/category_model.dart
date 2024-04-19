@@ -18,5 +18,3 @@ const List<CategoryModel> categories = [
   CategoryModel(3, 'Gerätekunde, Fangtechnik', 'description'),
   CategoryModel(4, 'Rechtskunde', 'Rechtskunde'),
 ];
-
-enum TargetType { list, single }

@@ -4,13 +4,20 @@ part 'questions_model.freezed.dart';
 part 'questions_model.g.dart';
 
 List<QuestionModel> mapToList(Map<String, dynamic> json) {
-  return json.entries.map((e) {
-    final question = e.value as Map<String, dynamic>;
-    return QuestionModel.fromJson(
-      //TODO change for the categories
-      question.entries.first.value as Map<String, dynamic>,
-    );
-  }).toList();
+  final questions = <QuestionModel>[];
+
+  for (final element in json.entries) {
+    final questionsPerCategory = element.value as Map<String, dynamic>;
+
+    for (final element in questionsPerCategory.entries) {
+      questions.add(
+          QuestionModel.fromJson(element.value as Map<String, dynamic>),
+      );
+    }
+
+  }
+
+  return questions;
 }
 
 Map<String, dynamic> listToMap(List<QuestionModel> questions) {
@@ -37,6 +44,10 @@ class QuestionsModel with _$QuestionsModel {
   const factory QuestionsModel({
     @JsonKey(fromJson: mapToList, toJson: listToMap)
     required List<QuestionModel> questions,
+
+    // @JsonKey(includeFromJson: false, defaultValue: -1)
+    @Default(-1)
+    int tappedCategoryIndex,
   }) = _QuestionsModel;
 
   factory QuestionsModel.fromJson(Map<String, dynamic> json) =>

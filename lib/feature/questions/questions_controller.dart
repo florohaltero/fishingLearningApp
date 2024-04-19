@@ -7,21 +7,26 @@ import 'package:formigas_mvc/formigas_mvc.dart';
 abstract class QuestionsController extends MVController<QuestionsModel> {
   QuestionsController(super.initialModel);
 
-  Future<void> loadQuestions(String category);
+  Future<void> loadQuestions(int categoryIndex);
 }
 
 class QuestionsControllerImplementation extends QuestionsController {
-  QuestionsControllerImplementation()
-      : super(const QuestionsModel(questions: [])) {
-    loadQuestions('c01');
+
+  QuestionsControllerImplementation(int categoryId)
+      : super(QuestionsModel(questions: [], tappedCategoryIndex: categoryId)) {
+    loadQuestions(1);
   }
 
   @override
-  Future<void> loadQuestions(String category) async {
+  Future<void> loadQuestions(int categoryIndex) async {
     final list = await _loadJson();
     final questions = QuestionsModel.fromJson(list).questions;
+    final questionsPerCategory = questions.where(
+            (element) => element.categoryid == categoryIndex,
+    ).toList();
 
-    model = model.copyWith(questions: questions);
+
+    model = model.copyWith(questions: questionsPerCategory);
   }
 
   Future<Map<String, dynamic>> _loadJson() async {
@@ -29,4 +34,6 @@ class QuestionsControllerImplementation extends QuestionsController {
     final data = json.decode(asset) as Map<String, dynamic>;
     return data;
   }
+
+
 }

@@ -9,32 +9,38 @@ class QuestionsView extends MViewC<QuestionsController, QuestionsModel> {
     super.key,
   });
 
+
+
   @override
-  Widget build(BuildContext context, QuestionsModel model) => Scaffold(
-        appBar: AppBar(
-          title: const Text('Fragen'),
-        ),
-        body: model.questions.isEmpty
-            ? const Center(child: CircularProgressIndicator())
-            : ListView.separated(
-                padding: const EdgeInsets.all(10),
-                separatorBuilder: (context, index) =>
-                    const SizedBox(height: 10),
-                itemCount: model.questions.length,
-                itemBuilder: (context, index) {
-                  final item = model.questions[index];
-                  return ListTile(
-                    title: Text(item.id.toString()),
-                    subtitle: Text(item.question),
-                    hoverColor: Colors.amber,
-                    selectedTileColor: Colors.red,
-                    contentPadding: const EdgeInsets.all(10),
-                    tileColor: Colors.green,
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                  );
-                },
-              ),
-      );
+  Widget build(BuildContext context, QuestionsModel model) {
+    final questionsPerCategory =  model.questions;
+
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Fragen'),
+      ),
+      body: questionsPerCategory.isEmpty
+          ? const Center(child: CircularProgressIndicator())
+          : ListView.separated(
+        padding: const EdgeInsets.all(10),
+        separatorBuilder: (context, index) =>
+        const SizedBox(height: 10),
+        itemCount: questionsPerCategory.length,
+        itemBuilder: (context, index) {
+          final item = questionsPerCategory[index];
+          return ListTile(
+            title: Text(item.id.toString()),
+            subtitle: Text(item.question),
+            hoverColor: Colors.amber,
+            selectedTileColor: Colors.red,
+            contentPadding: const EdgeInsets.all(10),
+            tileColor: Colors.green,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(20),
+            ),
+          );
+        },
+      ),
+    );
+  }
 }

@@ -23,7 +23,10 @@ final GoRouter _appRouter = GoRouter(
                 GoRoute(
                   path: ':id',
                   builder: (BuildContext context, GoRouterState state) {
-                    final controller = QuestionsControllerImplementation();
+                    // increment the id by 1 because the first category is 1
+                    final id = int.parse(state.pathParameters['id']!) + 1;
+
+                    final controller = QuestionsControllerImplementation(id);
                     return QuestionsView(controller: controller);
                   },
                 ),
