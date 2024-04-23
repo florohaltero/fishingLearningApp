@@ -40,10 +40,6 @@ linked_*.ds
 unlinked.ds
 unlinked_spec.ds
 
-
-.fvm/flutter_sdk
-
-
 # Generated files
 *.freezed.dart
 *.g.dart
@@ -121,3 +117,6 @@ app.*.map.json
 
 # assets generated files
 *.gen.dart
+
+# FVM Version Cache
+.fvm/

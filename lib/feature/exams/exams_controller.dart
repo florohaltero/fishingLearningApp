@@ -1,14 +1,14 @@
+import 'package:angelschein_lernen/feature/exams/exams_model.dart';
 import 'package:formigas_mvc/formigas_mvc.dart';
-import 'exams_model.dart';
 
 abstract class ExamsController extends MVController<ExamsModel> {
-  ExamsController(super.initialModel);  
+  ExamsController(super.initialModel);
   void dummy();
 }
-  
+
 class ExamsControllerImplementation extends ExamsController {
   ExamsControllerImplementation() : super(const ExamsModel(count: 0));
-  
+
   @override
   void dummy() {
     // Update the model

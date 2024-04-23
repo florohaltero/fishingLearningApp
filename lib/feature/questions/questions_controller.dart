@@ -1,36 +1,32 @@
 import 'dart:convert';
 
+import 'package:angelschein_lernen/feature/questions/questions_model.dart';
 import 'package:flutter/services.dart';
 import 'package:formigas_mvc/formigas_mvc.dart';
-import 'questions_model.dart';
 
-abstract class QuestionsController extends MVController<List<QuestionsModel>> {
+abstract class QuestionsController extends MVController<QuestionsModel> {
   QuestionsController(super.initialModel);
 
-  Future<bool> loadQuestions(String category);
+  Future<void> loadQuestions(int categoryIndex);
 }
 
 class QuestionsControllerImplementation extends QuestionsController {
-  QuestionsControllerImplementation() : super([]);
+  QuestionsControllerImplementation(int categoryId)
+      : super(QuestionsModel(questions: [], tappedCategoryIndex: categoryId)) {
+    loadQuestions(categoryId);
+  }
 
   @override
-  Future<bool> loadQuestions(String category) async {
+  Future<void> loadQuestions(int categoryIndex) async {
     final list = await _loadJson();
-    final qList = <QuestionsModel>[];
-    final questions = list['questions'][category] as Map<String, dynamic>;
+    final questions = QuestionsModel.fromJson(list).questions;
+    final questionsPerCategory = questions
+        .where(
+          (element) => element.categoryid == categoryIndex,
+        )
+        .toList();
 
-    questions.forEach((key, value) {
-      var q = QuestionsModel.fromJson(value as Map<String, dynamic>);
-      qList.add(q);
-    });
-
-    // for (dynamic item in questions){
-    //   Map<String, dynamic> questions = AssetManager().questions;
-    //   Question q = Question.fromJson(item);
-    //   qList.add(q);
-    // }
-    model = qList;
-    return Future.value(true);
+    model = model.copyWith(questions: questionsPerCategory);
   }
 
   Future<Map<String, dynamic>> _loadJson() async {

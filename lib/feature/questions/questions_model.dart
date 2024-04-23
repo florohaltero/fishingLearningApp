@@ -1,40 +1,81 @@
-import 'package:json_annotation/json_annotation.dart';
+import 'package:freezed_annotation/freezed_annotation.dart';
+
+part 'questions_model.freezed.dart';
 part 'questions_model.g.dart';
 
-@JsonSerializable()
+List<QuestionModel> mapToList(Map<String, dynamic> json) {
+  final questions = <QuestionModel>[];
 
-class QuestionsModel extends Object {
+  for (final element in json.entries) {
+    final questionsPerCategory = element.value as Map<String, dynamic>;
 
+    for (final element in questionsPerCategory.entries) {
+      questions.add(
+        QuestionModel.fromJson(element.value as Map<String, dynamic>),
+      );
+    }
+  }
 
-  QuestionsModel(this.id, this.question, this.answer1, this.answer2, this.answer3,
-      this.solution, this.fishpic, this.categoryid);
+  return questions;
+}
+
+Map<String, dynamic> listToMap(List<QuestionModel> questions) {
+  return {
+    for (final question in questions) question.id.toString(): question.toJson(),
+  };
+}
+
+int stringToInt(String value) => int.parse(value);
+
+String intToString(int value) => value.toString();
+
+bool intToBool(int? value) {
+  if (value == null) return false;
+  return value == 1;
+}
+
+// ignore: avoid_positional_boolean_parameters
+int boolToInt(bool value) {
+  return value ? 1 : 0;
+}
+
+@freezed
+class QuestionsModel with _$QuestionsModel {
+  const factory QuestionsModel({
+    @JsonKey(fromJson: mapToList, toJson: listToMap)
+    required List<QuestionModel> questions,
+
+    // @JsonKey(includeFromJson: false, defaultValue: -1)
+    @Default(-1) int tappedCategoryIndex,
+  }) = _QuestionsModel;
 
   factory QuestionsModel.fromJson(Map<String, dynamic> json) =>
       _$QuestionsModelFromJson(json);
-  @JsonKey(fromJson: _stringToInt, toJson: _stringFromInt)
-  final int id;
-  final String question;
-  final String answer1;
-  final String answer2;
-  final String answer3;
-  final String solution;
-  final String fishpic;
-  final int categoryid;
-  @JsonKey(includeFromJson: false, includeToJson: true)
-  bool active = true;
-  @JsonKey(includeFromJson: false, includeToJson: true)
-  bool marked = false;
-  @JsonKey(includeFromJson: false, includeToJson: true)
-  Set<int> userAnswers = {};
-  @JsonKey(includeFromJson: false, includeToJson: true)
-  bool? answerCorrect = null;
+}
 
-  int get amountSolution {
-    return solution.length;
-  }
+@freezed
+class QuestionModel with _$QuestionModel {
+  const factory QuestionModel({
+    @JsonKey(fromJson: stringToInt, toJson: intToString) required int id,
+    required String question,
+    required String answer1,
+    required String answer2,
+    required String answer3,
+    required String solution,
+    required String fishpic,
+    required int categoryid,
+    @JsonKey(fromJson: intToBool, toJson: boolToInt) @Default(true) bool active,
+    @JsonKey(fromJson: intToBool, toJson: boolToInt)
+    @Default(false)
+    bool marked,
+    @Default({}) Set<int> userAnswers,
+    bool? answerCorrect,
+  }) = _QuestionModel;
 
-  Map<String, dynamic> toJson() => _$QuestionsModelToJson(this);
+  factory QuestionModel.fromJson(Map<String, dynamic> json) =>
+      _$QuestionModelFromJson(json);
+}
 
-  static int _stringToInt(String number) => int.parse(number);
-  static String _stringFromInt(int number) => number.toString();
+extension QuestionExt on QuestionModel {
+  int get amountSolution => solution.length;
 }

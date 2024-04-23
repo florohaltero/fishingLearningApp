@@ -391,7 +391,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "bauchstaendig.png"
+				"fishpic": "bauchstaendig.jpg"
 			},
 			"q29": {
 				"id": "29",
@@ -405,7 +405,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "kehlstaendig.png"
+				"fishpic": "kehlstaendig.jpg"
 			},
 			"q30": {
 				"id": "30",
@@ -419,7 +419,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "bruststaendig.png"
+				"fishpic": "bruststaendig.jpg"
 			},
 			"q31": {
 				"id": "31",
@@ -1863,7 +1863,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "brachse.png"
+				"fishpic": "brachse.jpg"
 			},
 			"q134": {
 				"id": "134",
@@ -1877,7 +1877,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "gruendling.png"
+				"fishpic": "gruendling.jpg"
 			},
 			"q135": {
 				"id": "135",
@@ -1891,7 +1891,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "groppe.png"
+				"fishpic": "groppe.jpg"
 			},
 			"q136": {
 				"id": "136",
@@ -1905,7 +1905,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "flussbarsch.png"
+				"fishpic": "flussbarsch.jpg"
 			},
 			"q137": {
 				"id": "137",
@@ -1919,7 +1919,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "quappe.png"
+				"fishpic": "quappe.jpg"
 			},
 			"q138": {
 				"id": "138",
@@ -1933,7 +1933,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "aal.png"
+				"fishpic": "aal.jpg"
 			},
 			"q139": {
 				"id": "139",
@@ -1947,7 +1947,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "steinbeisser.png"
+				"fishpic": "steinbeisser.jpg"
 			},
 			"q140": {
 				"id": "140",
@@ -1961,7 +1961,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "wels.png"
+				"fishpic": "wels.jpg"
 			},
 			"q141": {
 				"id": "141",
@@ -1975,7 +1975,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "schlammpeitzger.png"
+				"fishpic": "schlammpeitzger.jpg"
 			},
 			"q142": {
 				"id": "142",
@@ -1989,7 +1989,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "schmerle.png"
+				"fishpic": "schmerle.jpg"
 			},
 			"q143": {
 				"id": "143",
@@ -2003,7 +2003,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "karausche.png"
+				"fishpic": "karausche.jpg"
 			},
 			"q144": {
 				"id": "144",
@@ -2017,7 +2017,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "seesaibling.png"
+				"fishpic": "seesaibling.jpg"
 			},
 			"q145": {
 				"id": "145",
@@ -2031,7 +2031,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "schneider.png"
+				"fishpic": "schneider.jpg"
 			},
 			"q146": {
 				"id": "146",
@@ -2045,7 +2045,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "elritze.png"
+				"fishpic": "elritze.jpg"
 			},
 			"q147": {
 				"id": "147",
@@ -2059,7 +2059,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "schleie.png"
+				"fishpic": "schleie.jpg"
 			},
 			"q148": {
 				"id": "148",
@@ -2073,7 +2073,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "barbe.png"
+				"fishpic": "barbe.jpg"
 			},
 			"q149": {
 				"id": "149",
@@ -2087,7 +2087,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "giebel.png"
+				"fishpic": "giebel.jpg"
 			},
 			"q150": {
 				"id": "150",
@@ -2101,7 +2101,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "karpfen.png"
+				"fishpic": "karpfen.jpg"
 			},
 			"q151": {
 				"id": "151",
@@ -2115,7 +2115,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "aesche.png"
+				"fishpic": "aesche.jpg"
 			},
 			"q152": {
 				"id": "152",
@@ -2129,7 +2129,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "felchen.png"
+				"fishpic": "felchen.jpg"
 			},
 			"q153": {
 				"id": "153",
@@ -2143,7 +2143,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "zander.png"
+				"fishpic": "zander.jpg"
 			},
 			"q154": {
 				"id": "154",
@@ -2157,7 +2157,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "rapfen.png"
+				"fishpic": "rapfen.jpg"
 			},
 			"q155": {
 				"id": "155",
@@ -2171,7 +2171,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "regenbogenforelle.png"
+				"fishpic": "regenbogenforelle.jpg"
 			},
 			"q156": {
 				"id": "156",
@@ -2185,7 +2185,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "bachforelle.png"
+				"fishpic": "bachforelle.jpg"
 			},
 			"q157": {
 				"id": "157",
@@ -2199,7 +2199,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "hasel.png"
+				"fishpic": "hasel.jpg"
 			},
 			"q158": {
 				"id": "158",
@@ -2213,7 +2213,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "moderlieschen.png"
+				"fishpic": "moderlieschen.jpg"
 			},
 			"q159": {
 				"id": "159",
@@ -2227,7 +2227,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "rotfeder.png"
+				"fishpic": "rotfeder.jpg"
 			},
 			"q160": {
 				"id": "160",
@@ -2241,7 +2241,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "rotauge.png"
+				"fishpic": "rotauge.jpg"
 			},
 			"q161": {
 				"id": "161",
@@ -2255,7 +2255,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "ukelei.png"
+				"fishpic": "ukelei.jpg"
 			},
 			"q162": {
 				"id": "162",
@@ -2269,7 +2269,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "nase.png"
+				"fishpic": "nase.jpg"
 			},
 			"q163": {
 				"id": "163",
@@ -2283,7 +2283,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "doebel.png"
+				"fishpic": "doebel.jpg"
 			},
 			"q164": {
 				"id": "164",
@@ -2297,7 +2297,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "guester.png"
+				"fishpic": "guester.jpg"
 			},
 			"q165": {
 				"id": "165",
@@ -2311,7 +2311,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "hecht.png"
+				"fishpic": "hecht.jpg"
 			},
 			"q166": {
 				"id": "166",
@@ -2325,7 +2325,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "bachsaibling.png"
+				"fishpic": "bachsaibling.jpg"
 			},
 			"q167": {
 				"id": "167",
@@ -4749,7 +4749,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "koecherfliegen_larve.png"
+				"fishpic": "koecherfliegen_larve.jpg"
 			},
 			"q341": {
 				"id": "341",
@@ -4791,7 +4791,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "eintagsfliege_larve.png"
+				"fishpic": "eintagsfliege_larve.jpg"
 			},
 			"q344": {
 				"id": "344",
@@ -4805,7 +4805,7 @@
 				"userAnswer": -1,
 				"marked": 0,
 				"active": 1,
-				"fishpic": "steinfliege_larve.png"
+				"fishpic": "steinfliege_larve.jpg"
 			},
 			"q345": {
 				"id": "345",
@@ -10177,8 +10177,8 @@
 	"fish_questions": {
 		"q1": {
 			"id": "1",
-			"image": "aal.png",
-			"imagehint": "aal_hinweis.png",
+			"image": "aal.jpg",
+			"imagehint": "aal_hinweis.jpg",
 			"solution": "Aal",
 			"answer2": "",
 			"answer3": "",
@@ -10194,8 +10194,8 @@
 		},
 		"q2": {
 			"id": "2",
-			"image": "aland.png",
-			"imagehint": "aland_hinweis.png",
+			"image": "aland.jpg",
+			"imagehint": "aland_hinweis.jpg",
 			"solution": "Aland",
 			"answer2": "",
 			"answer3": "",
@@ -10211,8 +10211,8 @@
 		},
 		"q3": {
 			"id": "3",
-			"image": "aesche.png",
-			"imagehint": "aesche_hinweis.png",
+			"image": "aesche.jpg",
+			"imagehint": "aesche_hinweis.jpg",
 			"solution": "Äsche",
 			"answer2": "",
 			"answer3": "",
@@ -10228,8 +10228,8 @@
 		},
 		"q4": {
 			"id": "4",
-			"image": "bachforelle.png",
-			"imagehint": "bachforelle_hinweis.png",
+			"image": "bachforelle.jpg",
+			"imagehint": "bachforelle_hinweis.jpg",
 			"solution": "Bachforelle",
 			"answer2": "",
 			"answer3": "",
@@ -10245,8 +10245,8 @@
 		},
 		"q5": {
 			"id": "5",
-			"image": "bachsaibling.png",
-			"imagehint": "bachsaibling_hinweis.png",
+			"image": "bachsaibling.jpg",
+			"imagehint": "bachsaibling_hinweis.jpg",
 			"solution": "Bachsaibling",
 			"answer2": "",
 			"answer3": "",
@@ -10262,8 +10262,8 @@
 		},
 		"q6": {
 			"id": "6",
-			"image": "bach_flussneunauge.png",
-			"imagehint": "bach_flussneunauge_hinweis.png",
+			"image": "bach_flussneunauge.jpg",
+			"imagehint": "bach_flussneunauge_hinweis.jpg",
 			"solution": "Bach-/Flussneunauge",
 			"answer2": "",
 			"answer3": "",
@@ -10279,8 +10279,8 @@
 		},
 		"q7": {
 			"id": "7",
-			"image": "barbe.png",
-			"imagehint": "barbe_hinweis.png",
+			"image": "barbe.jpg",
+			"imagehint": "barbe_hinweis.jpg",
 			"solution": "Barbe",
 			"answer2": "",
 			"answer3": "",
@@ -10296,8 +10296,8 @@
 		},
 		"q8": {
 			"id": "8",
-			"image": "bitterling.png",
-			"imagehint": "bitterling_hinweis.png",
+			"image": "bitterling.jpg",
+			"imagehint": "bitterling_hinweis.jpg",
 			"solution": "Bitterling",
 			"answer2": "",
 			"answer3": "",
@@ -10313,8 +10313,8 @@
 		},
 		"q9": {
 			"id": "9",
-			"image": "brachse.png",
-			"imagehint": "brachse_hinweis.png",
+			"image": "brachse.jpg",
+			"imagehint": "brachse_hinweis.jpg",
 			"solution": "Brachse",
 			"answer2": "",
 			"answer3": "",
@@ -10330,8 +10330,8 @@
 		},
 		"q10": {
 			"id": "10",
-			"image": "doebel.png",
-			"imagehint": "doebel_hinweis.png",
+			"image": "doebel.jpg",
+			"imagehint": "doebel_hinweis.jpg",
 			"solution": "Döbel",
 			"answer2": "",
 			"answer3": "",
@@ -10347,8 +10347,8 @@
 		},
 		"q11": {
 			"id": "11",
-			"image": "dreistachliger_stichling.png",
-			"imagehint": "dreichstachliger_stichling_hinweis.png",
+			"image": "dreistachliger_stichling.jpg",
+			"imagehint": "dreichstachliger_stichling_hinweis.jpg",
 			"solution": "Dreistachliger Stichling",
 			"answer2": "",
 			"answer3": "",
@@ -10364,8 +10364,8 @@
 		},
 		"q12": {
 			"id": "12",
-			"image": "elritze.png",
-			"imagehint": "elritze_hinweis.png",
+			"image": "elritze.jpg",
+			"imagehint": "elritze_hinweis.jpg",
 			"solution": "Elritze",
 			"answer2": "",
 			"answer3": "",
@@ -10381,8 +10381,8 @@
 		},
 		"q13": {
 			"id": "13",
-			"image": "felchen.png",
-			"imagehint": "felchen_hinweis.png",
+			"image": "felchen.jpg",
+			"imagehint": "felchen_hinweis.jpg",
 			"solution": "Felchen",
 			"answer2": "",
 			"answer3": "",
@@ -10398,8 +10398,8 @@
 		},
 		"q14": {
 			"id": "14",
-			"image": "flussbarsch.png",
-			"imagehint": "flussbarsch_hinweis.png",
+			"image": "flussbarsch.jpg",
+			"imagehint": "flussbarsch_hinweis.jpg",
 			"solution": "Flussbarsch",
 			"answer2": "",
 			"answer3": "",
@@ -10415,8 +10415,8 @@
 		},
 		"q15": {
 			"id": "15",
-			"image": "giebel.png",
-			"imagehint": "giebel_hinweis.png",
+			"image": "giebel.jpg",
+			"imagehint": "giebel_hinweis.jpg",
 			"solution": "Giebel",
 			"answer2": "",
 			"answer3": "",
@@ -10432,8 +10432,8 @@
 		},
 		"q16": {
 			"id": "16",
-			"image": "groppe.png",
-			"imagehint": "groppe_hinweis.png",
+			"image": "groppe.jpg",
+			"imagehint": "groppe_hinweis.jpg",
 			"solution": "Groppe",
 			"answer2": "",
 			"answer3": "",
@@ -10449,8 +10449,8 @@
 		},
 		"q17": {
 			"id": "17",
-			"image": "gruendling.png",
-			"imagehint": "gruendling_hinweis.png",
+			"image": "gruendling.jpg",
+			"imagehint": "gruendling_hinweis.jpg",
 			"solution": "Gründling",
 			"answer2": "",
 			"answer3": "",
@@ -10466,8 +10466,8 @@
 		},
 		"q18": {
 			"id": "18",
-			"image": "guester.png",
-			"imagehint": "guester_hinweis.png",
+			"image": "guester.jpg",
+			"imagehint": "guester_hinweis.jpg",
 			"solution": "Güster",
 			"answer2": "",
 			"answer3": "",
@@ -10483,8 +10483,8 @@
 		},
 		"q19": {
 			"id": "19",
-			"image": "hasel.png",
-			"imagehint": "hasel_hinweis.png",
+			"image": "hasel.jpg",
+			"imagehint": "hasel_hinweis.jpg",
 			"solution": "Hasel",
 			"answer2": "",
 			"answer3": "",
@@ -10500,8 +10500,8 @@
 		},
 		"q20": {
 			"id": "20",
-			"image": "hecht.png",
-			"imagehint": "hecht_hinweis.png",
+			"image": "hecht.jpg",
+			"imagehint": "hecht_hinweis.jpg",
 			"solution": "Hecht",
 			"answer2": "",
 			"answer3": "",
@@ -10517,8 +10517,8 @@
 		},
 		"q21": {
 			"id": "21",
-			"image": "huchen.png",
-			"imagehint": "huchen_hinweis.png",
+			"image": "huchen.jpg",
+			"imagehint": "huchen_hinweis.jpg",
 			"solution": "Huchen",
 			"answer2": "",
 			"answer3": "",
@@ -10534,8 +10534,8 @@
 		},
 		"q22": {
 			"id": "22",
-			"image": "karausche.png",
-			"imagehint": "karausche_hinweis.png",
+			"image": "karausche.jpg",
+			"imagehint": "karausche_hinweis.jpg",
 			"solution": "Karausche",
 			"answer2": "",
 			"answer3": "",
@@ -10551,8 +10551,8 @@
 		},
 		"q23": {
 			"id": "23",
-			"image": "karpfen.png",
-			"imagehint": "karpfen_hinweis.png",
+			"image": "karpfen.jpg",
+			"imagehint": "karpfen_hinweis.jpg",
 			"solution": "Karpfen",
 			"answer2": "",
 			"answer3": "",
@@ -10568,8 +10568,8 @@
 		},
 		"q24": {
 			"id": "24",
-			"image": "moderlieschen.png",
-			"imagehint": "moderlieschen_hinweis.png",
+			"image": "moderlieschen.jpg",
+			"imagehint": "moderlieschen_hinweis.jpg",
 			"solution": "Moderlieschen",
 			"answer2": "",
 			"answer3": "",
@@ -10585,8 +10585,8 @@
 		},
 		"q25": {
 			"id": "25",
-			"image": "nase.png",
-			"imagehint": "nase_hinweis.png",
+			"image": "nase.jpg",
+			"imagehint": "nase_hinweis.jpg",
 			"solution": "Nase",
 			"answer2": "",
 			"answer3": "",
@@ -10602,8 +10602,8 @@
 		},
 		"q26": {
 			"id": "26",
-			"image": "quappe.png",
-			"imagehint": "quappe_hinweis.png",
+			"image": "quappe.jpg",
+			"imagehint": "quappe_hinweis.jpg",
 			"solution": "Quappe",
 			"answer2": "",
 			"answer3": "",
@@ -10619,8 +10619,8 @@
 		},
 		"q27": {
 			"id": "27",
-			"image": "rapfen.png",
-			"imagehint": "rapfen_hinweis.png",
+			"image": "rapfen.jpg",
+			"imagehint": "rapfen_hinweis.jpg",
 			"solution": "Rapfen",
 			"answer2": "",
 			"answer3": "",
@@ -10636,8 +10636,8 @@
 		},
 		"q28": {
 			"id": "28",
-			"image": "regenbogenforelle.png",
-			"imagehint": "regenbogenforelle_hinweis.png",
+			"image": "regenbogenforelle.jpg",
+			"imagehint": "regenbogenforelle_hinweis.jpg",
 			"solution": "Regenbogenforelle",
 			"answer2": "",
 			"answer3": "",
@@ -10653,8 +10653,8 @@
 		},
 		"q29": {
 			"id": "29",
-			"image": "rotauge.png",
-			"imagehint": "rotauge_hinweis.png",
+			"image": "rotauge.jpg",
+			"imagehint": "rotauge_hinweis.jpg",
 			"solution": "Rotauge",
 			"answer2": "",
 			"answer3": "",
@@ -10670,8 +10670,8 @@
 		},
 		"q30": {
 			"id": "30",
-			"image": "rotfeder.png",
-			"imagehint": "rotfeder_hinweis.png",
+			"image": "rotfeder.jpg",
+			"imagehint": "rotfeder_hinweis.jpg",
 			"solution": "Rotfeder",
 			"answer2": "",
 			"answer3": "",
@@ -10687,8 +10687,8 @@
 		},
 		"q31": {
 			"id": "31",
-			"image": "schlammpeitzger.png",
-			"imagehint": "schlammpeitzger_hinweis.png",
+			"image": "schlammpeitzger.jpg",
+			"imagehint": "schlammpeitzger_hinweis.jpg",
 			"solution": "Schlammpeitzger",
 			"answer2": "",
 			"answer3": "",
@@ -10704,8 +10704,8 @@
 		},
 		"q32": {
 			"id": "32",
-			"image": "schleie.png",
-			"imagehint": "schleie_hinweis.png",
+			"image": "schleie.jpg",
+			"imagehint": "schleie_hinweis.jpg",
 			"solution": "Schleie",
 			"answer2": "",
 			"answer3": "",
@@ -10721,8 +10721,8 @@
 		},
 		"q33": {
 			"id": "33",
-			"image": "schmerle.png",
-			"imagehint": "schmerle_hinweis.png",
+			"image": "schmerle.jpg",
+			"imagehint": "schmerle_hinweis.jpg",
 			"solution": "Schmerle",
 			"answer2": "",
 			"answer3": "",
@@ -10738,8 +10738,8 @@
 		},
 		"q34": {
 			"id": "34",
-			"image": "schneider.png",
-			"imagehint": "schneider_hinweis.png",
+			"image": "schneider.jpg",
+			"imagehint": "schneider_hinweis.jpg",
 			"solution": "Schneider",
 			"answer2": "",
 			"answer3": "",
@@ -10755,8 +10755,8 @@
 		},
 		"q35": {
 			"id": "35",
-			"image": "seesaibling.png",
-			"imagehint": "seesaibling_hinweis.png",
+			"image": "seesaibling.jpg",
+			"imagehint": "seesaibling_hinweis.jpg",
 			"solution": "Seesaibling",
 			"answer2": "",
 			"answer3": "",
@@ -10772,8 +10772,8 @@
 		},
 		"q36": {
 			"id": "36",
-			"image": "steinbeisser.png",
-			"imagehint": "steinbeisser_hinweis.png",
+			"image": "steinbeisser.jpg",
+			"imagehint": "steinbeisser_hinweis.jpg",
 			"solution": "Steinbeisser",
 			"answer2": "",
 			"answer3": "",
@@ -10789,8 +10789,8 @@
 		},
 		"q37": {
 			"id": "37",
-			"image": "stoer.png",
-			"imagehint": "stoer_hinweis.png",
+			"image": "stoer.jpg",
+			"imagehint": "stoer_hinweis.jpg",
 			"solution": "Stör",
 			"answer2": "",
 			"answer3": "",
@@ -10806,8 +10806,8 @@
 		},
 		"q38": {
 			"id": "38",
-			"image": "ukelei.png",
-			"imagehint": "ukelei_hinweis.png",
+			"image": "ukelei.jpg",
+			"imagehint": "ukelei_hinweis.jpg",
 			"solution": "Ukelei",
 			"answer2": "",
 			"answer3": "",
@@ -10823,8 +10823,8 @@
 		},
 		"q39": {
 			"id": "39",
-			"image": "wels.png",
-			"imagehint": "wels_hinweis.png",
+			"image": "wels.jpg",
+			"imagehint": "wels_hinweis.jpg",
 			"solution": "Wels",
 			"answer2": "",
 			"answer3": "",
@@ -10840,8 +10840,8 @@
 		},
 		"q40": {
 			"id": "40",
-			"image": "zander.png",
-			"imagehint": "zander_hinweis.png",
+			"image": "zander.jpg",
+			"imagehint": "zander_hinweis.jpg",
 			"solution": "Zander",
 			"answer2": "",
 			"answer3": "",
