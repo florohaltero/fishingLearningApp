@@ -9,11 +9,9 @@ class QuestionsView extends MViewC<QuestionsController, QuestionsModel> {
     super.key,
   });
 
-
-
   @override
   Widget build(BuildContext context, QuestionsModel model) {
-    final questionsPerCategory =  model.questions;
+    final questionsPerCategory = model.questions;
 
     return Scaffold(
       appBar: AppBar(
@@ -22,25 +20,24 @@ class QuestionsView extends MViewC<QuestionsController, QuestionsModel> {
       body: questionsPerCategory.isEmpty
           ? const Center(child: CircularProgressIndicator())
           : ListView.separated(
-        padding: const EdgeInsets.all(10),
-        separatorBuilder: (context, index) =>
-        const SizedBox(height: 10),
-        itemCount: questionsPerCategory.length,
-        itemBuilder: (context, index) {
-          final item = questionsPerCategory[index];
-          return ListTile(
-            title: Text(item.id.toString()),
-            subtitle: Text(item.question),
-            hoverColor: Colors.amber,
-            selectedTileColor: Colors.red,
-            contentPadding: const EdgeInsets.all(10),
-            tileColor: Colors.green,
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(20),
+              padding: const EdgeInsets.all(10),
+              separatorBuilder: (context, index) => const SizedBox(height: 10),
+              itemCount: questionsPerCategory.length,
+              itemBuilder: (context, index) {
+                final item = questionsPerCategory[index];
+                return ListTile(
+                  title: Text(item.id.toString()),
+                  subtitle: Text(item.question),
+                  hoverColor: Colors.amber,
+                  selectedTileColor: Colors.red,
+                  contentPadding: const EdgeInsets.all(10),
+                  tileColor: Colors.blueAccent.withAlpha(100),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(20),
+                  ),
+                );
+              },
             ),
-          );
-        },
-      ),
     );
   }
 }

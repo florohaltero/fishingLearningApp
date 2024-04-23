@@ -3,7 +3,7 @@ import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'practice_model.freezed.dart';
 
-@Freezed(makeCollectionsUnmodifiable: false)
+@freezed
 class PracticeModel with _$PracticeModel {
   factory PracticeModel({
     required int categoryIndex,

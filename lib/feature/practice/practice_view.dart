@@ -12,9 +12,11 @@ class PracticeView extends MViewC<PracticeController, PracticeModel> {
 
   Color getAnswerColor(QuestionModel currentQuestion) {
     if (currentQuestion.answerCorrect != null) {
-      return currentQuestion.answerCorrect! ? Colors.greenAccent : Colors.red;
+      return currentQuestion.answerCorrect!
+          ? Colors.greenAccent.withAlpha(120)
+          : Colors.red.withAlpha(120);
     }
-    return Colors.blueAccent.withAlpha(30);
+    return Colors.blueAccent.withAlpha(120);
   }
 
   @override
@@ -63,29 +65,46 @@ class PracticeView extends MViewC<PracticeController, PracticeModel> {
                         ), // Spacing between title/image and answers
                         Wrap(
                           spacing: 8, // Horizontal spacing between options
-                          runSpacing: 4, // Vertical spacing between options
+                          runSpacing: 15, // Verical spacing between options
                           children: List.generate(answers.length, (index) {
                             final isChecked = currentQuestion!.userAnswers
                                 .contains(index + 1);
-                            return Row(
-                              children: [
-                                Checkbox(
-                                  value: isChecked,
-                                  onChanged: (newValue) {
-                                    controller.selectAnswer(
-                                      newValue: newValue ?? false,
-                                      index: index + 1,
-                                    );
-                                  },
-                                ),
-                                Expanded(
-                                  child: Text(
-                                    answers[index],
-                                    softWrap: true,
-                                    overflow: TextOverflow.visible,
+                            final answerIndex = index + 1;
+                            return InkWell(
+                              onTap: () {
+                                controller.selectAnswer(
+                                  newValue: !isChecked,
+                                  index: answerIndex,
+                                );
+                              },
+                              child: Container(
+                                decoration: BoxDecoration(
+                                  borderRadius: const BorderRadius.all(
+                                    Radius.circular(10),
                                   ),
+                                  border: Border.all(),
                                 ),
-                              ],
+                                child: Row(
+                                  children: [
+                                    Checkbox(
+                                      value: isChecked,
+                                      onChanged: (newValue) {
+                                        controller.selectAnswer(
+                                          newValue: newValue!,
+                                          index: answerIndex,
+                                        );
+                                      },
+                                    ),
+                                    Expanded(
+                                      child: Text(
+                                        answers[index],
+                                        softWrap: true,
+                                        overflow: TextOverflow.visible,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
                             );
                           }),
                         ),
@@ -94,13 +113,8 @@ class PracticeView extends MViewC<PracticeController, PracticeModel> {
                   ),
                 ),
                 Expanded(child: Container()),
-                Row(
-                  children: [
-                    LinearProgressIndicator(
-                      value:
-                          model.lastQuestions.length / model.questions.length,
-                    ),
-                  ],
+                LinearProgressIndicator(
+                  value: model.lastQuestions.length / model.questions.length,
                 ),
                 Padding(
                   padding: const EdgeInsets.all(20),
