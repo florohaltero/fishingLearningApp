@@ -114,8 +114,8 @@ class PracticeControllerImplementation extends PracticeController {
   bool checkAnswer() {
     final currentQuestion = model.lastQuestions[model.currentQuestionIndex];
 
-    final sorted = currentQuestion.userAnswers.toList();
-    sorted.sort((a, b) => a.compareTo(b));
+    final sorted = currentQuestion.userAnswers.toList()
+      ..sort((a, b) => a.compareTo(b));
 
     final solutionString = sorted.join();
 
@@ -137,11 +137,8 @@ class PracticeControllerImplementation extends PracticeController {
   @override
   String getCurrentFishPic() {
     final currentQuestion = model.lastQuestions[model.currentQuestionIndex];
-    var fishPic = currentQuestion.fishpic;
+    final fishPic = currentQuestion.fishpic;
 
-    fishPic = 'assets/fish/3_$fishPic';
-    print(fishPic);
-
-    return fishPic;
+    return 'assets/fish/3_$fishPic';
   }
 }

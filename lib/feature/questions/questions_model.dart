@@ -34,6 +34,7 @@ bool intToBool(int? value) {
   return value == 1;
 }
 
+// ignore: avoid_positional_boolean_parameters
 int boolToInt(bool value) {
   return value ? 1 : 0;
 }

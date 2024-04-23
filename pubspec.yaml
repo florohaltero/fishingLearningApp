@@ -43,5 +43,5 @@ flutter:
   assets:
     - assets/
     - assets/fish/
-    - assets/fishCards/
+    #- assets/fishcards/
     #- assets/test/

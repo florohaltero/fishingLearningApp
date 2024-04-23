@@ -138,9 +138,7 @@ class PracticeView extends MViewC<PracticeController, PracticeModel> {
                         child: const Icon(Icons.check),
                       ),
                       ElevatedButton(
-                        onPressed: () {
-                          print('Bookmark');
-                        },
+                        onPressed: () {},
                         child: const Icon(Icons.bookmark_border),
                       ),
                       ElevatedButton(
