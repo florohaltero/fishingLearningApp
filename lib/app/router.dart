@@ -47,8 +47,9 @@ final GoRouter _appRouter = GoRouter(
                 GoRoute(
                   path: ':id',
                   builder: (BuildContext context, GoRouterState state) {
-                    final controller = CounterControllerImplementation();
-                    return CounterView(controller: controller);
+                    final id = int.parse(state.pathParameters['id']!) + 1;
+                    final controller = PracticeControllerImplementation(id);
+                    return PracticeView(controller: controller);
                   },
                 ),
               ],

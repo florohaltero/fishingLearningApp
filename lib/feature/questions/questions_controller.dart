@@ -14,7 +14,7 @@ class QuestionsControllerImplementation extends QuestionsController {
 
   QuestionsControllerImplementation(int categoryId)
       : super(QuestionsModel(questions: [], tappedCategoryIndex: categoryId)) {
-    loadQuestions(1);
+    loadQuestions(categoryId);
   }
 
   @override
