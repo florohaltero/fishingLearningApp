@@ -11,7 +11,6 @@ abstract class QuestionsController extends MVController<QuestionsModel> {
 }
 
 class QuestionsControllerImplementation extends QuestionsController {
-
   QuestionsControllerImplementation(int categoryId)
       : super(QuestionsModel(questions: [], tappedCategoryIndex: categoryId)) {
     loadQuestions(categoryId);
@@ -21,10 +20,11 @@ class QuestionsControllerImplementation extends QuestionsController {
   Future<void> loadQuestions(int categoryIndex) async {
     final list = await _loadJson();
     final questions = QuestionsModel.fromJson(list).questions;
-    final questionsPerCategory = questions.where(
-            (element) => element.categoryid == categoryIndex,
-    ).toList();
-
+    final questionsPerCategory = questions
+        .where(
+          (element) => element.categoryid == categoryIndex,
+        )
+        .toList();
 
     model = model.copyWith(questions: questionsPerCategory);
   }
@@ -34,6 +34,4 @@ class QuestionsControllerImplementation extends QuestionsController {
     final data = json.decode(asset) as Map<String, dynamic>;
     return data;
   }
-
-
 }

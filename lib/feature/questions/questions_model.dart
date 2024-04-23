@@ -11,10 +11,9 @@ List<QuestionModel> mapToList(Map<String, dynamic> json) {
 
     for (final element in questionsPerCategory.entries) {
       questions.add(
-          QuestionModel.fromJson(element.value as Map<String, dynamic>),
+        QuestionModel.fromJson(element.value as Map<String, dynamic>),
       );
     }
-
   }
 
   return questions;
@@ -46,8 +45,7 @@ class QuestionsModel with _$QuestionsModel {
     required List<QuestionModel> questions,
 
     // @JsonKey(includeFromJson: false, defaultValue: -1)
-    @Default(-1)
-    int tappedCategoryIndex,
+    @Default(-1) int tappedCategoryIndex,
   }) = _QuestionsModel;
 
   factory QuestionsModel.fromJson(Map<String, dynamic> json) =>
